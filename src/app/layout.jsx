@@ -9,9 +9,9 @@ import { LanguageContext } from '@/src/i18n/LanguageContext';
 import { DEFAULT_LANG } from '@/src/i18n/languages';
 
 export const metadata = {
-  title: 'Budva Car Hire — Budva Riviera & Tivat Airport Pickup',
+  title: 'Budva Car Hire — Beach Capital of Montenegro',
   description:
-    'Rent a car in Budva from €13/day. Pick up at Tivat Airport (22 km), Budva Old Town, Bečići and 28+ locations. Free cancellation, full insurance, no hidden fees.',
+    'Montenegro\'s beach capital has 17 beaches and 33% of all tourism. Grab a car from €13/day and drive the riviera from Jaz to Sveti Stefan. Tivat Airport pickup, 22 km away.',
   metadataBase: new URL('https://www.budvacarhire.com'),
 };
 

@@ -95,8 +95,8 @@
   },
   "book": {
     "title": "Find Your Car",
-    "seoTitle": "Book a Car",
-    "seoDesc": "Search and book rental cars in Budva, Montenegro. Real-time availability, instant confirmation, free cancellation."
+    "seoTitle": "Book a Riviera Rental",
+    "seoDesc": "Lock in your beach wheels with instant confirmation. Compare riviera-ready cars, check live prices, and reserve a spot near Budva's 17 beaches."
   },
   "footer": {
     "brandDesc": "Car hire in Budva, Montenegro. Tivat Airport pickup, full insurance, and no hidden fees. Explore the Budva Riviera at your own pace.",
@@ -123,12 +123,12 @@
     "searchCars": "Search Cars"
   },
   "home": {
-    "seoDesc": "Rent a car in Budva from \u20ac13/day. Pick up at Tivat Airport (22 km), Budva Old Town, Be\u010dići and 28+ locations. Free cancellation, full insurance, no hidden fees. Book online in minutes."
+    "seoDesc": "Montenegro's beach capital has 17 beaches and 33% of all tourism. Grab a car from \u20ac13/day and drive the riviera from Jaz to Sveti Stefan. Tivat Airport pickup, 22 km away."
   },
   "about": {
     "title": "About Us",
     "subtitle": "Helping travellers explore the Budva Riviera and beyond.",
-    "seoDesc": "About Budva Car Hire. Helping travellers explore Budva, the Montenegrin Riviera, and beyond with reliable rental cars, Tivat Airport delivery, and local expertise.",
+    "seoDesc": "Riviera specialists who plan beach-to-mountain itineraries daily. We know which beach car parks fill first and which coast roads avoid the summer queues.",
     "heading1": "Budva Car Hire",
     "p1": "Budva Car Hire connects travellers with reliable, affordable rental cars in Budva and across the Montenegrin Riviera. Our mission is simple: making it easy for visitors to explore this stunning stretch of Adriatic coastline on their own terms.",
     "heading2": "Why Budva?",
@@ -162,67 +162,67 @@
   "kotor": {
     "title": "Kotor from Budva",
     "subtitle": "A 25 km drive to Montenegro's UNESCO jewel.",
-    "seoDesc": "Drive from Budva to Kotor in 30 minutes. Explore the UNESCO old town, Bay of Kotor, and nearby Perast with affordable car hire from Budva."
+    "seoDesc": "Head 25 km north along the scenic coastal road from beach resort to UNESCO fortress town. Kotor's medieval walls and bay views are half an hour from your sunbed."
   },
   "tivat-airport": {
     "title": "Tivat Airport Car Hire",
     "subtitle": "Collect your rental car at arrivals \u2014 22 km from Budva.",
-    "seoDesc": "Pick up your rental car at Tivat Airport (TIV), just 22 km from Budva. We meet you at arrivals with your vehicle ready. Drive to Budva in 30 minutes."
+    "seoDesc": "22 km and 30 minutes separate Tivat Airport from Budva's beaches. Your car waits at TIV arrivals — drive straight to the riviera without transfer hassle."
   },
   "budva": {
     "title": "Car Hire in Budva",
     "subtitle": "Montenegro's riviera capital \u2014 beaches, nightlife, and 2,500 years of history.",
-    "seoDesc": "Hire a car in Budva, Montenegro. Drive to Mogren Beach, Sveti Stefan, Jaz Beach, and the riviera's best destinations. Full insurance, no hidden fees."
+    "seoDesc": "Old Town walls, the Citadela fortress, Mogren cave beach, and Top Hill — Europe's cliffside superclub. All within 5 km of your Budva pickup point."
   },
   "perast": {
     "title": "Perast from Budva",
     "subtitle": "A baroque gem on the Bay of Kotor, 35 km from Budva.",
-    "seoDesc": "Drive from Budva to Perast in 40 minutes. See Our Lady of the Rocks island and stunning waterfront palaces with a rental car from Budva."
+    "seoDesc": "40 minutes via the bay road swaps riviera sand for baroque stone. Perast's 16 churches and Our Lady of the Rocks boat trip make a perfect Budva day out."
   },
   "podgorica": {
     "title": "Podgorica from Budva",
     "subtitle": "Montenegro's capital \u2014 65 km from the riviera.",
-    "seoDesc": "Drive from Budva to Podgorica in about an hour. Explore Lake Skadar, Ostrog Monastery, and Durmitor with a rental car from Budva."
+    "seoDesc": "65 km inland from the beach to the capital. Pass Lake Skadar en route — the Balkans' largest lake with 270 bird species. An hour from sand to cityscape."
   },
   "podgorica-airport": {
     "title": "Podgorica Airport Car Hire",
     "subtitle": "Montenegro's main international gateway, 65 km from Budva.",
-    "seoDesc": "Collect your rental car at Podgorica Airport (TGD), 65 km from Budva. We deliver your vehicle to arrivals. Drive to Budva in about an hour."
+    "seoDesc": "Budget flights land at TGD — an hour's drive puts you on Budva's beaches. Collect at Podgorica arrivals and take the Lake Skadar route to the coast."
   },
   "dubrovnik-airport": {
     "title": "Dubrovnik Airport Car Hire",
     "subtitle": "Fly into Croatia, drive to Budva.",
-    "seoDesc": "Rent a car at Dubrovnik Airport and drive to Budva, Montenegro. Cross the border in under two hours. Full insurance and green card included."
+    "seoDesc": "The coastal route from Dubrovnik Airport to Budva takes 2.5 hours with one border stop. Green card sorted — just enjoy the Adriatic views south."
   },
   "tivat": {
     "title": "Tivat from Budva",
     "subtitle": "Montenegro's marina town, 22 km from Budva.",
-    "seoDesc": "Drive from Budva to Tivat in 30 minutes. Explore Porto Montenegro marina, nearby beaches, and the Bay of Kotor with car hire from Budva."
+    "seoDesc": "Porto Montenegro's luxury marina is 30 minutes from Budva's party strip — superyachts, waterfront dining, and a different side of the coast entirely."
   },
   "montenegro": {
     "title": "Montenegro Driving Guide",
     "subtitle": "Everything you need to know about driving in Montenegro from Budva.",
-    "seoDesc": "Complete guide to driving in Montenegro from Budva. Road rules, speed limits, fuel prices, and the best scenic routes from coast to mountains."
+    "seoDesc": "Riviera road rules decoded: one-way systems in Budva Old Town, beach parking charges, and how to handle the tight coastal switchbacks south of Petrovac."
   },
   "border-crossing": {
     "title": "Balkans Border Crossing Guide",
     "subtitle": "Everything you need to know about driving your rental car across borders.",
-    "seoDesc": "Guide to crossing borders from Montenegro by rental car. Green card insurance, required documents, and tips for Croatia, Bosnia, Albania, and Serbia."
+    "seoDesc": "Dubrovnik day trip? Albania visa-free run? What paperwork you need at each border, typical wait times, and which crossings are quietest in summer."
   },
   "privacy": {
     "title": "Privacy Policy",
     "subtitle": "How we handle your information.",
-    "seoDesc": "Privacy policy for Budva Car Hire. How we collect, use, and protect your personal data when you search for rental cars."
+    "seoDesc": "Your data at Budva Car Hire: what we collect during riviera rental searches, how bookings are processed, and your rights under GDPR."
   },
   "terms": {
     "title": "Terms & Conditions",
     "subtitle": "Terms of use for our website.",
-    "seoDesc": "Terms and conditions for using Budva Car Hire. Learn about our booking process, rental partner, pricing, and liability."
+    "seoDesc": "Budva Car Hire terms: riviera pickup rules, cancellation policy, damage liability, and what happens if your flight to Tivat is delayed."
   },
   "cookie-policy": {
     "title": "Cookie Policy",
     "subtitle": "How we use cookies on this website.",
-    "seoDesc": "Cookie policy for Budva Car Hire. Learn what cookies we use, how the booking widget stores preferences, and how to manage them."
+    "seoDesc": "How budvacarhire.com uses cookies: booking widget data, analytics tracking, and a single toggle to control your preferences."
   },
   "featureCards": {
     "airportPickup": {
