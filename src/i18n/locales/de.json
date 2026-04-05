@@ -196,89 +196,89 @@
   },
   "featureCards": {
     "airportPickup": {
-      "title": "Flughafenabholung",
-      "desc": "Holen Sie Ihr Auto am Flughafen Tivat ab, nur 22 km von Budva. Kein Shuttle, kein Warten."
+      "title": "Abholung Flughafen Tivat",
+      "desc": "Der Flughafen Tivat liegt 22 km nördlich von Budva. Ihr Ansprechpartner erwartet Sie am Ausgang — eine Küstenstraße weiter parken Sie direkt an der Riviera."
     },
     "fullInsurance": {
       "title": "Vollversicherung",
-      "desc": "Umfassender Schutz mit Null-Selbstbeteiligung-Option. Fahren Sie völlig sorgenfrei."
+      "desc": "Kaskoversicherung und Diebstahlschutz inklusive. Auf Wunsch upgraden Sie auf Null-Selbstbeteiligung — ideal für enge Küstenstraßen und volle Strandparkplätze."
     },
     "support": {
       "title": "24/7 Support",
-      "desc": "Pannenhilfe und Kundenservice rund um die Uhr, jeden Tag."
+      "desc": "Licht am Parkplatz am Jaz Beach vergessen? Schlüssel am Mogren eingesperrt? Rufen Sie uns jederzeit an — wir kennen jeden Parkplatz dieser Riviera."
     },
     "noHiddenFees": {
       "title": "Keine versteckten Kosten",
-      "desc": "Tankpolitik, Kilometerstand, Steuern — alles ist im angezeigten Preis enthalten."
+      "desc": "Ein Preis bei der Buchung. Derselbe Preis bei Abholung. Mehrwertsteuer, Kilometerstand und Kraftstoffpolitik sind eingerechnet — kein Aufschlag am Schalter."
     },
     "freeCancellation": {
       "title": "Kostenlose Stornierung",
-      "desc": "Pläne ändern sich. Stornieren Sie bis 24 Stunden vor Abholung für eine volle Rückerstattung."
+      "desc": "Das Sommerwetter an der Riviera kann sich schnell ändern, und Festivaldaten verschieben sich. Kostenlos bis 24 Stunden vor Abholung stornieren und jeden Cent zurückbekommen."
     },
     "crossBorder": {
-      "title": "Grenzüberschreitend",
-      "desc": "Fahren Sie nach Croatia, Bosnia, Albania oder Kosovo. Grenzüberschreitendes Reisen erlaubt."
+      "title": "Grenzüberfahrten inklusive",
+      "desc": "Dubrovnik ist 2,5 Stunden nördlich über Debeli Brijeg. Die albanische Grenze ist von Budva näher als von jedem anderen Ort an der Riviera. Green Card wird bei Buchung vorbereitet."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Einen makellosen Octavia am Flughafen Tivat abgeholt und in 20 Minuten in Budva gewesen. Die ganze Riviera erkundet, von Jaz Beach bis Petrovac. Toller Service."
+      "text": "Am ersten Morgen fuhren wir von Jaz Beach nach Sveti Stefan — die Aussichten waren unglaublich. Mittagspause in Bečići, dann noch rechtzeitig zum Aussichtspunkt Sveti Stefan vor Sonnenuntergang. Das Auto ermöglichte uns, die Busse zu umgehen und unser eigenes Tempo zu fahren. Unbedingt wieder buchen."
     },
     "1": {
-      "text": "Wir haben in Budva gewohnt und einen Mietwagen für die Woche genommen. Sveti Stefan, Kotor und Lovćen besucht. Die Dokumente für Kroatien waren inklusive. Sehr empfehlenswert."
+      "text": "Zu dritt für fünf Nächte gemietet — Top Hill am einen Abend, Trocadero am nächsten, dann ein Ausflug nach Petrovac für einen ruhigeren Nachmittag. Kein Warten auf Taxis um 2 Uhr morgens. Der Agent am Flughafen Tivat war fix, das Auto makellos. Genau das, was wir brauchten."
     },
     "2": {
-      "text": "Der Jeep war perfekt für die Bergstraßen oberhalb von Budva. Wir sind jeden Tag zum Lovćen und nach Petrovac gefahren. Beste Mietwagen-Erfahrung unseres Urlaubs."
+      "text": "Wir bevorzugen ruhige Straßen und Olivenhaine statt Strandclubs. Das Auto brachte uns nach Petrovac, durch alte Dorfgassen oberhalb von Budva und gemächlich entlang der Küste. Die Altstadt am Abend war zauberhaft. Eine sehr gut organisierte Vermietung von Anfang bis Ende."
     }
   },
   "faqItems": {
     "0": {
-      "q": "Welche Dokumente werden benötigt?",
-      "a": "Führerschein in lateinischer Schrift, Reisepass und eine Kreditkarte, die auf den Namen des Hauptfahrers ausgestellt ist. Ein internationaler Führerschein wird benötigt, wenn der Führerschein nur nationale Gültigkeit hat. Dokumentkopien und Dokumente in elektronischer Form werden nicht anerkannt."
+      "q": "Welche Dokumente benötige ich?",
+      "a": "Sie benötigen einen gültigen Führerschein mit Angaben in lateinischer Schrift, Ihren Reisepass und eine physische Kreditkarte auf den Namen des Hauptfahrers. Ist Ihr Führerschein in nicht-lateinischer Schrift ausgestellt, bringen Sie bitte einen Internationalen Führerschein mit. Kopien und rein digitale Führerscheine werden bei der Abholung nicht akzeptiert."
     },
     "1": {
-      "q": "Sind Fahrten nach Kroatien oder Albanien erlaubt?",
-      "a": "Ja! Informieren Sie den Vermieter vorab über Ihre Reiseabsichten ins Ausland, damit dieser die benötigten Dokumente vorbereiten kann. Grenzüberschreitende Reisen in die benachbarten Länder sind erlaubt."
+      "q": "Kann ich nach Kroatien oder Albanien fahren?",
+      "a": "Ja. Grenzüberschreitende Fahrten sind nach Kroatien, Bosnien, Albanien, Kosovo und Serbien erlaubt. Der Tagesausflug nach Dubrovnik über den Übergang Debeli Brijeg ist einer der beliebtesten Trips von Budva aus — rund 2,5 Stunden Fahrt. Einfach die Länder bei der Buchung angeben, die Green Card wird vorbereitet."
     },
     "2": {
       "q": "Gibt es ein Mindestalter?",
-      "a": "Die Voraussetzungen variieren je nach Fahrzeug und werden bei den Suchergebnissen angezeigt."
+      "a": "Mindestalter und Fahrpraxis-Anforderungen variieren je nach Fahrzeugklasse und sind in den Fahrzeugdetails bei der Suche klar angegeben. Jüngere Fahrer können je nach Modell einen kleinen Tageszuschlag sehen."
     },
     "3": {
       "q": "Was ist im Preis enthalten?",
-      "a": "Eine Haftpflichtversicherung ist für alle Fahrzeuge im Preis enthalten. Viele Angebote beinhalten im Grundpreis auch eine Kaskoversicherung (CDW, engl. Collision Damage Waiver). Ebenso im Preis enthalten sind Mehrwertsteuer, Notfall- und Pannenausrüstung (Verbandkasten, Warndreieck, Sicherheitsweste) und eine transparente Kraftstoffrichtlinie. Vereinbarungen zur Kilometerlaufleistung variieren je nach Fahrzeug. Weitere Versicherungsoptionen sind gegen Aufpreis erhältlich."
+      "a": "Haftpflicht und Kaskoversicherung (CDW) sind bei den meisten Fahrzeugen Standard. Mehrwertsteuer, ein Pannenhilfe-Set und eine transparente Kraftstoffpolitik sind ebenfalls enthalten. Kilometerbedingungen variieren je nach Fahrzeug — bitte in der Fahrzeugliste prüfen. Null-Selbstbeteiligung und Extras wie Kindersitze können bei der Buchung hinzugefügt werden."
     },
     "4": {
-      "q": "Wie funktioniert die Abholung?",
-      "a": "Die Angebote für eine Abholung mit dem Mietfahrzeug variieren je nach Anbieter und Reiseziel. Geben Sie bei der Buchung den gewünschten Ort und Zeitpunkt an, um ein Treffen vor Ort zu arrangieren. Für genauere Vereinbarungen zum Treffpunkt kontaktieren Sie bitte das Vermietunternehmen direkt im Anschluss an Ihre Buchung."
+      "q": "Wie funktioniert die Abholung am Flughafen Tivat?",
+      "a": "Ihr Ansprechpartner erwartet Sie in der Ankunftshalle des Flughafens Tivat. Die 22 km lange Küstenstraße nach Budva dauert je nach Sommerverkehr rund 25 Minuten. Kein Shuttle, kein Herumwarten — das Auto steht direkt vor dem Terminal."
     },
     "5": {
-      "q": "Ist eine Rückgabe an einem anderen Ort möglich?",
-      "a": "Ja — Einwegmieten werden für 28 Ziele in Montenegro angeboten. Wählen Sie hierzu bei der Buchung einfach Ihre gewünschten Abhol- und Rückgabeorte aus."
+      "q": "Kann ich das Auto woanders zurückgeben?",
+      "a": "Einwegmieten sind in 28+ Städten und Gemeinden in Montenegro verfügbar. In Tivat abholen, in Budva zurückgeben oder umgekehrt — einfach verschiedene Standorte bei der Buchung auswählen."
     },
     "6": {
-      "q": "Kann ich meine Buchung stornieren?",
-      "a": "Eine Stornierung ist bis zu sieben Tage vor Beginn des Mietzeitraums kostenfrei möglich. Für Premiumfahrzeuge und Cabriolets ist die Stornierung bis zu 30 Tage vor Beginn des Mietzeitraums kostenfrei möglich. Für alle Stornierungen fällt eine Zahlungsgebühr von 6% des Mietpreises an."
+      "q": "Wie sind die Stornierungsbedingungen?",
+      "a": "Standardfahrzeuge: kostenlose Stornierung bis 7 Tage vor Abholung. Luxusautos und Cabriolets: kostenlose Stornierung bis 30 Tage im Voraus. Bei allen Stornierungen fällt eine Bearbeitungsgebühr von 6 % an."
     },
     "7": {
-      "q": "Ist eine Mietkaution erforderlich?",
-      "a": "Die Höhe der Kaution variiert je nach Fahrzeug — einige Fahrzeuge können auch kautionsfrei gemietet werden. Für die Kautionszahlung wird eine physische Kreditkarte im Namen des Hauptfahrers benötigt. Der Kautionsbetrag wird bei Rückgabe des unbeschädigten Fahrzeuges zurückgezahlt."
+      "q": "Muss ich eine Kaution hinterlegen?",
+      "a": "Das hängt vom Fahrzeug ab. Kautionen liegen für die meisten Riviera-Mietfahrzeuge typischerweise zwischen 100 € und 500 €. Bei einigen Fahrzeugen entfällt die Kaution ganz. Wo sie anfällt, wird sie von der physischen Kreditkarte des Hauptfahrers gebucht und nach schadensfreier Rückgabe freigegeben."
     },
     "8": {
-      "q": "Was passiert bei Überschreitung der Kilometerlaufleistung?",
-      "a": "Für Fahrzeuge mit beschränkter Kilometerlaufleistung fällt oberhalb der vereinbarten Grenze eine Zusatzgebühr pro gefahrenen Mehrkilometer an. Die Rate ist den Mietbedingungen für das Fahrzeug zu entnehmen."
+      "q": "Was passiert, wenn ich das Kilometerlimit überschreite?",
+      "a": "Fahrzeuge mit festgelegtem Kilometerlimit berechnen eine Gebühr pro Kilometer über dem Limit. Die genaue Überschreitungsrate steht in den Fahrzeugdetails vor der Buchungsbestätigung — keine Überraschungen."
     },
     "9": {
-      "q": "Gibt es versteckte Kosten?",
-      "a": "Der Endpreis für die Miete beinhaltet alle Steuern und Gebühren; versteckte Kosten sind nicht enthalten."
+      "q": "Ist der angezeigte Preis der tatsächliche Preis?",
+      "a": "Ja. Alle Steuern und Standardgebühren sind im Buchungspreis enthalten. Es kommt kein Kraftstoffzuschlag, keine Flughafengebühr und keine Schaltergebühr bei der Fahrzeugabholung hinzu."
     },
     "10": {
-      "q": "Wie hoch ist die Anzahlung?",
-      "a": "Für die Bestätigung Ihrer Buchung fällt eine Anzahlung von 15–20% an. Den offenen Restbetrag begleichen Sie mit dem Vermietunternehmen bei der Abholung vor Ort."
+      "q": "Wie viel zahle ich zur Buchungsbestätigung?",
+      "a": "Eine Anzahlung von rund 15 % bis 20 % der Gesamtsumme sichert die Reservierung. Der Rest wird direkt beim Mietanbieter bei Abholung des Fahrzeugs in Budva oder in Tivat beglichen."
     },
     "11": {
-      "q": "Können Fahrzeuge ohne Kreditkarte gemietet werden?",
-      "a": "Einige Fahrzeuge können auch ohne Kreditkarte gemietet werden — verfügbare Angebote sind in der Fahrzeugsuche entsprechend markiert."
+      "q": "Kann ich ohne Kreditkarte mieten?",
+      "a": "Bestimmte Fahrzeuge im Fuhrpark können mit einer Debitkarte oder ganz ohne Karte gemietet werden. Diese sind in den Suchergebnissen entsprechend gekennzeichnet, damit Sie gezielt filtern können."
     }
   },
   "destCards": {
