@@ -32,10 +32,7 @@ import {
   Menu,
   X,
   MessageCircle,
-  Award,
-  TrendingUp,
 } from 'lucide-react';
-import { useRef, useCallback } from 'react';
 import config from './siteConfig';
 import './App.css';
 
@@ -322,90 +319,32 @@ function TrustStrip() {
 }
 
 /* ─── STAT COUNTERS ────────────────────────────────────── */
-function useCountUp(end, duration = 1.8) {
-  const [count, setCount] = useState(0);
-  const ref = useRef(null);
-  const started = useRef(false);
-
-  const onView = useCallback((entry) => {
-    if (entry[0]?.isIntersecting && !started.current) {
-      started.current = true;
-      const start = performance.now();
-      const tick = (now) => {
-        const progress = Math.min((now - start) / (duration * 1000), 1);
-        const eased = 1 - Math.pow(1 - progress, 3);
-        setCount(Math.round(eased * end));
-        if (progress < 1) requestAnimationFrame(tick);
-      };
-      requestAnimationFrame(tick);
-    }
-  }, [end, duration]);
-
-  useEffect(() => {
-    const obs = new IntersectionObserver(onView, { threshold: 0.3 });
-    if (ref.current) obs.observe(ref.current);
-    return () => obs.disconnect();
-  }, [onView]);
-
-  return [count, ref];
-}
-
-function StatCounters() {
-  const { t } = useTranslation();
-  const [years, yearsRef] = useCountUp(18);
-  const [rentals, rentalsRef] = useCountUp(2000);
-  const [locations, locsRef] = useCountUp(30);
-
-  const stats = [
-    { value: `${years}+`, label: t('stats.years'), icon: <Award size={22} />, ref: yearsRef },
-    { value: rentals >= 2000 ? '2,000+' : rentals.toLocaleString(), label: t('stats.rentals'), icon: <TrendingUp size={22} />, ref: rentalsRef },
-    { value: '4.8/5', label: t('stats.rating'), icon: <Star size={22} fill="currentColor" />, ref: null },
-    { value: `${locations}+`, label: t('stats.locations'), icon: <MapPin size={22} />, ref: locsRef },
-  ];
-
+/* ─── BEACH GUIDE (BUDVA UNIQUE) ──────────────────────── */
+function BeachGuide() {
   return (
-    <section className="stats-section">
-      <div className="container">
-        <div className="stats-grid">
-          {stats.map((s, i) => (
-            <div
-              key={s.label}
-              className="stat-card reveal-item"
-              ref={s.ref}
-            >
-              <div className="stat-card__icon">{s.icon}</div>
-              <div className="stat-card__value">{s.value}</div>
-              <div className="stat-card__label">{s.label}</div>
-            </div>
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-}
-
-/* ─── HOW IT WORKS ─────────────────────────────────────── */
-function HowItWorks() {
-  const { t } = useTranslation();
-  const steps = [
-    { num: '01', title: t('howItWorks.step1Title'), desc: t('howItWorks.step1Desc') },
-    { num: '02', title: t('howItWorks.step2Title'), desc: t('howItWorks.step2Desc') },
-    { num: '03', title: t('howItWorks.step3Title'), desc: t('howItWorks.step3Desc') },
-  ];
-  return (
-    <section className="section section--gray" id="how-it-works">
+    <section className="section" id="beaches">
       <div className="container">
         <div className="section-header">
-          <span className="section-label">{t('howItWorks.label')}</span>
-          <h2 className="section-title">{t('howItWorks.title')}</h2>
-          <p className="section-subtitle">{t('howItWorks.subtitle')}</p>
+          <span className="section-label">Beach Guide</span>
+          <h2 className="section-title">Beaches Worth the Drive</h2>
+          <p className="section-subtitle">The Budva Riviera has 21 km of coastline. Here are the four beaches our customers visit most.</p>
         </div>
-        <div className="steps-grid">
-          {steps.map((step, i) => (
-            <div key={step.num} className="step-card reveal-item">
-              <div className="step-card__num">{step.num}</div>
-              <h3 className="step-card__title">{step.title}</h3>
-              <p className="step-card__desc">{step.desc}</p>
+        <div className="beach-grid">
+          {[
+            { title: 'Jaz Beach', desc: 'Open sand bay 3 km north of town. Free parking in the upper lot, paid near the water. Summer music festival venue.', distance: '3 km', time: '5 min drive' },
+            { title: 'Mogren Beach', desc: 'Twin coves connected by a tunnel carved through the cliff. Walking distance from the Old Town walls. Loungers and bar May\u2013Sept.', distance: '0.5 km', time: 'Walk' },
+            { title: 'Be\u010Di\u0107i Beach', desc: 'Long family-friendly sand strip with lifeguards in season. Gentle shallow entry, ideal for children. Ample paid parking.', distance: '2 km', time: '5 min' },
+            { title: 'Sveti Stefan', desc: 'The iconic fortified island village. Public beach on the mainland side. Best photographed from the viewpoint above the road.', distance: '6 km', time: '10 min' },
+          ].map((beach) => (
+            <div key={beach.title} className="beach-card reveal-item">
+              <div className="beach-card__body">
+                <h3 className="beach-card__title">{beach.title}</h3>
+                <p className="beach-card__desc">{beach.desc}</p>
+                <div className="beach-card__meta">
+                  <span><MapPin size={14} /> {beach.distance}</span>
+                  <span><Clock size={14} /> {beach.time}</span>
+                </div>
+              </div>
             </div>
           ))}
         </div>
@@ -689,9 +628,9 @@ function FAQ() {
         </div>
 
         <div className="faq-list">
-          {[0, 6].map(start => (
+          {[0, 5].map(start => (
             <div key={start} className="faq-column">
-              {[0, 1, 2, 3, 4, 5].map(offset => {
+              {Array.from({ length: start === 0 ? 5 : 4 }, (_, i) => i).map(offset => {
                 const i = start + offset;
                 const isOpen = open === i;
                 return (
@@ -844,13 +783,12 @@ export default function App() {
           <Hero />
           <TrustStrip />
         </div>
+        <Destinations />
         <Fleet />
         <Reviews />
         <TrustpilotBanner />
-        <HowItWorks />
-        <StatCounters />
         <BrandLogos />
-        <Destinations />
+        <BeachGuide />
         <Features />
         <FAQ />
         <CTABanner />
