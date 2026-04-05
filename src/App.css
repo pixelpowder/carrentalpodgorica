@@ -292,16 +292,18 @@
   left: 0;
   right: 0;
   z-index: 100;
-  background: transparent;
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
   border-bottom: none;
   height: 136px;
   display: flex;
   align-items: center;
-  transition: background 0.3s, box-shadow 0.3s;
+  transition: background 0.3s, box-shadow 0.3s, backdrop-filter 0.3s;
 }
 
 .nav--scrolled {
-  background: #fff;
+  background: rgba(255, 255, 255, 0.95);
   box-shadow: 0 1px 8px rgba(0,0,0,0.08);
 }
 
@@ -623,7 +625,7 @@
   content: '';
   position: absolute;
   inset: 0;
-  background: none;
+  background: rgba(0, 0, 0, 0.35);
   z-index: 2;
 }
 
