@@ -30,11 +30,11 @@
   },
   "trust": {
     "noHiddenFees": "No Hidden Fees",
-    "noHiddenFeesDesc": "Every cost upfront \u2014 zero surprises",
+    "noHiddenFeesDesc": "Checkout price includes everything — taxes, airport surcharges, the lot",
     "fullInsurance": "Full Insurance",
-    "fullInsuranceDesc": "Go zero-excess if you want total peace of mind",
-    "fastPickup": "10-Min Pickup",
-    "fastPickupDesc": "We walk out to meet you at arrivals"
+    "fullInsuranceDesc": "CDW included, plus a zero-excess upgrade for complete cover on riviera roads",
+    "fastPickup": "Riviera Ready",
+    "fastPickupDesc": "Collect at Tivat Airport or any Budva Riviera hotel — your choice"
   },
   "stats": {
     "years": "Years Experience",
