@@ -292,19 +292,21 @@
   left: 0;
   right: 0;
   z-index: 100;
-  background: rgba(255, 255, 255, 0.12);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border-bottom: none;
-  height: 136px;
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  height: 72px;
   display: flex;
   align-items: center;
-  transition: background 0.3s, box-shadow 0.3s, backdrop-filter 0.3s;
+  transition: background 0.35s ease, box-shadow 0.35s ease, border-color 0.35s ease, height 0.35s ease;
 }
 
 .nav--scrolled {
-  background: rgba(255, 255, 255, 0.95);
-  box-shadow: 0 1px 8px rgba(0,0,0,0.08);
+  background: rgba(255, 255, 255, 0.97);
+  box-shadow: 0 1px 12px rgba(0,0,0,0.06);
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+  height: 64px;
 }
 
 .nav__inner {
@@ -327,19 +329,19 @@
 }
 
 .nav__logo-icon {
-  width: 36px;
-  height: 36px;
+  width: 34px;
+  height: 34px;
   background: var(--blue);
-  border-radius: var(--radius-sm);
+  border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
   color: var(--white);
-  transition: opacity 0.2s;
+  transition: transform 0.2s, opacity 0.2s;
 }
 
 .nav__logo:hover .nav__logo-icon {
-  opacity: 0.8;
+  transform: scale(1.05);
 }
 
 .nav__logo-text {
@@ -380,27 +382,47 @@
 }
 
 .nav__link {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 500;
   color: rgba(255,255,255,0.85);
-  padding: 8px 14px;
+  padding: 6px 12px;
   border-radius: var(--radius-sm);
-  transition: color 0.15s, background 0.15s;
+  position: relative;
+  transition: color 0.2s;
   white-space: nowrap;
+}
+
+.nav__link::after {
+  content: '';
+  position: absolute;
+  bottom: 2px;
+  left: 12px;
+  right: 12px;
+  height: 2px;
+  background: var(--blue);
+  border-radius: 1px;
+  transform: scaleX(0);
+  transition: transform 0.2s ease;
 }
 
 .nav__link:hover {
   color: var(--white);
-  background: rgba(255,255,255,0.1);
+}
+
+.nav__link:hover::after {
+  transform: scaleX(1);
 }
 
 .nav--scrolled .nav__link {
-  color: var(--gray-700);
+  color: var(--gray-600);
 }
 
 .nav--scrolled .nav__link:hover {
   color: var(--gray-800);
-  background: var(--gray-100);
+}
+
+.nav--scrolled .nav__link:hover::after {
+  transform: scaleX(1);
 }
 
 .nav__cta {
@@ -541,30 +563,33 @@
   position: relative;
   display: flex;
   align-items: center;
-  gap: 6px;
-  color: rgba(255,255,255,0.85);
-  font-size: 13px;
+  gap: 5px;
+  color: rgba(255,255,255,0.8);
+  font-size: 12px;
   font-weight: 600;
-  padding: 7px 12px;
-  border-radius: var(--radius-sm);
-  border: 1px solid rgba(255,255,255,0.25);
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: 1px solid rgba(255,255,255,0.2);
   cursor: pointer;
   user-select: none;
-  transition: background 0.15s, color 0.3s, border-color 0.3s;
+  transition: background 0.2s, color 0.3s, border-color 0.3s;
   flex-shrink: 0;
+  letter-spacing: 0.02em;
 }
 
 .nav__lang:hover {
-  background: rgba(255,255,255,0.1);
+  background: rgba(255,255,255,0.12);
+  border-color: rgba(255,255,255,0.35);
 }
 
 .nav--scrolled .nav__lang {
-  color: var(--gray-700);
-  border-color: var(--gray-300);
+  color: var(--gray-600);
+  border-color: var(--gray-200);
 }
 
 .nav--scrolled .nav__lang:hover {
-  background: var(--gray-100);
+  background: var(--gray-50);
+  border-color: var(--gray-300);
 }
 
 .nav__lang .open {
@@ -759,7 +784,7 @@
 }
 .search-placeholder,
 .search-cigarette__placeholder {
-  background-color: #003e6e !important;
+  background-color: #333 !important;
 }
 .winter-package-banner--more,
 .link-dashed-M {
@@ -768,7 +793,7 @@
   border-bottom-color: #E85D4A !important;
 }
 .featuring-cool-cars__badge {
-  background-color: rgba(0, 98, 227, 0.15) !important;
+  background-color: rgba(232, 93, 74, 0.15) !important;
   color: #E85D4A !important;
 }
 /* Buttons / CTAs */
@@ -784,8 +809,8 @@
 [class*="btn--primary"]:hover,
 .search-form__submit:hover,
 .search-cigarette__submit:hover {
-  background-color: #004fc0 !important;
-  border-color: #004fc0 !important;
+  background-color: var(--blue-dark) !important;
+  border-color: var(--blue-dark) !important;
 }
 
 /* ─── HERO FORM WRAPPER ────────────────────────────────── */
