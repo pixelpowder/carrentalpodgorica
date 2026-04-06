@@ -3,7 +3,7 @@ import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 
 export default function TivatAirport() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("tivat-airport.title")} subtitle={t("tivat-airport.subtitle")} description={t("tivat-airport.seoDesc")} image="/img/tivat-airport.webp">
       <h2>{t('tivatAirportBody.h1')}</h2>
@@ -13,7 +13,7 @@ export default function TivatAirport() {
       <img src="/img/tivat-airport.webp" alt="Tivat Airport terminal" loading="lazy" />
 
       <h2>{t('tivatAirportBody.whyTitle')}</h2>
-      <p>{t('tivatAirportBody.whyText')}</p>
+      <p>{t('tivatAirportBody.whyText')} The drive to <a href={localePath('/budva')}>Budva's Old Town and beaches</a> takes around 25 minutes.</p>
       <p>{t('tivatAirportBody.meetText')}</p>
 
       <h2>{t('tivatAirportBody.distancesTitle')}</h2>

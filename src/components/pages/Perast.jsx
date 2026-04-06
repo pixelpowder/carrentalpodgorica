@@ -2,7 +2,7 @@
 import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 export default function Perast() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("perast.title")} subtitle={t("perast.subtitle")} description={t("perast.seoDesc")} image="/img/kotor-nearby.webp">
       <h2>{t('perastBody.h1')}</h2>
@@ -21,7 +21,7 @@ export default function Perast() {
       <p>{t('perastBody.historicText')}</p>
 
       <h3>{t('perastBody.monasteryTitle')}</h3>
-      <p>{t('perastBody.monasteryText')}</p>
+      <p>{t('perastBody.monasteryText')} Continue your <a href={localePath('/montenegro')}>Montenegro road trip</a> along the bay road.</p>
     </ContentPage>
   );
 }

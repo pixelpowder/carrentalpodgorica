@@ -3,7 +3,7 @@ import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 
 export default function DubrovnikAirport() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage
       title={t("dubrovnik-airport.title")}
@@ -23,7 +23,7 @@ export default function DubrovnikAirport() {
       <p>{t('dubrovnikAirportBody.gettingText2')}</p>
 
       <h2>{t('dubrovnikAirportBody.borderTitle')}</h2>
-      <p>{t('dubrovnikAirportBody.borderText')}</p>
+      <p>{t('dubrovnikAirportBody.borderText')} Check our <a href={localePath('/border-crossing-guide')}>rental car border crossing checklist</a> before you go.</p>
 
       <h2>{t('dubrovnikAirportBody.facilitiesTitle')}</h2>
       <p>{t('dubrovnikAirportBody.facilitiesText1')}</p>

@@ -2,7 +2,7 @@
 import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 export default function BorderCrossing() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("border-crossing.title")} subtitle={t("border-crossing.subtitle")} description={t("border-crossing.seoDesc")} image="/img/belgrade-cityscape.webp">
       <h2>{t('borderCrossingBody.h1')}</h2>
@@ -33,7 +33,7 @@ export default function BorderCrossing() {
       <h3>{t('borderCrossingBody.croatiaTitle')}</h3>
       <p>{t('borderCrossingBody.croatiaText')}</p>
       <p>{t('borderCrossingBody.croatiaTip')}</p>
-      <p>{t('borderCrossingBody.croatiaFerry')}</p>
+      <p>{t('borderCrossingBody.croatiaFerry')} <a href={localePath('/dubrovnik-airport')}>Dubrovnik Airport</a> is the most popular starting point for this route.</p>
 
       <h3>{t('borderCrossingBody.albaniaTitle')}</h3>
       <p>{t('borderCrossingBody.albaniaText')}</p>
