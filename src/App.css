@@ -643,7 +643,7 @@
   content: '';
   position: absolute;
   inset: 0;
-  background: linear-gradient(to bottom, rgba(0,0,0,0.45) 0%, rgba(0,0,0,0.65) 100%);
+  background: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.7) 100%);
   z-index: 2;
 }
 
@@ -722,6 +722,7 @@
   text-overflow: ellipsis;
 }
 
+/* Hero badges hidden — Sixt minimal look */
 .hero__badges {
   display: none;
 }
@@ -748,20 +749,24 @@
 .search-cigarette__wrap {
   background-color: #1a1a1a !important;
 }
+
 .search-placeholder,
 .search-cigarette__placeholder {
   background-color: #333 !important;
 }
+
 .winter-package-banner--more,
 .link-dashed-M {
   color: #ff5f00 !important;
   border-color: #ff5f00 !important;
   border-bottom-color: #ff5f00 !important;
 }
+
 .featuring-cool-cars__badge {
   background-color: rgba(255, 95, 0, 0.15) !important;
   color: #ff5f00 !important;
 }
+
 .btn-primary,
 .search-form__submit,
 .search-cigarette__submit,
@@ -770,6 +775,7 @@
   background-color: #ff5f00 !important;
   border-color: #ff5f00 !important;
 }
+
 [class*="button--primary"]:hover,
 [class*="btn--primary"]:hover,
 .search-form__submit:hover,
@@ -992,17 +998,19 @@ select.booking-field__input {
   background: #e55500;
 }
 
-/* ─── TRUST STRIP ──────────────────────────────────────── */
+/* ─── TRUST STRIP (USP row below hero) ────────────────── */
 .trust-strip {
   background: #fff;
-  padding: 60px 0;
+  padding: 80px 0;
   position: relative;
   overflow: hidden;
   z-index: 0;
   border-bottom: 1px solid var(--gray-200);
 }
 
-.trust-strip::before { display: none; }
+.trust-strip::before {
+  display: none;
+}
 
 .trust-strip__inner {
   max-width: 1220px;
@@ -1010,7 +1018,7 @@ select.booking-field__input {
   padding: 0 24px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 40px;
+  gap: 48px;
   position: relative;
   z-index: 1;
 }
@@ -1022,7 +1030,7 @@ select.booking-field__input {
   padding: 0;
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 16px;
   text-align: center;
   align-items: center;
 }
@@ -1032,8 +1040,8 @@ select.booking-field__input {
 }
 
 .trust-item__icon {
-  width: 48px;
-  height: 48px;
+  width: 52px;
+  height: 52px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1044,18 +1052,18 @@ select.booking-field__input {
 
 .trust-item__text strong {
   display: block;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 700;
   color: #1a1a1a;
   line-height: 1.3;
-  margin-bottom: 4px;
+  margin-bottom: 6px;
 }
 
 .trust-item__text span {
   font-size: 14px;
   color: var(--gray-500);
   font-weight: 400;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 
 /* ─── SECTION SHARED ───────────────────────────────────── */
@@ -1293,15 +1301,10 @@ select.booking-field__input {
   gap: 32px;
 }
 
-.step-card,
-.feature-card,
-.faq-item {
-  background: #fff !important;
-  border: 1px solid var(--gray-200) !important;
-  box-shadow: none !important;
-}
-
 .step-card {
+  background: #fff;
+  border: 1px solid var(--gray-200);
+  box-shadow: none;
   text-align: center;
   padding: 40px 32px;
   border-radius: 16px;
@@ -1334,12 +1337,12 @@ select.booking-field__input {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 220px);
-  gap: 16px;
+  gap: 20px;
 }
 
 .dest-card {
   position: relative;
-  border-radius: 16px;
+  border-radius: 20px;
   overflow: hidden;
   display: block;
   text-decoration: none;
@@ -1362,8 +1365,8 @@ select.booking-field__input {
 .dest-card__overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(to top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0) 60%);
-  padding: 20px;
+  background: linear-gradient(to top, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0) 60%);
+  padding: 24px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -1626,14 +1629,17 @@ select.booking-field__input {
 }
 
 .feature-card {
+  background: #fff;
+  border: 1px solid var(--gray-200);
+  box-shadow: none;
   border-radius: 16px;
   padding: 36px 28px;
   transition: box-shadow 0.2s, border-color 0.2s;
 }
 
 .feature-card:hover {
-  box-shadow: 0 8px 32px rgba(0,0,0,0.06) !important;
-  border-color: #ff5f00 !important;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.06);
+  border-color: #ff5f00;
 }
 
 .feature-card__icon {
@@ -1670,9 +1676,10 @@ select.booking-field__input {
 
 .review-card {
   background: #fff;
-  border: 1px solid var(--gray-200);
+  border: none;
   border-radius: 16px;
   padding: 36px 28px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.06);
 }
 
 .review-card__stars {
@@ -1790,36 +1797,45 @@ select.booking-field__input {
   color: var(--gray-400);
 }
 
-/* ─── FAQ ──────────────────────────────────────────────── */
+/* ─── FAQ — Ultra-minimal Sixt style ──────────────────── */
 .faq-list {
   max-width: 100%;
   margin: 0 auto;
   display: flex;
-  gap: 16px;
+  gap: 24px;
 }
 
 .faq-column {
   flex: 1;
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 0;
 }
 
 .faq-item {
-  border-radius: 12px;
+  background: transparent;
+  border: none;
+  border-top: 1px solid var(--gray-200);
+  border-radius: 0;
   overflow: hidden;
-  transition: border-color 0.15s;
+  transition: none;
+  box-shadow: none;
+}
+
+.faq-item:last-child {
+  border-bottom: 1px solid var(--gray-200);
 }
 
 .faq-item--open {
-  border-color: #ff5f00 !important;
+  background: transparent;
+  border-color: var(--gray-200);
 }
 
 .faq-question {
   width: 100%;
   background: none;
   border: none;
-  padding: 18px 20px;
+  padding: 22px 4px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -1830,11 +1846,12 @@ select.booking-field__input {
   font-weight: 600;
   color: #1a1a1a;
   text-align: left;
-  transition: background 0.1s;
+  transition: color 0.15s;
 }
 
 .faq-question:hover {
-  background: #fafafa;
+  color: #ff5f00;
+  background: transparent;
 }
 
 .faq-chevron {
@@ -1848,7 +1865,7 @@ select.booking-field__input {
 }
 
 .faq-answer {
-  padding: 0 20px 18px;
+  padding: 0 4px 22px;
   font-size: 14px;
   color: var(--gray-600);
   line-height: 1.7;
@@ -1857,7 +1874,7 @@ select.booking-field__input {
 /* ─── CTA BANNER ───────────────────────────────────────── */
 .cta-banner {
   background: #1a1a1a;
-  padding: 80px 24px;
+  padding: 100px 24px;
   text-align: center;
 }
 
@@ -2098,7 +2115,7 @@ select.booking-field__input {
 }
 
 .footer__link:hover {
-  color: #fff;
+  color: #ff5f00;
 }
 
 .footer__bottom {
@@ -2325,7 +2342,7 @@ select.booking-field__input {
 
   /* Trust strip */
   .trust-strip {
-    padding: 40px 0;
+    padding: 48px 0;
   }
 
   .trust-strip__inner {
@@ -2351,7 +2368,7 @@ select.booking-field__input {
   }
 
   .section {
-    padding: 48px 0;
+    padding: 56px 0;
   }
 
   .section-title {
@@ -2383,6 +2400,7 @@ select.booking-field__input {
 
   .faq-list {
     flex-direction: column;
+    gap: 0;
   }
 
   .faq-item:nth-child(n+4) {
@@ -2397,11 +2415,12 @@ select.booking-field__input {
   .destinations-grid {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: auto;
-    gap: 8px;
+    gap: 10px;
   }
 
   .dest-card {
     height: 160px;
+    border-radius: 16px;
   }
 
   .fleet-grid {
@@ -2415,7 +2434,7 @@ select.booking-field__input {
   }
 
   .cta-banner {
-    padding: 48px 16px;
+    padding: 56px 16px;
   }
 
   .footer {
