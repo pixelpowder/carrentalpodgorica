@@ -118,14 +118,14 @@ const locationSelectStyles = {
     margin: '0',
     padding: '0',
     fontSize: '15px',
-    fontWeight: '500',
-    color: 'rgb(61,20,16)',
+    fontWeight: '600',
+    color: '#1a1a1a',
   }),
   singleValue: (base) => ({
     ...base,
     fontSize: '15px',
-    fontWeight: '500',
-    color: 'rgb(61,20,16)',
+    fontWeight: '600',
+    color: '#1a1a1a',
     margin: '0',
   }),
   placeholder: (base) => ({
@@ -138,13 +138,13 @@ const locationSelectStyles = {
   dropdownIndicator: (base) => ({
     ...base,
     padding: '0',
-    color: 'rgb(232,93,74)',
+    color: '#ff5f00',
   }),
   menu: (base) => ({
     ...base,
     zIndex: 9999,
-    borderRadius: '10px',
-    boxShadow: '0 8px 32px rgba(0,0,0,0.18)',
+    borderRadius: '12px',
+    boxShadow: '0 12px 40px rgba(0,0,0,0.15)',
     marginTop: '6px',
     overflow: 'hidden',
   }),
@@ -161,8 +161,8 @@ const locationSelectStyles = {
     ...base,
     fontSize: '14px',
     fontWeight: state.isSelected ? '600' : '400',
-    color: state.isSelected ? 'rgb(232,93,74)' : 'rgb(61,20,16)',
-    background: state.isSelected ? 'rgba(232,93,74,0.08)' : state.isFocused ? 'rgba(232,93,74,0.05)' : 'transparent',
+    color: state.isSelected ? '#ff5f00' : '#1a1a1a',
+    background: state.isSelected ? 'rgba(255,95,0,0.08)' : state.isFocused ? 'rgba(255,95,0,0.04)' : 'transparent',
     borderRadius: '6px',
     cursor: 'pointer',
     padding: '10px 12px',
@@ -238,12 +238,6 @@ function Hero() {
         <div className="hero-fade-in">
           <div className="hero__form-wrapper">
           <h1 className="hero__headline">{t('hero.headline')}</h1>
-          <div className="hero__badges">
-            <span className="hero__badge"><CheckCircle size={14} /> {t('hero.badges.freeCancellation')}</span>
-            <span className="hero__badge"><ShieldCheck size={14} /> {t('hero.badges.fullInsurance')}</span>
-            <span className="hero__badge"><Clock size={14} /> {t('hero.badges.airportPickup')}</span>
-            <span className="hero__badge hero__badge--accent"><Star size={14} fill="currentColor" /> {t('hero.badges.trustpilot')}</span>
-          </div>
 
           <div className="booking-card">
             <div className="booking-card__fields">
