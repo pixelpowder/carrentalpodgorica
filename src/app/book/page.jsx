@@ -4,7 +4,7 @@ import BookPage from '@/src/BookPage';
 
 export async function generateMetadata() {
   return {
-    title: t('en', 'book.seoTitle') + ' | Budva Car Hire',
+    title: t('en', 'book.seoTitle') + ' | Podgorica Car Rental',
     description: t('en', 'book.seoDesc'),
     alternates: buildAlternates('book'),
   };

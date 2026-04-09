@@ -9,10 +9,10 @@ import { LanguageContext } from '@/src/i18n/LanguageContext';
 import { DEFAULT_LANG } from '@/src/i18n/languages';
 
 export const metadata = {
-  title: 'Budva Car Hire — Beach Capital of Montenegro',
+  title: "Podgorica Car Rental — Montenegro's Capital",
   description:
-    'Montenegro\'s beach capital has 17 beaches and 33% of all tourism. Grab a car from €13/day and drive the riviera from Jaz to Sveti Stefan. Tivat Airport pickup, 22 km away.',
-  metadataBase: new URL('https://www.budvacarhire.com'),
+    'Rent a car at Podgorica Airport (TGD) from \u20AC20/day. Gateway to Durmitor, Lake Skadar, and the Adriatic coast. Full insurance, free cancellation, 24/7 support.',
+  metadataBase: new URL('https://www.carrentalpodgorica.com'),
 };
 
 export default function RootLayout({ children }) {
@@ -26,24 +26,23 @@ export default function RootLayout({ children }) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "AutoRental",
-            "name": "Budva Car Hire",
-            "url": "https://www.budvacarhire.com",
-            "description": "Rent a car in Budva from trusted local providers with free cancellation, full insurance, and Tivat Airport pickup included with every booking.",
-            "email": "info@budvacarhire.com",
-            "image": "https://www.budvacarhire.com/img/schema-car.jpg",
+            "name": "Podgorica Car Rental",
+            "url": "https://www.carrentalpodgorica.com",
+            "description": "Rent a car in Podgorica from trusted local providers with free cancellation, full insurance, and Podgorica Airport pickup included with every booking.",
+            "email": "info@carrentalpodgorica.com",
+            "image": "https://www.carrentalpodgorica.com/img/schema-car.jpg",
             "address": {
               "@type": "PostalAddress",
-              "streetAddress": "Tabacina BB",
-              "addressLocality": "Budva",
-              "postalCode": "85310",
+              "addressLocality": "Podgorica",
+              "postalCode": "81000",
               "addressCountry": "ME"
             },
             "areaServed": [
+              { "@type": "City", "name": "Podgorica" },
+              { "@type": "City", "name": "Cetinje" },
               { "@type": "City", "name": "Budva" },
-              { "@type": "City", "name": "Tivat" },
               { "@type": "City", "name": "Kotor" },
-              { "@type": "City", "name": "Sveti Stefan" },
-              { "@type": "City", "name": "Petrovac" }
+              { "@type": "City", "name": "Nik\u0161i\u0107" }
             ],
             "priceRange": "€25–€120",
             "currenciesAccepted": "EUR",
