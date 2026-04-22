@@ -56,33 +56,78 @@ const cardLinkStyle = {
 };
 
 const articles = [
-  { key: 'oldtown', image: '/img/blog-budva-old-town-walking.webp', href: '/blog/budva-old-town-walking' },
-  { key: 'stefan', image: '/img/blog-sveti-stefan-viewpoints.webp', href: '/blog/sveti-stefan-viewpoints' },
-  { key: 'beaches', image: '/img/blog-budva-riviera-beach-hop.webp', href: '/blog/budva-riviera-beach-hop' },
-  { key: 'skadar', image: '/img/blog-budva-to-skadar-day.webp', href: '/blog/budva-to-skadar-day' },
-  { key: 'nightlife', image: '/img/blog-budva-nightlife-guide.webp', href: '/blog/budva-nightlife-guide' },
-  { key: 'gastro', image: '/img/blog-budva-gastro-scene.webp', href: '/blog/budva-gastro-scene' },
-  { key: 'petrovac', image: '/img/blog-petrovac-to-buljarica.webp', href: '/blog/petrovac-to-buljarica' },
-  { key: 'rainy', image: '/img/blog-budva-rainy-day.webp', href: '/blog/budva-rainy-day' },
-  { key: 'sunrides', image: '/img/blog-budva-sunrise-sunset.webp', href: '/blog/budva-sunrise-sunset' },
+  {
+    href: '/blog/stara-varos-podgorica-ottoman-quarter',
+    image: '/img/blog-stara-varos-podgorica-ottoman-quarter.webp',
+    title: 'Stara Varoš — Podgorica\'s Ottoman Quarter',
+    excerpt: 'The clock tower, the Osmanagić mosque, and the quiet low-rise streets that survived two World Wars when the rest of the city did not.',
+  },
+  {
+    href: '/blog/gorica-hill-walk',
+    image: '/img/blog-gorica-hill-walk.webp',
+    title: 'Gorica Hill — Podgorica\'s Forest in the City',
+    excerpt: 'The wooded hill the capital takes its name from. Trails, the WWII partisan memorial, and a 360° view of the Zeta plain.',
+  },
+  {
+    href: '/blog/podgorica-wineries-plantaze',
+    image: '/img/blog-podgorica-wineries-plantaze.webp',
+    title: 'Plantaže Wineries — Šipčanik Cellar and the Crmnica Road',
+    excerpt: 'Europe\'s largest single vineyard sits on Podgorica\'s doorstep. Tour the former underground aircraft hangar turned wine cellar, then drive south to Crmnica\'s family producers.',
+  },
+  {
+    href: '/blog/niksic-beer-lake-loop',
+    image: '/img/blog-niksic-beer-lake-loop.webp',
+    title: 'Nikšić, Krupac Lake and Ostrog — a Day Loop',
+    excerpt: 'Montenegro\'s second city, the brewery behind Nikšićko pivo, a swim at Krupac Lake, and a late-afternoon climb to Ostrog on the way back.',
+  },
+  {
+    href: '/blog/podgorica-rijeka-crnojevica-drive',
+    image: '/img/blog-podgorica-rijeka-crnojevica-drive.webp',
+    title: 'Rijeka Crnojevića and the Pavlova Strana Horseshoe Bend',
+    excerpt: 'The famous hairpin river viewpoint above Lake Skadar, the stone bridge in the village below, and the old royal capital road from Podgorica.',
+  },
+  {
+    href: '/blog/tuzi-albanian-border-short-hop',
+    image: '/img/blog-tuzi-albanian-border-short-hop.webp',
+    title: 'Tuzi — The Albanian Border Town South of Podgorica',
+    excerpt: 'Fifteen kilometres from the capital and a different world: Malësia mountains on the horizon, Albanian bakeries in the high street, and a short hop to Hani i Hotit crossing.',
+  },
+  {
+    href: '/blog/komovi-mountains-berane-road',
+    image: '/img/blog-komovi-mountains-berane-road.webp',
+    title: 'The Komovi Mountains — Montenegro\'s Wild East',
+    excerpt: 'The twin pyramids of Kom Kučki and Kom Vasojevićki rise above 2,400 m east of Podgorica. A long mountain-road day toward Berane and the katun summer pastures.',
+  },
+  {
+    href: '/blog/podgorica-millennium-bridge-new-city',
+    image: '/img/blog-podgorica-millennium-bridge-new-city.webp',
+    title: 'The Millennium Bridge and Podgorica\'s New City',
+    excerpt: 'The cable-stayed bridge over the Morača, the huge Hristovo Vaskrsenje cathedral, Trg Republike, and where to park when you want to walk all three.',
+  },
+  {
+    href: '/blog/podgorica-morning-coffee-spots',
+    image: '/img/blog-podgorica-morning-coffee-spots.webp',
+    title: 'Podgorica Morning Coffee — Cafés, Markets and Parking',
+    excerpt: 'A practical weekday-morning guide to the capital: where locals drink espresso, where to park without a ticket, and where to pick up burek before a road trip.',
+  },
 ];
 
 export default function BlogIndex() {
-  const { t, localePath } = useTranslation();
+  const { localePath } = useTranslation();
 
   return (
     <div className="content-page">
       <Nav />
-      <div className="content-hero" style={{ backgroundImage: 'url(/img/blog-budva-old-town-walking.webp)' }}>
+      <div className="content-hero" style={{ backgroundImage: 'url(/img/blog-podgorica-millennium-bridge-new-city.webp)' }}>
         <div className="content-hero__overlay" />
         <div className="content-hero__text">
           <nav className="breadcrumbs">
-            <a href={localePath('/')}>{t('common.home')}</a>
+            <a href={localePath('/')}>Home</a>
             <span className="breadcrumbs__sep">/</span>
-            <span>{t('blogIndex.breadcrumbBlog')}</span>
+            <span>Blog</span>
           </nav>
-          <h1 className="content-hero__title">{t('blogIndex.heroTitle')}</h1>
-          <p className="content-hero__subtitle">{t('blogIndex.heroSubtitle')}</p>
+          <h1 className="content-hero__title">Podgorica Driving Guides</h1>
+          <p className="content-hero__subtitle">Nine capital-city routes, neighbourhoods and day trips — written from the driver's seat, with real distances, parking notes, and what\u2019s actually worth stopping for.</p>
         </div>
       </div>
 
@@ -97,39 +142,33 @@ export default function BlogIndex() {
           gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
           gap: '28px',
         }}>
-          {articles.map((article) => {
-            const title = t(`blogIndex.card_${article.key}_title`);
-            const excerpt = t(`blogIndex.card_${article.key}_excerpt`);
-            return (
-              <a
-                key={article.href}
-                href={localePath(article.href)}
-                style={{ ...cardStyle, textDecoration: 'none', color: 'inherit' }}
-                onMouseEnter={(e) => {
-                  e.currentTarget.style.boxShadow = 'var(--shadow-md)';
-                  e.currentTarget.style.transform = 'translateY(-2px)';
-                }}
-                onMouseLeave={(e) => {
-                  e.currentTarget.style.boxShadow = 'var(--shadow-sm)';
-                  e.currentTarget.style.transform = 'translateY(0)';
-                }}
-              >
-                <img
-                  src={article.image}
-                  alt={title}
-                  style={cardImageStyle}
-                  loading="lazy"
-                />
-                <div style={cardBodyStyle}>
-                  <h2 style={cardTitleStyle}>{title}</h2>
-                  <p style={cardExcerptStyle}>{excerpt}</p>
-                  <span style={cardLinkStyle}>
-                    {t('blogIndex.readGuide')} &rarr;
-                  </span>
-                </div>
-              </a>
-            );
-          })}
+          {articles.map((article) => (
+            <a
+              key={article.href}
+              href={localePath(article.href)}
+              style={{ ...cardStyle, textDecoration: 'none', color: 'inherit' }}
+              onMouseEnter={(e) => {
+                e.currentTarget.style.boxShadow = 'var(--shadow-md)';
+                e.currentTarget.style.transform = 'translateY(-2px)';
+              }}
+              onMouseLeave={(e) => {
+                e.currentTarget.style.boxShadow = 'var(--shadow-sm)';
+                e.currentTarget.style.transform = 'translateY(0)';
+              }}
+            >
+              <img
+                src={article.image}
+                alt={article.title}
+                style={cardImageStyle}
+                loading="lazy"
+              />
+              <div style={cardBodyStyle}>
+                <h2 style={cardTitleStyle}>{article.title}</h2>
+                <p style={cardExcerptStyle}>{article.excerpt}</p>
+                <span style={cardLinkStyle}>Read guide &rarr;</span>
+              </div>
+            </a>
+          ))}
         </div>
       </div>
 
