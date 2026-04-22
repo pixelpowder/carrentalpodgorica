@@ -199,7 +199,7 @@ function LocationField({ value, onChange }) {
 function Hero() {
   const { t, localePath } = useTranslation();
   const router = useRouter();
-  const [pickup, setPickup] = useState('Budva');
+  const [pickup, setPickup] = useState('Podgorica');
   const [startDate, setStartDate] = useState(null);
   const [endDate, setEndDate] = useState(null);
   const [pickupTime, setPickupTime] = useState('10:00');
@@ -313,22 +313,22 @@ function TrustStrip() {
 }
 
 /* ─── STAT COUNTERS ────────────────────────────────────── */
-/* ─── BEACH GUIDE (BUDVA UNIQUE) ──────────────────────── */
+/* ─── DRIVE GUIDE (PODGORICA CAPITAL) ─────────────────── */
 function BeachGuide() {
   return (
     <section className="section" id="beaches">
       <div className="container">
         <div className="section-header">
-          <span className="section-label">Beach Guide</span>
-          <h2 className="section-title">Beaches Worth the Drive</h2>
-          <p className="section-subtitle">The Budva Riviera has 21 km of coastline. Here are the four beaches our customers visit most.</p>
+          <span className="section-label">Drive Guide</span>
+          <h2 className="section-title">Destinations Worth the Drive</h2>
+          <p className="section-subtitle">Podgorica sits at the centre of Montenegro. Four places within a short drive of the capital that show why a car unlocks the country.</p>
         </div>
         <div className="beach-grid">
           {[
-            { title: 'Jaz Beach', desc: 'Open sand bay 3 km north of town. Free parking in the upper lot, paid near the water. Summer music festival venue.', distance: '3 km', time: '5 min drive', image: '/img/jaz-beach.webp' },
-            { title: 'Mogren Beach', desc: 'Twin coves connected by a tunnel carved through the cliff. Walking distance from the Old Town walls. Loungers and bar May\u2013Sept.', distance: '0.5 km', time: 'Walk', image: '/img/budva-beach.webp' },
-            { title: 'Be\u010Di\u0107i Beach', desc: 'Long family-friendly sand strip with lifeguards in season. Gentle shallow entry, ideal for children. Ample paid parking.', distance: '2 km', time: '5 min', image: '/img/becici-beach.webp' },
-            { title: 'Sveti Stefan', desc: 'The iconic fortified island village. Public beach on the mainland side. Best photographed from the viewpoint above the road.', distance: '6 km', time: '10 min', image: '/img/sveti-stefan.webp' },
+            { title: 'Ostrog Monastery', desc: 'A 17th-century monastery built into a sheer cliff face 900 m above the Zeta valley — one of the most-visited pilgrimage sites in the Balkans.', distance: '50 km', time: '1 hr', image: '/img/blog-ostrog-monastery-drive.webp' },
+            { title: 'Lake Skadar', desc: 'The Balkans\u2019 largest lake, 15 minutes south of town. Pelicans, wineries at Crmnica, and the famous Pavlova Strana horseshoe-bend viewpoint.', distance: '30 km', time: '30 min', image: '/img/blog-podgorica-rijeka-crnojevica-drive.webp' },
+            { title: 'Plantaže Vineyards', desc: 'Europe\u2019s largest single vineyard, with the \u0160ip\u010Danik wine tunnel carved out of a former underground aircraft hangar.', distance: '15 km', time: '20 min', image: '/img/blog-podgorica-wineries-plantaze.webp' },
+            { title: 'Stara Varo\u0161', desc: 'Podgorica\u2019s old Ottoman quarter — the clock tower, the Osmanagi\u0107 mosque, and narrow lanes that survived both world wars.', distance: 'In town', time: 'Walk', image: '/img/blog-stara-varos-podgorica-ottoman-quarter.webp' },
           ].map((beach) => (
             <div key={beach.title} className="beach-card reveal-item">
               {beach.image && <img src={beach.image} alt={beach.title} className="beach-card__image" loading="lazy" />}
@@ -700,7 +700,7 @@ function StickyMobileCTA() {
       <a href={localePath("/book")} className="sticky-cta__btn">
         {t('common.bookNow')} <ArrowRight size={16} />
       </a>
-      <a href="https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20in%20Budva." target="_blank" rel="noopener noreferrer" className="sticky-cta__phone">
+      <a href="https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20in%20Podgorica." target="_blank" rel="noopener noreferrer" className="sticky-cta__phone">
         <MessageCircle size={18} />
       </a>
     </div>
@@ -711,7 +711,7 @@ function StickyMobileCTA() {
 function WhatsAppFab() {
   return (
     <a
-      href={`https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20in%20Budva.`}
+      href={`https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20in%20Podgorica.`}
       target="_blank"
       rel="noopener noreferrer"
       className="whatsapp-fab"
