@@ -609,6 +609,63 @@ function Locations() {
 }
 
 /* ─── FAQ ──────────────────────────────────────────────── */
+/* ─── BLOG CARDS ────────────────────────────────────────── */
+const homepageBlogPosts = [
+  {
+    href: '/blog/podgorica-wineries-plantaze',
+    image: '/img/blog-podgorica-wineries-plantaze.webp',
+    title: 'Plantaže Wineries — Šipčanik Cellar',
+    excerpt: "Europe's largest single vineyard sits on Podgorica's doorstep. Tour the former underground aircraft hangar turned wine cellar, then drive south to Crmnica.",
+  },
+  {
+    href: '/blog/gorica-hill-walk',
+    image: '/img/blog-gorica-hill-walk.webp',
+    title: 'Gorica Hill — Podgorica\'s Forest in the City',
+    excerpt: 'The wooded hill the capital takes its name from. Trails, the WWII partisan memorial, and a 360° view of the Zeta plain.',
+  },
+  {
+    href: '/blog/podgorica-rijeka-crnojevica-drive',
+    image: '/img/blog-podgorica-rijeka-crnojevica-drive.webp',
+    title: 'Rijeka Crnojevića and the Pavlova Strana Bend',
+    excerpt: "The famous hairpin river viewpoint above Lake Skadar, the stone bridge in the village below, and the old royal capital road from Podgorica.",
+  },
+];
+
+function BlogCards() {
+  const { localePath } = useTranslation();
+  return (
+    <section className="section section--gray" id="blog">
+      <div className="container">
+        <div className="section-header">
+          <span className="section-label">Blog</span>
+          <h2 className="section-title">Driving guides from Podgorica</h2>
+          <p className="section-subtitle">Practical route notes, city walks and day-trip itineraries, all within an hour or two of the capital.</p>
+        </div>
+        <div className="destinations-grid">
+          {homepageBlogPosts.map((post) => (
+            <a
+              key={post.href}
+              href={localePath(post.href)}
+              className="dest-card reveal-item"
+            >
+              <div className="dest-card__img" style={{ backgroundImage: `url(${post.image})` }} />
+              <div className="dest-card__overlay">
+                <h3 className="dest-card__name">{post.title}</h3>
+                <p className="dest-card__desc">{post.excerpt}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+        <div style={{ textAlign: 'center', marginTop: '32px' }}>
+          <a href={localePath('/blog')} style={{ color: 'var(--navy, #05203c)', fontWeight: 700, textDecoration: 'none' }}>
+            View all guides &rarr;
+          </a>
+        </div>
+      </div>
+    </section>
+  );
+}
+
 function FAQ() {
   const { t } = useTranslation();
   const [open, setOpen] = useState(null);
@@ -785,6 +842,7 @@ export default function App() {
         <BrandLogos />
         <BeachGuide />
         <Features />
+        <BlogCards />
         <FAQ />
         <CTABanner />
       </main>
