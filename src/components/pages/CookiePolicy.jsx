@@ -9,7 +9,7 @@ export default function CookiePolicy() {
       title={t("cookie-policy.title")}
       subtitle={t("cookie-policy.subtitle")}
       description={t("cookie-policy.seoDesc")}
-      image="/img/budva-beach.webp"
+      image="/img/podgorica-city.webp"
     >
       <p><strong>Last updated:</strong> April 2026</p>
 

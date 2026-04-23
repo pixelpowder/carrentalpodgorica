@@ -42,12 +42,12 @@ export default function ContentPage({ title, subtitle, image, description, child
           <div className="sidebar-card">
             <h3 className="sidebar-card__title">{t('sidebar.popularDest')}</h3>
             <ul className="sidebar-links">
-              <li><a href={localePath('/tivat-airport')}>Tivat Airport</a></li>
-              <li><a href={localePath('/kotor')}>Kotor</a></li>
-              <li><a href={localePath('/budva')}>Budva</a></li>
-              <li><a href={localePath('/perast')}>Perast</a></li>
-              <li><a href={localePath('/podgorica')}>Podgorica</a></li>
-              <li><a href={localePath('/dubrovnik-airport')}>Dubrovnik Airport</a></li>
+              <li><a href={localePath('/blog/podgorica-wineries-plantaze')}>Plantaže Wineries</a></li>
+              <li><a href={localePath('/blog/gorica-hill-walk')}>Gorica Hill</a></li>
+              <li><a href={localePath('/blog/podgorica-rijeka-crnojevica-drive')}>Rijeka Crnojevića</a></li>
+              <li><a href={localePath('/blog/stara-varos-podgorica-ottoman-quarter')}>Stara Varoš</a></li>
+              <li><a href={localePath('/blog/niksic-beer-lake-loop')}>Nikšić & Ostrog</a></li>
+              <li><a href={localePath('/blog/tuzi-albanian-border-short-hop')}>Tuzi Border</a></li>
               <li><a href={localePath('/border-crossing-guide')}>{t('footer.borderGuide')}</a></li>
             </ul>
           </div>

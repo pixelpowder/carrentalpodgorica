@@ -60,14 +60,14 @@ const siteConfig = {
   ],
 
   destinations: [
-    { name: "Podgorica Airport", slug: "podgorica-airport", tag: "Most Popular", desc: "Our main hub. We meet you at arrivals.", image: "/img/podgorica-airport.webp" },
-    { name: "Lake Skadar", slug: "lake-skadar", tag: "30 Minutes", desc: "The Balkans' largest lake and a national park.", image: "/img/lake-skadar.webp" },
-    { name: "Cetinje", slug: "cetinje", tag: "35 Minutes", desc: "Montenegro's old royal capital in the mountains.", image: "/img/cetinje-town.webp" },
-    { name: "Budva", slug: "budva", tag: "1 Hour", desc: "Riviera beaches and the old town walls.", image: "/img/budva-coast.webp" },
-    { name: "Kotor", slug: "kotor", tag: "1.5 Hours", desc: "UNESCO walled city on the Bay of Kotor.", image: "/img/kotor-bay.webp" },
-    { name: "Durmitor", slug: "durmitor", tag: "2.5 Hours", desc: "UNESCO national park — mountains, lakes, and canyons.", image: "/img/durmitor-mountains.webp" },
-    { name: "Ostrog Monastery", slug: "ostrog-monastery", tag: "45 Minutes", desc: "Cliff-carved monastery — Montenegro's most visited pilgrimage site.", image: "/img/ostrog-monastery.webp" },
-    { name: "Niksic", slug: "niksic", tag: "1 Hour", desc: "Montenegro's second city — gateway to the north.", image: "/img/niksic-town.webp" },
+    { name: "Plantaže Wineries", slug: "blog/podgorica-wineries-plantaze", tag: "15 min drive", desc: "Europe's largest single vineyard plus the Šipčanik wine tunnel carved from an old underground aircraft hangar.", image: "/img/blog-podgorica-wineries-plantaze.webp" },
+    { name: "Gorica Hill", slug: "blog/gorica-hill-walk", tag: "City centre", desc: "The wooded hill the capital takes its name from — trails, a WWII memorial, and a 360° view of the Zeta plain.", image: "/img/blog-gorica-hill-walk.webp" },
+    { name: "Rijeka Crnojevića", slug: "blog/podgorica-rijeka-crnojevica-drive", tag: "Pavlova Strana", desc: "Montenegro's most-photographed viewpoint — the Pavlova Strana horseshoe bend above Lake Skadar.", image: "/img/blog-podgorica-rijeka-crnojevica-drive.webp" },
+    { name: "Stara Varoš", slug: "blog/stara-varos-podgorica-ottoman-quarter", tag: "Old quarter", desc: "Podgorica's Ottoman-era quarter — the clock tower, the Osmanagić mosque, and the lanes that survived the wars.", image: "/img/blog-stara-varos-podgorica-ottoman-quarter.webp" },
+    { name: "Nikšić & Ostrog", slug: "blog/niksic-beer-lake-loop", tag: "Day loop", desc: "Montenegro's second city, the brewery behind Nikšićko pivo, a swim at Krupac, and Ostrog on the drive back.", image: "/img/blog-niksic-beer-lake-loop.webp" },
+    { name: "Komovi Mountains", slug: "blog/komovi-mountains-berane-road", tag: "Wild east", desc: "The twin pyramids of Kom Kučki and Kom Vasojevićki above 2,400 m — a long mountain-road day toward Berane.", image: "/img/blog-komovi-mountains-berane-road.webp" },
+    { name: "Millennium Bridge", slug: "blog/podgorica-millennium-bridge-new-city", tag: "New city", desc: "The cable-stayed bridge over the Morača, the cathedral of Hristovo Vaskrsenje, and where to park to see all three.", image: "/img/blog-podgorica-millennium-bridge-new-city.webp" },
+    { name: "Tuzi", slug: "blog/tuzi-albanian-border-short-hop", tag: "15 km south", desc: "Fifteen kilometres from the capital and a different Montenegro — Malësia mountains, Albanian bakeries, Hani i Hotit crossing.", image: "/img/blog-tuzi-albanian-border-short-hop.webp" },
   ],
 };
 

@@ -325,7 +325,7 @@ function BeachGuide() {
         </div>
         <div className="beach-grid">
           {[
-            { title: 'Ostrog Monastery', desc: 'A 17th-century monastery built into a sheer cliff face 900 m above the Zeta valley — one of the most-visited pilgrimage sites in the Balkans.', distance: '50 km', time: '1 hr', image: '/img/blog-ostrog-monastery-drive.webp' },
+            { title: 'Ostrog Monastery', desc: 'A 17th-century monastery built into a sheer cliff face 900 m above the Zeta valley — one of the most-visited pilgrimage sites in the Balkans.', distance: '50 km', time: '1 hr', image: '/img/blog-niksic-beer-lake-loop.webp' },
             { title: 'Lake Skadar', desc: 'The Balkans\u2019 largest lake, 15 minutes south of town. Pelicans, wineries at Crmnica, and the famous Pavlova Strana horseshoe-bend viewpoint.', distance: '30 km', time: '30 min', image: '/img/blog-podgorica-rijeka-crnojevica-drive.webp' },
             { title: 'Plantaže Vineyards', desc: 'Europe\u2019s largest single vineyard, with the \u0160ip\u010Danik wine tunnel carved out of a former underground aircraft hangar.', distance: '15 km', time: '20 min', image: '/img/blog-podgorica-wineries-plantaze.webp' },
             { title: 'Stara Varo\u0161', desc: 'Podgorica\u2019s old Ottoman quarter — the clock tower, the Osmanagi\u0107 mosque, and narrow lanes that survived both world wars.', distance: 'In town', time: 'Walk', image: '/img/blog-stara-varos-podgorica-ottoman-quarter.webp' },
