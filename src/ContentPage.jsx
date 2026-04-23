@@ -3,12 +3,12 @@ import { usePathname } from 'next/navigation';
 import Nav from './Nav';
 import Footer from './Footer';
 import useTranslation from './i18n/useTranslation';
+import config from './siteConfig';
 import './ContentPage.css';
 
 export default function ContentPage({ title, subtitle, image, description, children }) {
   const pathname = usePathname();
   const { t, localePath } = useTranslation();
-
   return (
     <div className="content-page">
       <Nav />
@@ -25,9 +25,7 @@ export default function ContentPage({ title, subtitle, image, description, child
         </div>
       </div>
       <div className="content-body">
-        <div className="content-body__inner">
-          {children}
-        </div>
+        <div className="content-body__inner">{children}</div>
         <aside className="content-sidebar">
           <div className="sidebar-card">
             <h3 className="sidebar-card__title">{t('sidebar.bookTitle')}</h3>
@@ -37,21 +35,45 @@ export default function ContentPage({ title, subtitle, image, description, child
           <div className="sidebar-card">
             <h3 className="sidebar-card__title">{t('sidebar.helpTitle')}</h3>
             <p className="sidebar-card__text">{t('sidebar.helpText')}</p>
-            <a href="mailto:info@carrentalpodgorica.com" className="sidebar-card__btn sidebar-card__btn--outline">{t('common.emailUs') || 'Email Us'}</a>
+            <a href={`mailto:${config.email}`} className="sidebar-card__btn sidebar-card__btn--outline">{t('common.emailUs') || 'Email Us'}</a>
           </div>
           <div className="sidebar-card">
-            <h3 className="sidebar-card__title">{t('sidebar.popularDest')}</h3>
+            <h3 className="sidebar-card__title">Podgorica Guides</h3>
             <ul className="sidebar-links">
+              <li><a href={localePath('/blog/gorica-hill-walk')}>Gorica Hill Walk</a></li>
               <li><a href={localePath('/blog/podgorica-wineries-plantaze')}>Plantaže Wineries</a></li>
-              <li><a href={localePath('/blog/gorica-hill-walk')}>Gorica Hill</a></li>
+              <li><a href={localePath('/blog/niksic-beer-lake-loop')}>Nikšić &amp; Ostrog Loop</a></li>
               <li><a href={localePath('/blog/podgorica-rijeka-crnojevica-drive')}>Rijeka Crnojevića</a></li>
               <li><a href={localePath('/blog/stara-varos-podgorica-ottoman-quarter')}>Stara Varoš</a></li>
-              <li><a href={localePath('/blog/niksic-beer-lake-loop')}>Nikšić & Ostrog</a></li>
-              <li><a href={localePath('/blog/tuzi-albanian-border-short-hop')}>Tuzi Border</a></li>
-              <li><a href={localePath('/border-crossing-guide')}>{t('footer.borderGuide')}</a></li>
+              <li><a href={localePath('/blog/tuzi-albanian-border-short-hop')}>Tuzi Border Hop</a></li>
             </ul>
           </div>
         </aside>
+      </div>
+      <div className="related-guides">
+        <div className="related-guides__inner">
+          <h2 className="related-guides__title">You might also like</h2>
+          <div className="related-guides__cards">
+            <a href={localePath('/blog/podgorica-wineries-plantaze')} className="related-card">
+              <img src="/img/blog-podgorica-wineries-plantaze.webp" alt="Plantaže wineries and the Šipčanik cellar" loading="lazy" />
+              <span>Plantaže Wineries</span>
+            </a>
+            <a href={localePath('/blog/niksic-beer-lake-loop')} className="related-card">
+              <img src="/img/blog-niksic-beer-lake-loop.webp" alt="Nikšić, Krupac lake and Ostrog loop" loading="lazy" />
+              <span>Nikšić &amp; Ostrog Loop</span>
+            </a>
+            <a href={localePath('/blog/podgorica-rijeka-crnojevica-drive')} className="related-card">
+              <img src="/img/blog-podgorica-rijeka-crnojevica-drive.webp" alt="Rijeka Crnojevića and Pavlova Strana" loading="lazy" />
+              <span>Rijeka Crnojevića</span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div className="content-cta">
+        <div className="content-cta__inner">
+          <h2>{t('contentPage.readyCta')}</h2>
+          <a href={localePath('/book')} className="content-cta__btn">{t('contentPage.searchCars')} →</a>
+        </div>
       </div>
       <Footer />
     </div>

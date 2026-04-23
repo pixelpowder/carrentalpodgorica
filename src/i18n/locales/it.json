@@ -3,7 +3,9 @@
     "book": "Prenota",
     "destinations": "Destinazioni",
     "about": "Chi Siamo",
-    "blog": "Blog"
+    "blog": "Blog",
+    "fleet": "Fleet",
+    "contact": "Contact"
   },
   "common": {
     "home": "Home",
@@ -551,5 +553,11 @@
     "route3": "Budva → Shkodër (Albania): 2,5 ore via l'attraversamento costiero di Ulcinj",
     "route4": "Podgorica → Belgrado (Serbia): 5-6 ore via la E65 nord",
     "ctaText": "Avete bisogno di un'auto con documentazione transfrontaliera pronta? Cercate nella nostra flotta — selezionate semplicemente i paesi di destinazione alla prenotazione e organizzeremo la Carta Verde."
+  },
+  "navTop": {
+    "carRental": "Car Rental",
+    "destinations": "Destinations",
+    "travelGuides": "Travel Guides",
+    "bokaBayRentals": "Podgorica Rentals"
   }
 }

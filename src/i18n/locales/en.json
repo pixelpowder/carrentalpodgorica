@@ -3,7 +3,9 @@
     "book": "Book",
     "blog": "Blog",
     "destinations": "Destinations",
-    "about": "About"
+    "about": "About",
+    "fleet": "Fleet",
+    "contact": "Contact"
   },
   "common": {
     "home": "Home",
@@ -370,5 +372,11 @@
     "route3": "Budva → Shkodër: 3 hrs via the Ulcinj coastal crossing. Albania's lakeside city with a hilltop fortress",
     "route4": "Budva → Belgrade: 6 hrs via the E65 north through Podgorica. Motorway most of the way once you cross into Serbia",
     "ctaText": "Need a car that is ready for borders? Search our fleet, tick the countries you plan to visit, and we handle the Green Card. It will be waiting in the glovebox at pickup."
+  },
+  "navTop": {
+    "carRental": "Car Rental",
+    "destinations": "Destinations",
+    "travelGuides": "Travel Guides",
+    "bokaBayRentals": "Podgorica Rentals"
   }
 }

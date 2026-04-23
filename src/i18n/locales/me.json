@@ -3,7 +3,9 @@
     "book": "Rezerviši",
     "destinations": "Destinacije",
     "about": "O Nama",
-    "blog": "Blog"
+    "blog": "Blog",
+    "fleet": "Fleet",
+    "contact": "Contact"
   },
   "common": {
     "home": "Početna",
@@ -551,5 +553,11 @@
     "route3": "Budva → Skadar (Albanija): 2,5 sata preko obalnog prelaza kod Ulcinja",
     "route4": "Podgorica → Beograd (Srbija): 5-6 sati putem E65 na sjever",
     "ctaText": "Trebate automobil sa prekograničnom dokumentacijom? Pretražite našu flotu — samo odaberite odredišne zemlje pri rezervaciji i mi ćemo urediti Zelenu kartu."
+  },
+  "navTop": {
+    "carRental": "Car Rental",
+    "destinations": "Destinations",
+    "travelGuides": "Travel Guides",
+    "bokaBayRentals": "Podgorica Rentals"
   }
 }
