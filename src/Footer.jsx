@@ -4,7 +4,7 @@ import config from './siteConfig';
 import useTranslation from './i18n/useTranslation';
 import './App.css';
 
-const FOOTER_FLEET_SLUGS = ['vw-polo', 'skoda-octavia', 'toyota-corolla', 'mercedes-c-class', 'jeep-renegade'];
+const FOOTER_FLEET_SLUGS = ['vw-polo', 'skoda-octavia', 'toyota-corolla'];
 
 export default function Footer() {
   const { t, localePath } = useTranslation();
