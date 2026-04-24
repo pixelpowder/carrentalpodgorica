@@ -187,13 +187,13 @@
   },
   "testimonials": {
     "0": {
-      "text": "We drove from Jaz Beach to Sveti Stefan on our first morning and couldn't believe the views. Stopped at Bečići for lunch, made it to the Sveti Stefan viewpoint before sunset. The car meant we could dodge the buses and go at our own pace. Would absolutely book again."
+      "text": "Collected the car at TGD just before midnight after a delayed flight from Vienna and the agent was still waiting with a smile. Next morning we drove up to Ostrog Monastery before the coach parties arrived — the upper church before 9am is something else. Back in Podgorica for late lunch at a riverside konoba. A brilliant start."
     },
     "1": {
-      "text": "Three of us rented for five nights — Top Hill one evening, Trocadero the next, then a road trip south to Petrovac for a slower afternoon. Having a car meant no waiting for taxis at 2am. The agent at Tivat was quick and the car was spotless. Exactly what we needed."
+      "text": "Four days based in Podgorica, one car, three big day trips: Lake Skadar at sunrise for the pelicans, Cetinje and the old royal capital on day two, then up to Žabljak and the Tara bridge. Having our own wheels meant we could leave when we liked and skip the tour buses entirely. The car was spotless and the paperwork took ten minutes."
     },
     "2": {
-      "text": "We prefer quieter roads and olive groves to beach clubs. The car took us south to Petrovac, through the old village lanes above Budva, and along the coast at our own gentle pace. The old town in the evenings was magical. A very well organised rental from start to finish."
+      "text": "We are wine people, so the Plantaže cellars fifteen minutes out of the city were the main event — then a slow afternoon circling Lake Skadar with stops at Virpazar and Rijeka Crnojevića. The team at the Podgorica office were patient with our string of questions and the small hatchback handled the narrow village lanes without any drama."
     }
   },
   "faqItems": {
@@ -203,19 +203,19 @@
     },
     "1": {
       "q": "Can I drive to Croatia or Albania?",
-      "a": "Yes. Cross-border travel is permitted to Croatia, Bosnia, Albania, Kosovo, and Serbia. The Dubrovnik day trip via Debeli Brijeg is one of the most popular runs from Budva — about 2.5 hours each way. Flag the countries at booking and the Green Card is prepared for you."
+      "a": "Yes. Cross-border travel is permitted to Croatia, Bosnia, Albania, Kosovo, and Serbia. The Tuzi crossing into Albania is just fifteen minutes from Podgorica, and Dubrovnik is around three hours via the Sozina tunnel and the coast road. Flag the countries at booking and the Green Card is prepared for you."
     },
     "2": {
       "q": "What's actually included in the price?",
       "a": "Third-party liability insurance and CDW come standard on most cars. VAT, a roadside safety kit, and a transparent fuel policy are included too. Mileage terms differ per vehicle — check the car listing. Zero-excess cover and extras like child seats can be added at booking."
     },
     "3": {
-      "q": "How does pickup work at Tivat Airport?",
-      "a": "Your agent meets you at Tivat Airport arrivals hall. The 22 km coast road to Budva takes around 25 minutes depending on summer traffic. No shuttle, no waiting around — the car is parked right outside the terminal."
+      "q": "How does pickup work at Podgorica Airport?",
+      "a": "Your agent meets you at Podgorica Airport (TGD) arrivals hall. The airport is 12 km south of the city on the Zeta plain — about 15 minutes to the centre. No shuttle, no waiting around; the car is parked right outside the terminal."
     },
     "4": {
       "q": "Can I return the car somewhere different?",
-      "a": "One-way rentals are available across 28+ towns and cities in Montenegro. Pick up at Tivat, drop off in Budva, or vice versa — just select different locations when you book."
+      "a": "One-way rentals are available across 28+ towns and cities in Montenegro. Pick up at Podgorica Airport, drop off in Nikšić, Kotor, or anywhere on the coast — just select different locations when you book."
     },
     "5": {
       "q": "What is the cancellation policy?",
@@ -223,83 +223,41 @@
     },
     "6": {
       "q": "Do I need to pay a deposit?",
-      "a": "It depends on the vehicle. Deposits typically fall between €100 and €500 for most riviera rentals. Some cars require no deposit at all. Where one applies, it sits on the main driver’s physical credit card and is released when the car is returned undamaged."
+      "a": "It depends on the vehicle. Deposits typically fall between €100 and €500 for most Podgorica rentals. Some cars require no deposit at all. Where one applies, it sits on the main driver's physical credit card and is released when the car is returned undamaged."
     },
     "7": {
-      "q": "Where can I park near Budva Old Town?",
-      "a": "The underground car park by the Old Town walls is closest but fills by mid-morning in summer. The open lot behind the bus station is larger and cheaper. Free street parking exists along the Becici road but requires a 10-minute walk. In peak season, arrive before 9 am for the best spots near the walls."
-    }
-  },
-  "destCards": {
-    "tivat-airport": {
-      "name": "Tivat Airport",
-      "tag": "22 km Away",
-      "desc": "Your gateway to the riviera. We meet you at arrivals."
-    },
-    "kotor": {
-      "name": "Kotor",
-      "tag": "UNESCO Bay",
-      "desc": "Fortress town tucked inside a fjord-like bay, 25 km north."
-    },
-    "podgorica-airport": {
-      "name": "Podgorica Airport",
-      "tag": "Capital Hub",
-      "desc": "More routes year-round, one hour from the coast."
-    },
-    "perast": {
-      "name": "Perast",
-      "tag": "Baroque Quiet",
-      "desc": "Sixteen churches and two islands on a glassy bay."
-    },
-    "budva": {
-      "name": "Budva",
-      "tag": "Home Base",
-      "desc": "Beaches, clubs, and a walled old town on a peninsula."
-    },
-    "dubrovnik-airport": {
-      "name": "Dubrovnik Airport",
-      "tag": "Cross-Border",
-      "desc": "Fly into Croatia, coast-road it to Budva."
-    },
-    "tivat": {
-      "name": "Tivat",
-      "tag": "Marina Town",
-      "desc": "Superyachts at Porto Montenegro, 30 minutes away."
-    },
-    "podgorica": {
-      "name": "Podgorica",
-      "tag": "Capital City",
-      "desc": "Lake Skadar, wine bars, and the Millennium Bridge."
+      "q": "Where can I park in central Podgorica?",
+      "a": "Central Podgorica is covered by a paid-parking zone marked in blue and red lines; buy a ticket by SMS or from the kerbside meters. The underground car parks beneath Delta City and the Capital Plaza mall are the easiest indoor options. Most residential streets outside the ring are free, and the Millennium Bridge side of the Morača offers plenty of kerb space a ten-minute walk from the old town."
     }
   },
   "aboutBody": {
     "h1": "About Podgorica Car Rental",
-    "p1": "We started Podgorica Car Rental because we watched too many visitors land at Tivat, squeeze onto a transfer bus, and spend their whole holiday within walking distance of one hotel. Budva deserves more than that. Seventeen beaches stretch along this riviera, rooftop bars overlook a 2,500-year-old walled town, and an hour inland the mountains start. All of it is reachable — but only if you have wheels.",
-    "h2": "The Budva Effect",
-    "p2": "Over 800,000 visitors flood this strip of coast every summer. They come for Mogren's cliff-sheltered pebbles (0.5 km from the old town), Jaz's festival-ready sand (2.5 km west), and Bečići's kilometre-long shore (3 km south). They stay for the food — grilled brancin at a waterfront konoba for under €12. They come back for Top Hill, the 3,000-capacity superclub carved into the cliffs above Budva. A rental car turns a beach holiday into an adventure.",
+    "p1": "We started Podgorica Car Rental because we watched too many visitors land at TGD, grab the first taxi to the coast, and never once see the real interior. The capital deserves more than a layover. Ostrog Monastery clings to a cliff forty-five minutes north. Lake Skadar with its pelicans and floating vineyards sits half an hour south. Durmitor's glacial lakes are a two-hour drive inland. All of it is reachable — but only with wheels.",
+    "h2": "The Podgorica Advantage",
+    "p2": "Podgorica sits at the hub of every serious Montenegrin road trip. From the city ring road you are on the motorway to Bar in twenty minutes, at the Tuzi border for Albania in fifteen, and on the Morača canyon road toward Kolašin in under an hour. The airport (TGD) is twelve kilometres south on the Zeta plain, the Plantaže cellars are fifteen minutes out, and the old royal capital of Cetinje is a forty-minute climb up the switchbacks. A rental car turns a layover into a proper Balkan adventure.",
     "h3": "How We Work",
-    "p3": "Search our fleet, pick a car, and book online with instant confirmation. We cover the entire riviera plus Tivat Airport (22 km), Podgorica Airport (65 km), and 26 more pickup spots. Fleet runs from budget city cars that slot into old-town parking spaces to SUVs built for Lovćen's switchbacks. Every vehicle carries full insurance with no hidden fees.",
+    "p3": "Search our fleet, pick a car, and book online with instant confirmation. We cover Podgorica Airport (12 km), the city centre, Nikšić, Kolašin, and 25 more pickup spots across the interior and coast. Fleet runs from budget city cars that slot into old-town parking to SUVs built for the Durmitor ring road. Every vehicle carries full insurance with no hidden fees.",
     "promiseTitle": "What You Get",
     "promise1": "Full insurance — zero-excess upgrade available",
-    "promise2": "Tivat Airport meet-and-greet at the arrivals door",
+    "promise2": "Podgorica Airport meet-and-greet at the arrivals door",
     "promise3": "Transparent pricing: the number at booking is the number you pay",
     "promise4": "Cross-border driving to Croatia, Bosnia, Albania, Serbia, and Kosovo",
     "promise5": "Free cancellation on most cars",
     "promise6": "24/7 roadside backup wherever you end up",
     "h4": "We Live Here",
-    "p4": "Our team lives on the Budva Riviera. We know that Mogren car park fills by 10am in July, that the coast road south to Petrovac gets jammed after 4pm on Saturdays, and that the best cevapi on the strip is at a place most tourists walk straight past. We share this stuff freely — because a better road trip means a better review, and better reviews keep us going.",
+    "p4": "Our team lives and drives in Podgorica. We know that the Delta City car park fills by Saturday lunchtime, that the Ostrog upper road is best attempted before 10am or after 4pm in summer, and that the best burek in town is hiding in a nameless bakery off Hercegovačka. We share this stuff freely — because a better road trip means a better review, and better reviews keep us going.",
     "h5": "Talk to Us",
-    "p5": "Question about parking at Jaz? Wondering whether to take the tunnel or the coast road to Kotor? Drop us a message on WhatsApp, Viber, or plain old phone. Or just search the fleet and book — confirmation is instant."
+    "p5": "Question about parking near the Millennium Bridge? Wondering whether to take the old road or the motorway to Bar? Drop us a message on WhatsApp, Viber, or plain old phone. Or just search the fleet and book — confirmation is instant."
   },
   "montenegroBody": {
-    "h1": "Driving Montenegro from a Budva Base",
-    "p1": "Montenegro packs dramatic variety into a tiny footprint. Twenty-one kilometres of riviera beach. A fjord-like bay ringed by medieval towns. A lake with 270 bird species. Mountain canyons deeper than anything in the Alps. And you can reach all of it from Budva in under three hours. A rental car turns a beach week into a proper adventure.",
-    "p2": "Fair warning: distances on the map lie. Mountain switchbacks, single-lane coast roads, and the occasional goat crossing mean real driving times run 30–50% longer than Google suggests. Lean into it. The slow bits are usually the most scenic bits.",
-    "startTitle": "Starting from Budva",
-    "startText": "Most visitors pick up at Tivat Airport (22 km, 30 min) or Podgorica Airport (65 km, 1 hr). Dubrovnik Airport in Croatia works too — 2.5 hours via the coast road. Once in Budva, you are centre-stage on the riviera with fast access north to the bay and south toward Bar and Albania.",
-    "timesTitle": "Real Driving Times from Budva",
-    "timesText1": "These times assume summer traffic and no major stops. Add 15–20 minutes on weekend afternoons for the Budva–Kotor tunnel queue.",
-    "timesText2": "Sveti Stefan: 15 min. Kotor: 30 min. Tivat: 30 min. Petrovac: 20 min. Herceg Novi: 1 hr. Podgorica: 1 hr. Dubrovnik: 2.5 hrs. Žabljak: 3 hrs.",
+    "h1": "Driving Montenegro from a Podgorica Base",
+    "p1": "Montenegro packs dramatic variety into a tiny footprint. A fjord-like bay ringed by medieval towns. A lake with 270 bird species on the capital's doorstep. Mountain canyons deeper than anything in the Alps. A clifftop monastery carved into sheer rock. From Podgorica you can reach all of it in under three hours. A rental car turns a flight connection into a proper week of driving.",
+    "p2": "Fair warning: distances on the map lie. Canyon switchbacks, single-lane mountain roads, and the occasional goat crossing mean real driving times run 30–50% longer than Google suggests. Lean into it. The slow bits are usually the most scenic bits.",
+    "startTitle": "Starting from Podgorica",
+    "startText": "Most visitors pick up at Podgorica Airport (12 km, 15 min) or in the city centre. From there, Lake Skadar is half an hour south, Ostrog Monastery forty-five minutes north, and the coast about an hour away through the Sozina tunnel. Cross-border runs to Albania via Tuzi take under twenty minutes from the ring road.",
+    "timesTitle": "Real Driving Times from Podgorica",
+    "timesText1": "These times assume dry summer conditions and no major stops. Add 20–30 minutes on weekend afternoons in peak season for the coastal tunnel approach.",
+    "timesText2": "Plantaže: 15 min. Tuzi border: 15 min. Lake Skadar (Virpazar): 30 min. Cetinje: 40 min. Ostrog: 45 min. Kolašin: 1 hr. Nikšić: 1 hr. Bar: 45 min. Kotor: 1 hr 20. Žabljak: 2 hrs. Dubrovnik: 3 hrs.",
     "rulesTitle": "Road Rules That Matter",
     "rulesIntro": "Police stops are common but painless if your documents are in order. Keep these in the car:",
     "rule1": "Valid driving licence (international permit accepted alongside your home licence)",
@@ -312,16 +270,16 @@
     "keyRule3": "Alcohol limit is zero. Not 'one glass'. Zero.",
     "keyRule4": "Speed cameras are real and fines arrive in the post",
     "conditionsTitle": "What the Roads Are Like",
-    "conditionsText": "Main routes are well-surfaced. The E65 coast road and the Budva–Podgorica dual carriageway are smooth. Mountain roads get narrower, steeper, and occasionally lack barriers. Some local drivers treat centre lines as suggestions. Stay alert on blind corners, especially between Budva and Petrovac where the road hugs the cliffs.",
-    "routesTitle": "Best Drives from Budva",
-    "e65Title": "North: The Bay of Kotor Road",
-    "e65Text": "Through the tunnel to Kotor, then along the water's edge past Perast, Risan, and on to Herceg Novi. This is the scenic route that ends up on everyone's Instagram. Stop at a waterfront konoba in Perast for lunch. Total loop back to Budva: about 3 hours with stops.",
-    "e762Title": "South and Inland",
-    "e762Text": "Coast south through Petrovac and Bar to Ulcinj, near the Albanian border. Or peel inland at Podgorica for the mountains — Durmitor National Park, Žabljak, and the Tara Canyon (deepest in Europe at 1,300m). The inland route is longer but completely transforms what you think Montenegro looks like.",
+    "conditionsText": "The motorway south from Podgorica to Bar and the dual carriageway toward Danilovgrad are smooth and fast. Canyon roads — particularly the Morača toward Kolašin and the Piva toward Šćepan Polje — get narrower, steeper, and occasionally lack barriers. Some local drivers treat centre lines as suggestions. Stay alert on blind corners, especially on the climb from the Zeta plain up to Cetinje where the road hugs the cliffs.",
+    "routesTitle": "Best Drives from Podgorica",
+    "e65Title": "North: Ostrog & the Morača Canyon",
+    "e65Text": "Follow the E65 up the Morača gorge toward Kolašin. Halfway there, peel off for the five-kilometre climb to Ostrog Monastery — Montenegro's most visited pilgrimage site, glued to a vertical cliff. Continue on to the Biogradska Gora rainforest for a lake-and-pines lunch. Total round trip from the capital: about 5 hours with stops.",
+    "e762Title": "South: Lake Skadar & the Albanian Border",
+    "e762Text": "Head south via Virpazar for the lake. Rent a small boat at the jetty, or drive the loop road above Rijeka Crnojevića for the postcard viewpoint. Continue to Tuzi and cross into Albania for lunch in Shkodër. Or stay inland for the Plantaže cellars fifteen minutes out of the city — Europe's largest single vineyard and an unexpectedly good place to spend an afternoon.",
     "borderTitle": "Crossing Borders",
-    "borderText": "Montenegro borders five countries, and you can drive to all of them with the right paperwork. The Green Card covers insurance. The rental contract needs to list every country you plan to visit. Summer weekends bring long queues at the Croatian coastal crossing — weekday mornings or late evenings are the way to go.",
-    "nationTitle": "A Tiny Country, Full Sized Scenery",
-    "nationText": "Independent only since 2006, Montenegro is one of Europe's youngest nations. Tourism has boomed in the years since. Budva leads the way, attracting a third of all visitors, but the rest of the country is catching up fast. There has never been a better time to rent a car and see what the whole place offers."
+    "borderText": "Montenegro borders five countries, and you can drive to all of them with the right paperwork. The Green Card covers insurance. The rental contract needs to list every country you plan to visit. Summer weekends bring long queues at the Croatian coastal crossing — weekday mornings or late evenings are the way to go. Tuzi for Albania is almost always quiet.",
+    "nationTitle": "A Tiny Country, Full-Sized Scenery",
+    "nationText": "Independent only since 2006, Montenegro is one of Europe's youngest nations. Tourism has boomed in the years since, but the capital region still feels like the local Montenegro — where families actually live, work, and weekend. From Podgorica you can sample all of it: the coast, the canyons, the lake, and the cross-border cities. There has never been a better time to rent a car and see what the whole place offers."
   },
   "borderCrossingBody": {
     "h1": "Taking Your Rental Car Across Borders",
@@ -341,15 +299,15 @@
     "crossingsTitle": "Border Crossings by Country",
     "croatiaTitle": "Montenegro → Croatia",
     "croatiaText": "The coast road crossing at Debeli Brijeg between Herceg Novi and Dubrovnik is the most popular and the most congested. Summer weekend queues hit 1–2 hours at peak times. This is the one that catches people out.",
-    "croatiaTip": "From Budva: allow 1 hour to reach the border. Best windows: before 8am or after 8pm. Weekdays are dramatically faster than weekends.",
+    "croatiaTip": "From Podgorica: allow 2 hours to reach the border via the Sozina tunnel and Herceg Novi. Best windows: before 8am or after 8pm. Weekdays are dramatically faster than weekends.",
     "croatiaFerry": "Time-saver: the Kamenari–Lepetane car ferry cuts across the Bay of Kotor in 10 minutes, shaving 45 minutes off the drive around the bay. Runs every 15 minutes, costs around €4.50 per car.",
     "albaniaTitle": "Montenegro → Albania",
-    "albaniaText": "Two main crossings: Sukobin/Muriqan on the coast near Ulcinj, or Hani i Hotit inland near Lake Skadar. The coastal route is easier and more scenic. Budget 2–3 hours from Budva to Shkodër.",
-    "albaniaNote": "Heads up: Albanian roads are rougher. Livestock on the road is common outside cities. Drive cautiously, especially at dusk. Fuel up before crossing — petrol stations are spaced further apart.",
+    "albaniaText": "Two main crossings: Hani i Hotit on the main road south of Tuzi, or Sukobin/Muriqan on the coast near Ulcinj. From Podgorica the Tuzi/Hani i Hotit route is the quickest — you are at the frontier inside twenty minutes. Budget 1.5–2 hours from the capital to Shkodër.",
+    "albaniaNote": "Heads up: Albanian roads are rougher once you leave the main Shkodër road. Livestock on the road is common outside cities. Drive cautiously, especially at dusk. Fuel up before crossing — petrol stations are spaced further apart.",
     "bosniaTitle": "Montenegro → Bosnia & Herzegovina",
     "bosniaText": "The main crossing at Šćepan Polje (near Foča) connects to the Drina valley and Mostar beyond. Alternatively, cross at Vilusi from Nikšić. Both crossings are quiet with minimal waits year-round.",
     "serbiaTitle": "Montenegro → Serbia",
-    "serbiaText": "Cross at Dobrakovo on the E65 north of Bijelo Polje. This connects to the Serbian motorway network and Belgrade. Allow 6 hours from Budva with stops.",
+    "serbiaText": "Cross at Dobrakovo on the E65 north of Bijelo Polje. This connects to the Serbian motorway network and Belgrade. Allow 5 hours from Podgorica with stops.",
     "kosovoTitle": "Montenegro → Kosovo",
     "kosovoText": "The Kula crossing near Rožaje connects to Peja/Peć in Kosovo. Double-check that Kosovo is listed on your Green Card — some policies exclude it.",
     "tipsTitle": "How to Make Border Crossings Painless",
@@ -366,11 +324,11 @@
     "law3": "Bosnia: winter tyres mandatory November through April. First-aid kit and warning triangle must be in the car",
     "law4": "Serbia: zero alcohol tolerance for all drivers. Motorway tolls are charged at booth gates — collect a ticket when you join, settle the fare when you leave",
     "law5": "Kosovo: drive on the right. International driving permit recommended. Road signage is improving but still patchy in rural areas",
-    "popularTitle": "Popular Road Trips from Budva",
-    "route1": "Budva → Dubrovnik: 2.5 hrs on the coastal E65. One border crossing, spectacular scenery the entire way",
-    "route2": "Budva → Mostar: 4 hrs via Trebinje. The Stari Most bridge alone makes this drive worthwhile",
-    "route3": "Budva → Shkodër: 3 hrs via the Ulcinj coastal crossing. Albania's lakeside city with a hilltop fortress",
-    "route4": "Budva → Belgrade: 6 hrs via the E65 north through Podgorica. Motorway most of the way once you cross into Serbia",
+    "popularTitle": "Popular Road Trips from Podgorica",
+    "route1": "Podgorica → Dubrovnik: 3 hrs via the Sozina tunnel and the coast road. One border crossing, spectacular scenery once you reach the bay",
+    "route2": "Podgorica → Mostar: 4.5 hrs via Nikšić and Trebinje. The Stari Most bridge alone makes this drive worthwhile",
+    "route3": "Podgorica → Shkodër: 1.5 hrs via the Tuzi/Hani i Hotit crossing. Albania's lakeside city with a hilltop fortress",
+    "route4": "Podgorica → Belgrade: 6 hrs via the E65 north through Bijelo Polje. Motorway most of the way once you cross into Serbia",
     "ctaText": "Need a car that is ready for borders? Search our fleet, tick the countries you plan to visit, and we handle the Green Card. It will be waiting in the glovebox at pickup."
   },
   "navTop": {
