@@ -4,7 +4,7 @@ const siteConfig = {
   domain: "carrentalpodgorica.com",
   phone: "",
   email: "info@carrentalpodgorica.com",
-  address: "Tabacina BB, Kotor, 85330",
+  address: "Trg Republike, Podgorica, 81000",
 
   hero: {
     headline: "Podgorica Car Rental — Montenegro's Capital",

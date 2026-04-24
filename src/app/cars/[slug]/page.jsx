@@ -14,8 +14,8 @@ export async function generateMetadata({ params }) {
   if (!car) return {};
 
   const meta = carMetas[slug]?.en;
-  const title = meta?.title || `${car.name} Rental in Herceg Novi | Podgorica Car Rental`;
-  const description = meta?.desc || `${car.name} rental guide for multi-day Herceg Novi trips.`;
+  const title = meta?.title || `${car.name} Rental in Podgorica | Podgorica Car Rental`;
+  const description = meta?.desc || `${car.name} rental guide for multi-day Podgorica trips.`;
   const SITE = 'https://www.carrentalpodgorica.com';
   return {
     title,
