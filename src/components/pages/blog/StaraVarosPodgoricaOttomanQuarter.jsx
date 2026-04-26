@@ -6,7 +6,7 @@ export default function StaraVarosPodgoricaOttomanQuarter() {
   const { localePath } = useTranslation();
   return (
     <ContentPage
-      title="Stara Varoš — Podgorica's Ottoman Quarter"
+      title="Stara Varoš, Podgorica's Ottoman Quarter"
       subtitle="The clock tower, the Osmanagić mosque, and the low-rise streets that survived when the rest of the city didn't"
       description="A walking guide to Stara Varoš, Podgorica's old Ottoman quarter: the Sahat Kula clock tower, the Osmanagić mosque, the confluence of the Ribnica and Morača, and where to park nearby."
       image="/img/blog-stara-varos-podgorica-ottoman-quarter.webp"
@@ -29,14 +29,14 @@ export default function StaraVarosPodgoricaOttomanQuarter() {
       <p>Tradition holds this as the birthplace of <strong>Stefan Nemanja</strong>, the 12th-century founder of the Serbian Nemanjić dynasty, born here around 1113 when the settlement was called Ribnica. Whether or not that's literally true, the site was continuously fortified from the Roman period through Ottoman times.</p>
 
       <h2>Walking the streets</h2>
-      <p>Stara Varoš is small — you can walk its core in 40 minutes without hurrying. The streets to follow are Marka Miljanova (the spine), Svetozara Markovića, and the lanes running down toward the rivers. The houses are mostly one- and two-storey, some with overhanging upper floors and walled courtyards — a typical Balkan-Ottoman pattern. A few have been restored as cafés and small galleries; many are just lived in.</p>
+      <p>Stara Varoš is small, you can walk its core in 40 minutes without hurrying. The streets to follow are Marka Miljanova (the spine), Svetozara Markovića, and the lanes running down toward the rivers. The houses are mostly one- and two-storey, some with overhanging upper floors and walled courtyards, a typical Balkan-Ottoman pattern. A few have been restored as cafés and small galleries; many are just lived in.</p>
       <p>Several old <strong>čevabdžinice</strong> (grilled-meat places) and bakeries are here and are a better lunch than anything in the new city. Ćevapi, pljeskavica, burek from a wood oven. Prices are noticeably lower than in the glassy cafés on Hercegovačka.</p>
 
       <h2>Parking and access</h2>
       <p>The quarter is mostly walkable. Driving in is possible but the lanes are narrow and one-way. Easier options:</p>
       <ul>
-        <li><strong>Bulevar Džordža Vašingtona</strong> — the boulevard on the south bank of the Ribnica. Metered street parking, pay at the machine or by SMS. Walk across the footbridge in 2 minutes.</li>
-        <li><strong>Delta City and the mall car parks</strong> are too far west — don't use them for Stara Varoš.</li>
+        <li><strong>Bulevar Džordža Vašingtona</strong>, the boulevard on the south bank of the Ribnica. Metered street parking, pay at the machine or by SMS. Walk across the footbridge in 2 minutes.</li>
+        <li><strong>Delta City and the mall car parks</strong> are too far west, don't use them for Stara Varoš.</li>
         <li><strong>Trg Republike area</strong> — 10-minute walk, more expensive but supervised.</li>
       </ul>
       <p>Zone parking in central Podgorica is paid Monday to Saturday roughly 07:00 to 21:00; Sunday is free in most zones. Rates are modest.</p>

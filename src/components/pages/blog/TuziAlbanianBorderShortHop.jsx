@@ -6,8 +6,8 @@ export default function TuziAlbanianBorderShortHop() {
   const { localePath } = useTranslation();
   return (
     <ContentPage
-      title="Tuzi — The Albanian Border Town South of Podgorica"
-      subtitle="Fifteen kilometres from the capital and a different Montenegro — Malësia mountains, Albanian bakeries, and a short hop to the Hani i Hotit crossing"
+      title="Tuzi, The Albanian Border Town South of Podgorica"
+      subtitle="Fifteen kilometres from the capital and a different Montenegro, Malësia mountains, Albanian bakeries, and a short hop to the Hani i Hotit crossing"
       description="A driving guide to Tuzi, the Albanian-majority town south of Podgorica: what to see, what to eat, and how to continue to the Hani i Hotit border crossing for Shkodër."
       image="/img/blog-tuzi-albanian-border-short-hop.webp"
     >
@@ -24,20 +24,20 @@ export default function TuziAlbanianBorderShortHop() {
       <ul>
         <li><strong>Eat</strong>. Several excellent Albanian-Montenegrin bakeries sell fresh burek, flija (layered Albanian pancake), and trahana. Prices are noticeably lower than in Podgorica.</li>
         <li><strong>Coffee</strong>. The café culture is the same as the capital but less polished and cheaper.</li>
-        <li><strong>Markets</strong>. The Wednesday and Saturday morning pijaca (market) at the edge of town sells produce from the Malësia villages — honey, dried herbs, home-pressed olive oil, sometimes rakija.</li>
+        <li><strong>Markets</strong>. The Wednesday and Saturday morning pijaca (market) at the edge of town sells produce from the Malësia villages, honey, dried herbs, home-pressed olive oil, sometimes rakija.</li>
       </ul>
 
       <img src="/img/blog-tuzi-albanian-border-short-hop.webp" alt="Tuzi town and Prokletije mountains on the Albanian border" loading="lazy" />
 
       <h2>Into the Malësia villages</h2>
-      <p>The real reason to drive here is to continue east into the Malësia — a series of stone villages strung along the approach to the Prokletije. Names to look for on road signs: <strong>Dinoša</strong>, <strong>Milješ</strong>, <strong>Gurec</strong>, <strong>Vladne</strong>. These are rural, Catholic-Albanian in population, and more or less ignored by the tourist circuit. You drive, you look at the mountains, you stop at a kafana for a rakija and coffee, you drive back. The roads are paved, narrow, and empty.</p>
+      <p>The real reason to drive here is to continue east into the Malësia, a series of stone villages strung along the approach to the Prokletije. Names to look for on road signs: <strong>Dinoša</strong>, <strong>Milješ</strong>, <strong>Gurec</strong>, <strong>Vladne</strong>. These are rural, Catholic-Albanian in population, and more or less ignored by the tourist circuit. You drive, you look at the mountains, you stop at a kafana for a rakija and coffee, you drive back. The roads are paved, narrow, and empty.</p>
 
       <h2>Skadar Lake access</h2>
-      <p>Tuzi also puts you close to the <strong>eastern shore of Lake Skadar</strong> — less visited than the Virpazar side. The village of <strong>Vranjina</strong> and the Skadar Lake National Park visitor centre are on the main road south, a short drive onward. The water here is reed-fringed and full of birdlife.</p>
+      <p>Tuzi also puts you close to the <strong>eastern shore of Lake Skadar</strong>, less visited than the Virpazar side. The village of <strong>Vranjina</strong> and the Skadar Lake National Park visitor centre are on the main road south, a short drive onward. The water here is reed-fringed and full of birdlife.</p>
 
-      <h2>Crossing into Albania — Hani i Hotit</h2>
+      <h2>Crossing into Albania, Hani i Hotit</h2>
       <p>The main border crossing for Albania on this route is <strong>Hani i Hotit</strong>, about 10 km south-east of Tuzi. It is the busiest Montenegro–Albania crossing and is open 24 hours. From the border, it's a further 30 minutes into <strong>Shkodër</strong> — the largest city in northern Albania, around 45 minutes' driving from Tuzi in total, 1 h 15 min from Podgorica.</p>
-      <p>To take a rental car across the border you need a <strong>Green Card</strong> covering Albania. Tell us at booking and we will issue it — don't show up at the border without it. Passports are required, not ID cards; an EU or UK driving licence is sufficient to drive on the Albanian side. Border checks are usually quick but can queue for 20–30 minutes on peak summer Saturdays.</p>
+      <p>To take a rental car across the border you need a <strong>Green Card</strong> covering Albania. Tell us at booking and we will issue it, don't show up at the border without it. Passports are required, not ID cards; an EU or UK driving licence is sufficient to drive on the Albanian side. Border checks are usually quick but can queue for 20–30 minutes on peak summer Saturdays.</p>
 
       <h2>Practical notes</h2>
       <ul>

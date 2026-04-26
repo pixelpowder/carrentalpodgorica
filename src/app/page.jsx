@@ -2,7 +2,7 @@ import { t, buildAlternates } from './metadata';
 import HomeClient from '@/src/HomeClient';
 
 export async function generateMetadata() {
-  const title = 'Podgorica Car Rental — Budva Riviera & Tivat Airport Pickup';
+  const title = 'Podgorica Car Rental, Budva Riviera & Tivat Airport Pickup';
   const description = t('en', 'home.seoDesc');
   return {
     title: title,

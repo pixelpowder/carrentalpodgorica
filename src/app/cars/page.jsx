@@ -4,10 +4,10 @@ import FleetIndex from '@/src/components/pages/FleetIndex';
 const SITE = 'https://www.carrentalpodgorica.com';
 
 export async function generateMetadata() {
-  const title = 'Our Fleet — 7 Cars for Multi-Day Podgorica Rentals | Podgorica Car Rental';
+  const title = 'Our Fleet, 7 Cars for Multi-Day Podgorica Rentals | Podgorica Car Rental';
   const description = (t('en', 'fleetIndex.seoDesc') !== 'fleetIndex.seoDesc'
     ? t('en', 'fleetIndex.seoDesc')
-    : 'Seven multi-day rental cars for Podgorica — mid-size wagons, diesel cruisers and a city Fiat. Specs, fuel range, and which car suits day-trips inland to Ostrog, Skadar and Durmitor.');
+    : 'Seven multi-day rental cars for Podgorica, mid-size wagons, diesel cruisers and a city Fiat. Specs, fuel range, and which car suits day-trips inland to Ostrog, Skadar and Durmitor.');
   return {
     title,
     description,

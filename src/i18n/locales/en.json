@@ -34,7 +34,7 @@
   },
   "trust": {
     "noHiddenFees": "No Hidden Fees",
-    "noHiddenFeesDesc": "Checkout price includes everything — taxes, airport surcharges, the lot",
+    "noHiddenFeesDesc": "Checkout price includes everything, taxes, airport surcharges, the lot",
     "fullInsurance": "Full Insurance",
     "fullInsuranceDesc": "CDW included, plus a zero-excess upgrade for complete cover on mountain and canyon roads",
     "fastPickup": "Podgorica Pickup",
@@ -51,7 +51,7 @@
     "title": "On the Road in 3 Steps",
     "subtitle": "Choose your car, confirm your dates, and collect on arrival.",
     "step1Title": "Pick Your Spot",
-    "step1Desc": "Podgorica Airport, the city centre, Lake Skadar, and Nikšić — 28+ pickup points across the capital region and beyond.",
+    "step1Desc": "Podgorica Airport, the city centre, Lake Skadar, and Nikšić, 28+ pickup points across the capital region and beyond.",
     "step2Title": "Choose Your Wheels",
     "step2Desc": "City runabouts for old-town parking. SUVs for mountain day trips. Filter by gearbox, size, or daily budget.",
     "step3Title": "Chase the Coastline",
@@ -60,7 +60,7 @@
   "fleet": {
     "label": "Our Fleet",
     "title": "Find Your Ride",
-    "subtitle": "Live prices, instant booking — tap and go."
+    "subtitle": "Live prices, instant booking, tap and go."
   },
   "brands": {
     "label": "Trusted brands in our fleet"
@@ -68,7 +68,7 @@
   "destinations": {
     "label": "Top Destinations",
     "title": "Where the Road Takes You",
-    "subtitle": "A clifftop monastery, the Balkans' largest lake, and Montenegro's highest peaks — all within two hours of Podgorica Airport."
+    "subtitle": "A clifftop monastery, the Balkans' largest lake, and Montenegro's highest peaks, all within two hours of Podgorica Airport."
   },
   "features": {
     "label": "Why Choose Us",
@@ -94,7 +94,7 @@
     "bookTitle": "Book Your Car",
     "bookText": "Live prices for Podgorica, Lake Skadar, Nikšić, and 25 more pickup points.",
     "helpTitle": "Need Help?",
-    "helpText": "WhatsApp, Viber, or old-fashioned phone — we pick up fast.",
+    "helpText": "WhatsApp, Viber, or old-fashioned phone, we pick up fast.",
     "popularDest": "Popular Destinations"
   },
   "book": {
@@ -122,7 +122,7 @@
   "notFound": {
     "code": "404",
     "title": "Dead End",
-    "text": "This page doesn't exist — but Ostrog, Skadar and Durmitor do. Let's get you back on the road.",
+    "text": "This page doesn't exist, but Ostrog, Skadar and Durmitor do. Let's get you back on the road.",
     "backHome": "Back to Home",
     "searchCars": "Search Cars"
   },
@@ -141,7 +141,7 @@
   },
   "border-crossing": {
     "title": "Cross-Border Driving from Podgorica",
-    "subtitle": "Paperwork, wait times, and the quietest crossings — from a Podgorica starting point.",
+    "subtitle": "Paperwork, wait times, and the quietest crossings, from a Podgorica starting point.",
     "seoDesc": "Dubrovnik day trip or Albanian coast run? Which documents each border demands, real wait times in summer, and the crossings where locals never queue."
   },
   "privacy": {
@@ -162,7 +162,7 @@
   "featureCards": {
     "airportPickup": {
       "title": "Podgorica Airport Pickup",
-      "desc": "Podgorica Airport (TGD) is 12 km south of the city centre. Your agent meets you at arrivals — one short drive on the Zeta plain and you are parking in the capital."
+      "desc": "Podgorica Airport (TGD) is 12 km south of the city centre. Your agent meets you at arrivals, one short drive on the Zeta plain and you are parking in the capital."
     },
     "fullInsurance": {
       "title": "Full Insurance",
@@ -170,11 +170,11 @@
     },
     "support": {
       "title": "24/7 Support",
-      "desc": "Left your lights on at the Ostrog upper car park? Locked your keys in at the Lake Skadar marina parking? Call us any hour — we know every car park in the capital region."
+      "desc": "Left your lights on at the Ostrog upper car park? Locked your keys in at the Lake Skadar marina parking? Call us any hour, we know every car park in the capital region."
     },
     "noHiddenFees": {
       "title": "No Hidden Fees",
-      "desc": "One number at booking. That same number at pickup. VAT, mileage, and mountain-region fuel policy are all baked in — nothing added at the counter."
+      "desc": "One number at booking. That same number at pickup. VAT, mileage, and mountain-region fuel policy are all baked in, nothing added at the counter."
     },
     "freeCancellation": {
       "title": "Free Cancellation",
@@ -187,13 +187,13 @@
   },
   "testimonials": {
     "0": {
-      "text": "Collected the car at TGD just before midnight after a delayed flight from Vienna and the agent was still waiting with a smile. Next morning we drove up to Ostrog Monastery before the coach parties arrived — the upper church before 9am is something else. Back in Podgorica for late lunch at a riverside konoba. A brilliant start."
+      "text": "Collected the car at TGD just before midnight after a delayed flight from Vienna and the agent was still waiting with a smile. Next morning we drove up to Ostrog Monastery before the coach parties arrived, the upper church before 9am is something else. Back in Podgorica for late lunch at a riverside konoba. A brilliant start."
     },
     "1": {
       "text": "Four days based in Podgorica, one car, three big day trips: Lake Skadar at sunrise for the pelicans, Cetinje and the old royal capital on day two, then up to Žabljak and the Tara bridge. Having our own wheels meant we could leave when we liked and skip the tour buses entirely. The car was spotless and the paperwork took ten minutes."
     },
     "2": {
-      "text": "We are wine people, so the Plantaže cellars fifteen minutes out of the city were the main event — then a slow afternoon circling Lake Skadar with stops at Virpazar and Rijeka Crnojevića. The team at the Podgorica office were patient with our string of questions and the small hatchback handled the narrow village lanes without any drama."
+      "text": "We are wine people, so the Plantaže cellars fifteen minutes out of the city were the main event, then a slow afternoon circling Lake Skadar with stops at Virpazar and Rijeka Crnojevića. The team at the Podgorica office were patient with our string of questions and the small hatchback handled the narrow village lanes without any drama."
     }
   },
   "faqItems": {
@@ -207,15 +207,15 @@
     },
     "2": {
       "q": "What's actually included in the price?",
-      "a": "Third-party liability insurance and CDW come standard on most cars. VAT, a roadside safety kit, and a transparent fuel policy are included too. Mileage terms differ per vehicle — check the car listing. Zero-excess cover and extras like child seats can be added at booking."
+      "a": "Third-party liability insurance and CDW come standard on most cars. VAT, a roadside safety kit, and a transparent fuel policy are included too. Mileage terms differ per vehicle, check the car listing. Zero-excess cover and extras like child seats can be added at booking."
     },
     "3": {
       "q": "How does pickup work at Podgorica Airport?",
-      "a": "Your agent meets you at Podgorica Airport (TGD) arrivals hall. The airport is 12 km south of the city on the Zeta plain — about 15 minutes to the centre. No shuttle, no waiting around; the car is parked right outside the terminal."
+      "a": "Your agent meets you at Podgorica Airport (TGD) arrivals hall. The airport is 12 km south of the city on the Zeta plain, about 15 minutes to the centre. No shuttle, no waiting around; the car is parked right outside the terminal."
     },
     "4": {
       "q": "Can I return the car somewhere different?",
-      "a": "One-way rentals are available across 28+ towns and cities in Montenegro. Pick up at Podgorica Airport, drop off in Nikšić, Kotor, or anywhere on the coast — just select different locations when you book."
+      "a": "One-way rentals are available across 28+ towns and cities in Montenegro. Pick up at Podgorica Airport, drop off in Nikšić, Kotor, or anywhere on the coast, just select different locations when you book."
     },
     "5": {
       "q": "What is the cancellation policy?",
@@ -232,22 +232,22 @@
   },
   "aboutBody": {
     "h1": "About Podgorica Car Rental",
-    "p1": "We started Podgorica Car Rental because we watched too many visitors land at TGD, grab the first taxi to the coast, and never once see the real interior. The capital deserves more than a layover. Ostrog Monastery clings to a cliff forty-five minutes north. Lake Skadar with its pelicans and floating vineyards sits half an hour south. Durmitor's glacial lakes are a two-hour drive inland. All of it is reachable — but only with wheels.",
+    "p1": "We started Podgorica Car Rental because we watched too many visitors land at TGD, grab the first taxi to the coast, and never once see the real interior. The capital deserves more than a layover. Ostrog Monastery clings to a cliff forty-five minutes north. Lake Skadar with its pelicans and floating vineyards sits half an hour south. Durmitor's glacial lakes are a two-hour drive inland. All of it is reachable, but only with wheels.",
     "h2": "The Podgorica Advantage",
     "p2": "Podgorica sits at the hub of every serious Montenegrin road trip. From the city ring road you are on the motorway to Bar in twenty minutes, at the Tuzi border for Albania in fifteen, and on the Morača canyon road toward Kolašin in under an hour. The airport (TGD) is twelve kilometres south on the Zeta plain, the Plantaže cellars are fifteen minutes out, and the old royal capital of Cetinje is a forty-minute climb up the switchbacks. A rental car turns a layover into a proper Balkan adventure.",
     "h3": "How We Work",
     "p3": "Search our fleet, pick a car, and book online with instant confirmation. We cover Podgorica Airport (12 km), the city centre, Nikšić, Kolašin, and 25 more pickup spots across the interior and coast. Fleet runs from budget city cars that slot into old-town parking to SUVs built for the Durmitor ring road. Every vehicle carries full insurance with no hidden fees.",
     "promiseTitle": "What You Get",
-    "promise1": "Full insurance — zero-excess upgrade available",
+    "promise1": "Full insurance, zero-excess upgrade available",
     "promise2": "Podgorica Airport meet-and-greet at the arrivals door",
     "promise3": "Transparent pricing: the number at booking is the number you pay",
     "promise4": "Cross-border driving to Croatia, Bosnia, Albania, Serbia, and Kosovo",
     "promise5": "Free cancellation on most cars",
     "promise6": "24/7 roadside backup wherever you end up",
     "h4": "We Live Here",
-    "p4": "Our team lives and drives in Podgorica. We know that the Delta City car park fills by Saturday lunchtime, that the Ostrog upper road is best attempted before 10am or after 4pm in summer, and that the best burek in town is hiding in a nameless bakery off Hercegovačka. We share this stuff freely — because a better road trip means a better review, and better reviews keep us going.",
+    "p4": "Our team lives and drives in Podgorica. We know that the Delta City car park fills by Saturday lunchtime, that the Ostrog upper road is best attempted before 10am or after 4pm in summer, and that the best burek in town is hiding in a nameless bakery off Hercegovačka. We share this stuff freely, because a better road trip means a better review, and better reviews keep us going.",
     "h5": "Talk to Us",
-    "p5": "Question about parking near the Millennium Bridge? Wondering whether to take the old road or the motorway to Bar? Drop us a message on WhatsApp, Viber, or plain old phone. Or just search the fleet and book — confirmation is instant."
+    "p5": "Question about parking near the Millennium Bridge? Wondering whether to take the old road or the motorway to Bar? Drop us a message on WhatsApp, Viber, or plain old phone. Or just search the fleet and book, confirmation is instant."
   },
   "montenegroBody": {
     "h1": "Driving Montenegro from a Podgorica Base",
@@ -261,25 +261,25 @@
     "rulesTitle": "Road Rules That Matter",
     "rulesIntro": "Police stops are common but painless if your documents are in order. Keep these in the car:",
     "rule1": "Valid driving licence (international permit accepted alongside your home licence)",
-    "rule2": "Rental contract — the original, not a screenshot",
+    "rule2": "Rental contract, the original, not a screenshot",
     "rule3": "Insurance documents",
     "rule4": "Green Card if you plan to cross any border (around €15 for 15 days)",
     "keyRulesTitle": "Rules of the Road",
     "keyRule1": "Seatbelts mandatory, front and back, every trip",
-    "keyRule2": "Phone use while driving is banned — hands-free only",
+    "keyRule2": "Phone use while driving is banned, hands-free only",
     "keyRule3": "Alcohol limit is zero. Not 'one glass'. Zero.",
     "keyRule4": "Speed cameras are real and fines arrive in the post",
     "conditionsTitle": "What the Roads Are Like",
-    "conditionsText": "The motorway south from Podgorica to Bar and the dual carriageway toward Danilovgrad are smooth and fast. Canyon roads — particularly the Morača toward Kolašin and the Piva toward Šćepan Polje — get narrower, steeper, and occasionally lack barriers. Some local drivers treat centre lines as suggestions. Stay alert on blind corners, especially on the climb from the Zeta plain up to Cetinje where the road hugs the cliffs.",
+    "conditionsText": "The motorway south from Podgorica to Bar and the dual carriageway toward Danilovgrad are smooth and fast. Canyon roads, particularly the Morača toward Kolašin and the Piva toward Šćepan Polje, get narrower, steeper, and occasionally lack barriers. Some local drivers treat centre lines as suggestions. Stay alert on blind corners, especially on the climb from the Zeta plain up to Cetinje where the road hugs the cliffs.",
     "routesTitle": "Best Drives from Podgorica",
     "e65Title": "North: Ostrog & the Morača Canyon",
-    "e65Text": "Follow the E65 up the Morača gorge toward Kolašin. Halfway there, peel off for the five-kilometre climb to Ostrog Monastery — Montenegro's most visited pilgrimage site, glued to a vertical cliff. Continue on to the Biogradska Gora rainforest for a lake-and-pines lunch. Total round trip from the capital: about 5 hours with stops.",
+    "e65Text": "Follow the E65 up the Morača gorge toward Kolašin. Halfway there, peel off for the five-kilometre climb to Ostrog Monastery, Montenegro's most visited pilgrimage site, glued to a vertical cliff. Continue on to the Biogradska Gora rainforest for a lake-and-pines lunch. Total round trip from the capital: about 5 hours with stops.",
     "e762Title": "South: Lake Skadar & the Albanian Border",
-    "e762Text": "Head south via Virpazar for the lake. Rent a small boat at the jetty, or drive the loop road above Rijeka Crnojevića for the postcard viewpoint. Continue to Tuzi and cross into Albania for lunch in Shkodër. Or stay inland for the Plantaže cellars fifteen minutes out of the city — Europe's largest single vineyard and an unexpectedly good place to spend an afternoon.",
+    "e762Text": "Head south via Virpazar for the lake. Rent a small boat at the jetty, or drive the loop road above Rijeka Crnojevića for the postcard viewpoint. Continue to Tuzi and cross into Albania for lunch in Shkodër. Or stay inland for the Plantaže cellars fifteen minutes out of the city, Europe's largest single vineyard and an unexpectedly good place to spend an afternoon.",
     "borderTitle": "Crossing Borders",
-    "borderText": "Montenegro borders five countries, and you can drive to all of them with the right paperwork. The Green Card covers insurance. The rental contract needs to list every country you plan to visit. Summer weekends bring long queues at the Croatian coastal crossing — weekday mornings or late evenings are the way to go. Tuzi for Albania is almost always quiet.",
+    "borderText": "Montenegro borders five countries, and you can drive to all of them with the right paperwork. The Green Card covers insurance. The rental contract needs to list every country you plan to visit. Summer weekends bring long queues at the Croatian coastal crossing, weekday mornings or late evenings are the way to go. Tuzi for Albania is almost always quiet.",
     "nationTitle": "A Tiny Country, Full-Sized Scenery",
-    "nationText": "Independent only since 2006, Montenegro is one of Europe's youngest nations. Tourism has boomed in the years since, but the capital region still feels like the local Montenegro — where families actually live, work, and weekend. From Podgorica you can sample all of it: the coast, the canyons, the lake, and the cross-border cities. There has never been a better time to rent a car and see what the whole place offers."
+    "nationText": "Independent only since 2006, Montenegro is one of Europe's youngest nations. Tourism has boomed in the years since, but the capital region still feels like the local Montenegro, where families actually live, work, and weekend. From Podgorica you can sample all of it: the coast, the canyons, the lake, and the cross-border cities. There has never been a better time to rent a car and see what the whole place offers."
   },
   "borderCrossingBody": {
     "h1": "Taking Your Rental Car Across Borders",
@@ -287,13 +287,13 @@
     "greenCardTitle": "The Green Card Explained",
     "greenCardText": "A Green Card is an international motor insurance certificate. Border guards check it to confirm your vehicle is insured in the country you are entering. No card, no crossing. Simple as that.",
     "greenCard1": "Cost: around €15 for 15 days of cover",
-    "greenCard2": "Your rental company arranges it — just confirm the countries at booking",
+    "greenCard2": "Your rental company arranges it, just confirm the countries at booking",
     "greenCard3": "Covers: Croatia, Bosnia, Albania, Kosovo, and Serbia",
     "greenCardWarn": "Check your Green Card covers every country on your route before you leave. A card valid for Croatia will not get you into Albania. Border guards check carefully.",
     "docsTitle": "What You Need at the Border",
     "doc1": "Passport or EU ID card",
     "doc2": "Driving licence (international licence accepted alongside your national one)",
-    "doc3": "Original rental contract — not a photocopy, not a phone screenshot",
+    "doc3": "Original rental contract, not a photocopy, not a phone screenshot",
     "doc4": "Green Card insurance certificate",
     "doc5": "Vehicle registration document (stays in the car)",
     "crossingsTitle": "Border Crossings by Country",
@@ -302,27 +302,27 @@
     "croatiaTip": "From Podgorica: allow 2 hours to reach the border via the Sozina tunnel and Herceg Novi. Best windows: before 8am or after 8pm. Weekdays are dramatically faster than weekends.",
     "croatiaFerry": "Time-saver: the Kamenari–Lepetane car ferry cuts across the Bay of Kotor in 10 minutes, shaving 45 minutes off the drive around the bay. Runs every 15 minutes, costs around €4.50 per car.",
     "albaniaTitle": "Montenegro → Albania",
-    "albaniaText": "Two main crossings: Hani i Hotit on the main road south of Tuzi, or Sukobin/Muriqan on the coast near Ulcinj. From Podgorica the Tuzi/Hani i Hotit route is the quickest — you are at the frontier inside twenty minutes. Budget 1.5–2 hours from the capital to Shkodër.",
-    "albaniaNote": "Heads up: Albanian roads are rougher once you leave the main Shkodër road. Livestock on the road is common outside cities. Drive cautiously, especially at dusk. Fuel up before crossing — petrol stations are spaced further apart.",
+    "albaniaText": "Two main crossings: Hani i Hotit on the main road south of Tuzi, or Sukobin/Muriqan on the coast near Ulcinj. From Podgorica the Tuzi/Hani i Hotit route is the quickest, you are at the frontier inside twenty minutes. Budget 1.5–2 hours from the capital to Shkodër.",
+    "albaniaNote": "Heads up: Albanian roads are rougher once you leave the main Shkodër road. Livestock on the road is common outside cities. Drive cautiously, especially at dusk. Fuel up before crossing, petrol stations are spaced further apart.",
     "bosniaTitle": "Montenegro → Bosnia & Herzegovina",
     "bosniaText": "The main crossing at Šćepan Polje (near Foča) connects to the Drina valley and Mostar beyond. Alternatively, cross at Vilusi from Nikšić. Both crossings are quiet with minimal waits year-round.",
     "serbiaTitle": "Montenegro → Serbia",
     "serbiaText": "Cross at Dobrakovo on the E65 north of Bijelo Polje. This connects to the Serbian motorway network and Belgrade. Allow 5 hours from Podgorica with stops.",
     "kosovoTitle": "Montenegro → Kosovo",
-    "kosovoText": "The Kula crossing near Rožaje connects to Peja/Peć in Kosovo. Double-check that Kosovo is listed on your Green Card — some policies exclude it.",
+    "kosovoText": "The Kula crossing near Rožaje connects to Peja/Peć in Kosovo. Double-check that Kosovo is listed on your Green Card, some policies exclude it.",
     "tipsTitle": "How to Make Border Crossings Painless",
     "tip1": "Stack all documents on the dashboard before you reach the queue. Fumbling at the window slows everyone down",
-    "tip2": "Kill the engine while waiting — border guards notice and appreciate it",
+    "tip2": "Kill the engine while waiting, border guards notice and appreciate it",
     "tip3": "Avoid summer weekends at the Croatian coast crossing. Weekdays cut your wait by 80%",
     "tip4": "Inland crossings to Bosnia and Serbia are almost always faster than the coastal Croatia route",
     "tip5": "Carry cash in euros. Useful for tolls, snacks, and the occasional roadside watermelon seller on the other side",
     "tip6": "Check your mobile roaming plan covers the next country. Data charges at borders are a common surprise",
     "lawsTitle": "Traffic Laws Change at the Border",
     "lawsIntro": "Every Balkan country has slightly different road rules. The differences that catch drivers out:",
-    "law1": "Croatia: headlights on at all times, even in broad daylight. Motorway tolls apply — card or cash at booths",
+    "law1": "Croatia: headlights on at all times, even in broad daylight. Motorway tolls apply, card or cash at booths",
     "law2": "Albania: lower speed limits on rural roads. Road quality drops sharply outside main cities",
     "law3": "Bosnia: winter tyres mandatory November through April. First-aid kit and warning triangle must be in the car",
-    "law4": "Serbia: zero alcohol tolerance for all drivers. Motorway tolls are charged at booth gates — collect a ticket when you join, settle the fare when you leave",
+    "law4": "Serbia: zero alcohol tolerance for all drivers. Motorway tolls are charged at booth gates, collect a ticket when you join, settle the fare when you leave",
     "law5": "Kosovo: drive on the right. International driving permit recommended. Road signage is improving but still patchy in rural areas",
     "popularTitle": "Popular Road Trips from Podgorica",
     "route1": "Podgorica → Dubrovnik: 3 hrs via the Sozina tunnel and the coast road. One border crossing, spectacular scenery once you reach the bay",

@@ -1,7 +1,7 @@
 import { buildAlternates } from '../../../metadata';
 import TuziAlbanianBorderShortHop from '@/src/components/pages/blog/TuziAlbanianBorderShortHop';
 
-const TITLE = "Tuzi — The Albanian Border Town South of Podgorica";
+const TITLE = "Tuzi, The Albanian Border Town South of Podgorica";
 const DESC = "A driving guide to Tuzi, the Albanian-majority town south of Podgorica: what to see, what to eat, and how to continue to the Hani i Hotit border crossing for Shkodër.";
 
 export async function generateMetadata({ params }) {

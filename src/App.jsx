@@ -729,20 +729,20 @@ const blogPosts = [
   {
     image: '/img/blog-podgorica-wineries-plantaze.webp',
     href: '/blog/podgorica-wineries-plantaze',
-    title: 'Plantaže Wineries — Šipčanik Cellar',
+    title: 'Plantaže Wineries, Šipčanik Cellar',
     excerpt: "Europe's largest single vineyard sits on Podgorica's doorstep. Tour the former underground aircraft hangar turned wine cellar, then drive south to Crmnica.",
   },
   {
     image: '/img/blog-gorica-hill-walk.webp',
     href: '/blog/gorica-hill-walk',
-    title: 'Gorica Hill — Podgorica\'s Forest in the City',
+    title: 'Gorica Hill, Podgorica\'s Forest in the City',
     excerpt: "The wooded hill the capital takes its name from. Trails, the WWII partisan memorial, and a 360° view of the Zeta plain.",
   },
   {
     image: '/img/blog-podgorica-rijeka-crnojevica-drive.webp',
     href: '/blog/podgorica-rijeka-crnojevica-drive',
     title: 'Rijeka Crnojevića and the Pavlova Strana Bend',
-    excerpt: "Montenegro's most-photographed viewpoint — the Pavlova Strana horseshoe bend above Lake Skadar.",
+    excerpt: "Montenegro's most-photographed viewpoint, the Pavlova Strana horseshoe bend above Lake Skadar.",
   },
 ];
 
@@ -833,7 +833,7 @@ function RoadTripPromo() {
             </div>
           </div>
           <div className="affiliate-promo__image">
-            <img src="/img/blog-niksic-beer-lake-loop.webp" alt="Nikšić and Ostrog — a day loop from Podgorica" loading="lazy" />
+            <img src="/img/blog-niksic-beer-lake-loop.webp" alt="Nikšić and Ostrog, a day loop from Podgorica" loading="lazy" />
           </div>
         </div>
       </div>

@@ -94,7 +94,7 @@ export default function Contact() {
                   <input type="text" name="name" placeholder={t('contact.nameLabel')} required disabled={status === 'sending'} style={{ padding: '14px 16px', border: '1px solid var(--gray-200)', borderRadius: '10px', fontSize: '15px', fontFamily: 'inherit' }} />
                   <input type="email" name="email" placeholder={t('contact.emailFieldLabel')} required disabled={status === 'sending'} style={{ padding: '14px 16px', border: '1px solid var(--gray-200)', borderRadius: '10px', fontSize: '15px', fontFamily: 'inherit' }} />
                   <textarea name="message" placeholder={t('contact.messagePlaceholder')} rows={4} required disabled={status === 'sending'} style={{ padding: '14px 16px', border: '1px solid var(--gray-200)', borderRadius: '10px', fontSize: '15px', fontFamily: 'inherit', resize: 'vertical' }} />
-                  {/* Honeypot field — hidden from humans, bots fill it */}
+                  {/* Honeypot field, hidden from humans, bots fill it */}
                   <input type="text" name="website" tabIndex="-1" autoComplete="off" style={{ position: 'absolute', left: '-9999px', width: '1px', height: '1px', opacity: 0 }} aria-hidden="true" />
 
                   {status === 'error' && (

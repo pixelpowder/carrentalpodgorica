@@ -6,8 +6,8 @@ export default function KomoviMountainsBeraneRoad() {
   const { localePath } = useTranslation();
   return (
     <ContentPage
-      title="The Komovi Mountains — Montenegro's Wild East"
-      subtitle="The twin pyramids of Kom Kučki and Kom Vasojevićki above 2,400 m — a long mountain-road day from Podgorica toward Berane"
+      title="The Komovi Mountains, Montenegro's Wild East"
+      subtitle="The twin pyramids of Kom Kučki and Kom Vasojevićki above 2,400 m, a long mountain-road day from Podgorica toward Berane"
       description="A driving guide to the Komovi mountains east of Podgorica: the route via Mateševo, the katun summer pastures, and how to reach Eko Katun Štavna by car."
       image="/img/blog-komovi-mountains-berane-road.webp"
     >
@@ -18,19 +18,19 @@ export default function KomoviMountainsBeraneRoad() {
       <p>Take the main E65 / E80 north out of Podgorica up the <strong>Morača canyon</strong>. This is the new motorway section (the Bar–Boljare A1) combined with the old canyon road and is Montenegro's main north–south axis. After around 70 km you reach <strong>Mateševo</strong>, where you leave the main road east onto the regional route toward <strong>Kolašin</strong> and then onward via <strong>Lijeva Rijeka</strong> or <strong>Andrijevica</strong>.</p>
       <p>There are two main approaches to the Komovi:</p>
       <ul>
-        <li><strong>From the south via Lijeva Rijeka</strong> — the more direct but slower route, on smaller mountain roads from Podgorica via the Kuči region. Slow, steep in places, and scenic.</li>
-        <li><strong>From the north via Andrijevica</strong> — easier driving on wider roads, through Kolašin. Best for most visitors.</li>
+        <li><strong>From the south via Lijeva Rijeka</strong>, the more direct but slower route, on smaller mountain roads from Podgorica via the Kuči region. Slow, steep in places, and scenic.</li>
+        <li><strong>From the north via Andrijevica</strong>, easier driving on wider roads, through Kolašin. Best for most visitors.</li>
       </ul>
       <p>Total drive time from Podgorica to the Štavna katuns is in the region of 2.5–3 hours via Kolašin/Andrijevica.</p>
 
       <h2>Eko Katun Štavna and the high meadows</h2>
-      <p>The famous scene — wooden shepherds' huts on a high meadow with the Koms rising behind — is at <strong>Eko Katun Štavna</strong> and surrounding katuns on the saddle at around 1,700 m. <em>Katun</em> is the Balkan word for a seasonal mountain settlement — shepherds still come up in summer to pasture sheep and cattle and to make cheese. A number of katuns have been restored as simple guesthouses with food service.</p>
+      <p>The famous scene, wooden shepherds' huts on a high meadow with the Koms rising behind — is at <strong>Eko Katun Štavna</strong> and surrounding katuns on the saddle at around 1,700 m. <em>Katun</em> is the Balkan word for a seasonal mountain settlement — shepherds still come up in summer to pasture sheep and cattle and to make cheese. A number of katuns have been restored as simple guesthouses with food service.</p>
       <p>The final approach road onto the saddle is a rough unsealed track — passable in a normal car in dry conditions, slow but fine. After heavy rain, or if there is any lingering snow in May or early June, take an SUV or don't go. Watch for loose stone and cattle on the track.</p>
 
       <img src="/img/blog-komovi-mountains-berane-road.webp" alt="Komovi mountains and katun meadows above Štavna" loading="lazy" />
 
       <h2>Hiking from the katuns</h2>
-      <p>Most walkers come for the day hike to the base of Kom Vasojevićki; the full summit is a proper scramble for experienced hillwalkers with the right gear, not a casual walk. A good, easier option is the marked path that circles through the meadows and gives you the classic viewpoint of both peaks from below — 2 to 4 hours, little technical difficulty, but you're at altitude and the weather can change fast. Thunderstorms build on summer afternoons from around 14:00 — start early.</p>
+      <p>Most walkers come for the day hike to the base of Kom Vasojevićki; the full summit is a proper scramble for experienced hillwalkers with the right gear, not a casual walk. A good, easier option is the marked path that circles through the meadows and gives you the classic viewpoint of both peaks from below, 2 to 4 hours, little technical difficulty, but you're at altitude and the weather can change fast. Thunderstorms build on summer afternoons from around 14:00 — start early.</p>
 
       <h2>Food at the katuns</h2>
       <p>The katun kitchens serve the food of the mountain: <em>kačamak</em> (cornmeal polenta mixed with potato and young cheese), <em>cicvara</em> (a richer cornmeal-and-cheese dish), fresh full-cream cheese, and roast lamb on the longer menus. Portions are large and prices are fair. Coffee is Turkish; there is usually home-made rakija. Don't plan to drive straight after.</p>

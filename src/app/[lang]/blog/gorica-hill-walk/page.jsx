@@ -1,7 +1,7 @@
 import { buildAlternates } from '../../../metadata';
 import GoricaHillWalk from '@/src/components/pages/blog/GoricaHillWalk';
 
-const TITLE = "Gorica Hill — Podgorica's Forest in the City";
+const TITLE = "Gorica Hill, Podgorica's Forest in the City";
 const DESC = "A walking guide to Gorica Hill in central Podgorica: trails, the WWII partisan memorial, the church of St George, and where to park at the trailhead.";
 
 export async function generateMetadata({ params }) {

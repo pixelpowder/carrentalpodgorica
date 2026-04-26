@@ -33,9 +33,9 @@ export default function PodgoricaMillenniumBridgeNewCity() {
 
       <h2>Parking for the walk</h2>
       <ul>
-        <li><strong>Trg Republike underground car park</strong> — central, paid, supervised. The convenient option.</li>
-        <li><strong>Around the Delta City mall</strong> (across the river, west) — free if you validate a small purchase, 15-minute walk to the bridge.</li>
-        <li><strong>Street zone parking</strong> around the new-city grid — paid Monday to Saturday via meter or SMS, free Sunday. Don't ignore the zone signs; ticketing is active.</li>
+        <li><strong>Trg Republike underground car park</strong>, central, paid, supervised. The convenient option.</li>
+        <li><strong>Around the Delta City mall</strong> (across the river, west), free if you validate a small purchase, 15-minute walk to the bridge.</li>
+        <li><strong>Street zone parking</strong> around the new-city grid, paid Monday to Saturday via meter or SMS, free Sunday. Don't ignore the zone signs; ticketing is active.</li>
       </ul>
 
       <h2>When to come</h2>
@@ -45,7 +45,7 @@ export default function PodgoricaMillenniumBridgeNewCity() {
       <p>Near the cathedral is the <strong>Natural History Museum</strong> and Moraca riverbank park; south of the bridge along the river there are pleasant walking paths and playgrounds; north of Trg Republike you can walk up into <strong>Blok V</strong>, a classic piece of Yugoslav-modernist housing that architecturally-minded visitors tend to enjoy.</p>
 
       <h2>Pair with</h2>
-      <p>The natural pairing is <a href={localePath('/blog/stara-varos-podgorica-ottoman-quarter')}>Stara Varoš</a> — the historic Ottoman quarter is directly across the Ribnica from the new city, and the two together give you a complete picture of the capital. For a full day, follow up with <a href={localePath('/blog/gorica-hill-walk')}>Gorica Hill</a> for a view down over both districts.</p>
+      <p>The natural pairing is <a href={localePath('/blog/stara-varos-podgorica-ottoman-quarter')}>Stara Varoš</a>, the historic Ottoman quarter is directly across the Ribnica from the new city, and the two together give you a complete picture of the capital. For a full day, follow up with <a href={localePath('/blog/gorica-hill-walk')}>Gorica Hill</a> for a view down over both districts.</p>
 
       <div className="route-info">
         <h3>At a glance</h3>

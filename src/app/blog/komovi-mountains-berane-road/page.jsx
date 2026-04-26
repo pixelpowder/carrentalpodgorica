@@ -1,7 +1,7 @@
 import { buildAlternates } from '../../metadata';
 import KomoviMountainsBeraneRoad from '@/src/components/pages/blog/KomoviMountainsBeraneRoad';
 
-const TITLE = "The Komovi Mountains — Montenegro's Wild East";
+const TITLE = "The Komovi Mountains, Montenegro's Wild East";
 const DESC = "A driving guide from Podgorica to the Komovi mountains: the twin pyramid peaks Kom Kučki and Kom Vasojevićki, the Štavna katun meadows, and the road east to Berane.";
 
 export async function generateMetadata() {

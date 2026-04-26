@@ -1,7 +1,7 @@
 import { buildAlternates } from '../../metadata';
 import PodgoricaMorningCoffeeSpots from '@/src/components/pages/blog/PodgoricaMorningCoffeeSpots';
 
-const TITLE = "Podgorica Morning Coffee — Cafés, Markets and Parking";
+const TITLE = "Podgorica Morning Coffee, Cafés, Markets and Parking";
 const DESC = "A practical guide to mornings in Podgorica: café culture, where to park, where to find burek and the green market, and how to get out of the city on the right road.";
 
 export async function generateMetadata() {

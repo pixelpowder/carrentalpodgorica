@@ -1,7 +1,7 @@
 import { buildAlternates } from '../../metadata';
 import PodgoricaWineriesPlantaze from '@/src/components/pages/blog/PodgoricaWineriesPlantaze';
 
-const TITLE = "Plantaže Wineries — Šipčanik Cellar and the Crmnica Road";
+const TITLE = "Plantaže Wineries, Šipčanik Cellar and the Crmnica Road";
 const DESC = "A driving guide to the Plantaže Šipčanik underground cellar and the Crmnica wine region south of Podgorica: where to taste Vranac, how to book, and where to park.";
 
 export async function generateMetadata() {

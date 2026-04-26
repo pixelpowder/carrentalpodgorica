@@ -1,7 +1,7 @@
 import { buildAlternates } from '../../metadata';
 import StaraVarosPodgoricaOttomanQuarter from '@/src/components/pages/blog/StaraVarosPodgoricaOttomanQuarter';
 
-const TITLE = "Stara Varoš — Podgorica's Ottoman Quarter";
+const TITLE = "Stara Varoš, Podgorica's Ottoman Quarter";
 const DESC = "A walking guide to Stara Varoš: the Sahat Kula clock tower, the Osmanagić mosque, the Ribnica bridge, and where to park in Podgorica's old Ottoman quarter.";
 
 export async function generateMetadata() {

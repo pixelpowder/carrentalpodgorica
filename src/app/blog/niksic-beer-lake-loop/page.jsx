@@ -1,7 +1,7 @@
 import { buildAlternates } from '../../metadata';
 import NiksicBeerLakeLoop from '@/src/components/pages/blog/NiksicBeerLakeLoop';
 
-const TITLE = "Nikšić, Krupac Lake and Ostrog — a Day Loop from Podgorica";
+const TITLE = "Nikšić, Krupac Lake and Ostrog, a Day Loop from Podgorica";
 const DESC = "A one-day driving loop from Podgorica: Nikšić old town and brewery, a swim at Krupac lake, and Ostrog Monastery on the return. Distances, parking, and timing.";
 
 export async function generateMetadata() {

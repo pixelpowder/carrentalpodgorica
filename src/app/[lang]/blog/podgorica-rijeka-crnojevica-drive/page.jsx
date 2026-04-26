@@ -2,7 +2,7 @@ import { buildAlternates } from '../../../metadata';
 import PodgoricaRijekaCrnojevicaDrive from '@/src/components/pages/blog/PodgoricaRijekaCrnojevicaDrive';
 
 const TITLE = "Rijeka Crnojevića and the Pavlova Strana Horseshoe Bend";
-const DESC = "A driving guide from Podgorica to Pavlova Strana — the famous horseshoe bend above Lake Skadar — and the stone-built village of Rijeka Crnojevića.";
+const DESC = "A driving guide from Podgorica to Pavlova Strana, the famous horseshoe bend above Lake Skadar, and the stone-built village of Rijeka Crnojevića.";
 
 export async function generateMetadata({ params }) {
   const { lang } = await params;
