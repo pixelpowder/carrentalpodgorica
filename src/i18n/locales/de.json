@@ -30,7 +30,9 @@
     "pickupTime": "Uhrzeit",
     "dropoffDate": "Rückgabedatum",
     "dropoffTime": "Uhrzeit",
-    "selectDates": "Daten wählen"
+    "selectDates": "Daten wählen",
+    "headlineMain": "Car Rental Podgorica",
+    "headlineSub": "Montenegros Hauptstadt, Ihre Räder."
   },
   "trust": {
     "noHiddenFees": "Keine versteckten Kosten",
@@ -60,7 +62,12 @@
   "fleet": {
     "label": "Unsere Flotte",
     "title": "Wählen Sie Ihr Fahrzeug",
-    "subtitle": "Verfügbarkeit und Preise in Echtzeit, direkt buchen."
+    "subtitle": "Verfügbarkeit und Preise in Echtzeit, direkt buchen.",
+    "browseByCategory": "Nach Kategorie durchsuchen",
+    "ourFleet": "Unsere Flotte",
+    "tabCities": "Städte",
+    "tabAirports": "Flughäfen",
+    "tabScenic": "Aussichtsstrecken"
   },
   "brands": {
     "label": "Vertrauenswürdige Marken in unserer Flotte"
@@ -258,8 +265,8 @@
       "a": "Ihr Ansprechpartner erwartet Sie in der Ankunftshalle des Flughafens Tivat. Die 22 km lange Küstenstraße nach Budva dauert je nach Sommerverkehr rund 25 Minuten. Kein Shuttle, kein Herumwarten, das Auto steht direkt vor dem Terminal."
     },
     "5": {
-      "q": "Kann ich das Auto woanders zurückgeben?",
-      "a": "Einwegmieten sind in 28+ Städten und Gemeinden in Montenegro verfügbar. In Tivat abholen, in Budva zurückgeben oder umgekehrt, einfach verschiedene Standorte bei der Buchung auswählen."
+      "q": "Kann ich einen Kindersitz oder andere Extras hinzufügen?",
+      "a": "Ja. Kindersitze, Sitzerhöhungen, zusätzliche Fahrer und Dachträger können bei der Buchung hinzugefügt werden. Wählen Sie einfach die gewünschten Extras auf der Suchergebnisseite aus, der Preis wird vor der Bestätigung klar angezeigt. Die Ausstattung ist bei der Abholung am Flughafen Podgorica (TGD) oder am gewählten Abholort einsatzbereit."
     },
     "6": {
       "q": "Wie sind die Stornierungsbedingungen?",
@@ -326,6 +333,46 @@
       "name": "Podgorica",
       "tag": "Hauptstadt",
       "desc": "Montenegros moderne Hauptstadt, Kultur und Handel."
+    },
+    "blog/podgorica-wineries-plantaze": {
+      "name": "Plantaže Weingüter",
+      "tag": "15 Min Fahrt",
+      "desc": "Europas größtes zusammenhängendes Weingut sowie der Šipčanik-Weintunnel, in einen ehemaligen unterirdischen Flugzeughangar geschnitten."
+    },
+    "blog/gorica-hill-walk": {
+      "name": "Gorica-Hügel",
+      "tag": "Stadtzentrum",
+      "desc": "Der bewaldete Hügel, dem die Hauptstadt ihren Namen verdankt, Wanderwege, ein Denkmal aus dem Zweiten Weltkrieg und ein 360-Grad-Blick auf die Zeta-Ebene."
+    },
+    "blog/podgorica-rijeka-crnojevica-drive": {
+      "name": "Dorf Rijeka Crnojevića",
+      "tag": "Pavlova Strana",
+      "desc": "Der meistfotografierte Aussichtspunkt Montenegros, die Hufeisenkurve Pavlova Strana hoch über dem Skadarsee."
+    },
+    "blog/stara-varos-podgorica-ottoman-quarter": {
+      "name": "Stara Varoš (Altes Viertel)",
+      "tag": "Altes Viertel",
+      "desc": "Das osmanische Viertel von Podgorica, der Uhrenturm, die Osmanagić-Moschee und die Gassen, die die Kriege überstanden haben."
+    },
+    "blog/niksic-beer-lake-loop": {
+      "name": "Nikšić und Ostrog",
+      "tag": "Tagesschleife",
+      "desc": "Montenegros zweitgrößte Stadt, die Brauerei hinter dem Nikšićko-Bier, ein Bad im Krupac-See und Ostrog auf dem Rückweg."
+    },
+    "blog/komovi-mountains-berane-road": {
+      "name": "Komovi-Berge",
+      "tag": "Wilder Osten",
+      "desc": "Die Zwillingspyramiden Kom Kučki und Kom Vasojevićki über 2.400 m, ein langer Bergstraßentag Richtung Berane."
+    },
+    "blog/podgorica-millennium-bridge-new-city": {
+      "name": "Millennium-Brücke",
+      "tag": "Neustadt",
+      "desc": "Die Schrägseilbrücke über die Morača, die Kathedrale Hristovo Vaskrsenje und die besten Parkplätze, um alle drei zu sehen."
+    },
+    "blog/tuzi-albanian-border-short-hop": {
+      "name": "Tuzi",
+      "tag": "15 km südlich",
+      "desc": "Fünfzehn Kilometer von der Hauptstadt entfernt und ein anderes Montenegro, Malësia-Berge, albanische Bäckereien, Grenzübergang Hani i Hotit."
     }
   },
   "aboutBody": {
@@ -559,5 +606,296 @@
     "destinations": "Destinations",
     "travelGuides": "Travel Guides",
     "bokaBayRentals": "Podgorica Rentals"
+  },
+  "cars": {
+    "renault-clio": {
+      "name": "Renault Clio",
+      "category": "Economy",
+      "tagline": "Pflegeleichter Stadtwagen für einen zweiwöchigen Podgorica-Aufenthalt",
+      "lede": "Sparsam, günstig zu parken am Abholort und bequem auf der Autobahn nach Podgorica oder Žabljak.",
+      "suitability": "Ein Paar, das zehn bis vierzehn Tage in Podgorica bleibt, mit regelmäßigen Tagesausflügen nach Cetinje, Risan und ans Skadarsee-Ufer. Leicht zu parken, sparsam im Verbrauch.",
+      "regional": "Bewältigt die Steigung Podgorica nach Cetinje im dritten Gang ohne Drama, fädelt sich durch die schmale Uferpromenade der Außenbezirke und der Verbrauch von 5,3 L/100 km hält die Spritkosten bei mehrwöchiger Miete kalkulierbar.",
+      "bestFor": {
+        "0": "Paare bei zweiwöchigem Aufenthalt",
+        "1": "Tagesausflügler nach Cetinje und Njeguši",
+        "2": "Besucher der römischen Mosaike in Risan"
+      },
+      "features": {
+        "0": "Bluetooth-Audio",
+        "1": "USB-Ladung",
+        "2": "Zentralverriegelung",
+        "3": "Touchscreen-Display"
+      }
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "category": "Mid-Size",
+      "tagline": "Mittelklasse-Diesel für die Strecken Podgorica nach Dubrovnik und Podgorica nach Durmitor",
+      "lede": "Langläufiger BlueHDi mit Automatikgetriebe, gemacht für den 3-stündigen Aufstieg nach Žabljak oder die grenzüberschreitende Fahrt nach Trebinje und Mostar.",
+      "suitability": "Die Wahl der Mittelklasse-Diesel für alle, die eine Podgorica-Basis mit mehrtägigen Fahrten ins Landesinnere kombinieren, Automatik und Tempomat zahlen sich auf der Autobahn von Podgorica aus.",
+      "regional": "Bewältigt den Autobahnabschnitt Smokovac nach Mateševo mühelos, schluckt eine Woche Wanderausrüstung für Žabljak und schafft die Strecke Podgorica nach Dubrovnik über Debeli Brijeg mit einer halben Tankfüllung.",
+      "bestFor": {
+        "0": "Grenzüberschreitende Roadtripper",
+        "1": "Durmitor-Wochenendausflügler",
+        "2": "Vier Erwachsene mit vollem Gepäck"
+      },
+      "features": {
+        "0": "Automatikgetriebe",
+        "1": "Adaptiver Tempomat",
+        "2": "Zwei-Zonen-Klima",
+        "3": "Großer Kofferraum"
+      }
+    },
+    "renault-megane": {
+      "name": "Renault Megane",
+      "category": "Mid-Size",
+      "tagline": "Französische Mittelklasse mit größtem Kofferraum, gemacht für Langzeitgepäck und Seetouren",
+      "lede": "434-Liter-Kofferraum, ruhiger Diesel-Reisestil, sofa-weiche Dämpfung, die Wahl unter den Mittelklasse-Kombis für einen Monat in der Bucht mit regelmäßigen Ausflügen.",
+      "suitability": "Mieter, die mehr Stauraum als einen Hatchback wollen, ohne die Länge eines vollen Kombis, ideal für Skadarsee-Angelausrüstung, Cetinje-Klostertaschen und eine Kühlbox für die Heimfahrt.",
+      "regional": "Das langhubige Fahrwerk steckt das fleckige Bitumen auf der alten Strecke Podgorica nach Budva mühelos weg, der dCi-Diesel nippt am Sprit auf der Sozina-Tunnelfahrt, und der großzügige Kofferraum nimmt zwei Wochen Familiengepäck samt der Wäschetasche aus Prčanj.",
+      "bestFor": {
+        "0": "Langzeit-Mieter",
+        "1": "Skadarsee-Tagesausflügler",
+        "2": "Familien auf Klosterbesuch"
+      },
+      "features": {
+        "0": "Großer Kofferraum",
+        "1": "Bluetooth-Audio",
+        "2": "Tempomat",
+        "3": "Parksensoren"
+      }
+    },
+    "kia-stonic": {
+      "name": "Kia Stonic",
+      "category": "Compact Crossover",
+      "tagline": "Erhöhter Crossover für die Schotteranfahrt nach Njeguši und Lovćen",
+      "lede": "Etwas höher liegende Alternative zum Hatchback, meistert die ausgefahrenen Abzweigstraßen um Njeguši und die rückwärtigen Lovćen-Anfahrten ohne aufzusetzen.",
+      "suitability": "Mieter, die Crossover-Sicht und etwas Bodenfreiheit für die Nebenstraßen rund um die obere Bucht von Podgorica und die Lovćen-Anfahrt wollen, ohne SUV-Preise zu zahlen.",
+      "regional": "Die höhere Sitzposition erlaubt besseren Überblick über Mauerränder, die 182 mm Bodenfreiheit nehmen die Steinrillen auf der alten Schinkenräucher-Spur von Njeguši mit, und der 352-Liter-Kofferraum bewältigt Durmitor-Wanderausrüstung ohne Sitzumlegen.",
+      "bestFor": {
+        "0": "Wochenendausflügler nach Njeguši",
+        "1": "Durmitor-Tagesausflügler",
+        "2": "Fotografen auf der Suche nach Bergrücken-Aussichten"
+      },
+      "features": {
+        "0": "Erhöhte Bodenfreiheit",
+        "1": "Apple CarPlay",
+        "2": "Rückfahrkamera",
+        "3": "Spurhalteassistent"
+      }
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "category": "Mid-Size",
+      "tagline": "DSG-Diesel-Allrounder, ruhiges Reisen auf der E80 und Mehrtages-Schleifen",
+      "lede": "Die rationale Standardwahl für Mieter, die eine Podgorica-Basis mit langen Fahrten ins Landesinnere verbinden, kultiviert, schnell genug, sparsam auf der Autobahn.",
+      "suitability": "Die Standard-Mittelklasse für Mieter, die ein Auto wollen, das am ersten Tag den Podgorica-Altstadt-Ring fährt und am vierten Tag die Autobahn Smokovac nach Mateševo ohne zu meckern bewältigt.",
+      "regional": "Das DSG findet auf den Haarnadeln Podgorica nach Lovćen ohne Nachdenken den passenden Gang, der 2.0 TDI hält 130 km/h auf dem Autobahnabschnitt nach Podgorica bei 4,3 L/100 km, und die Kabinenstille macht die 3-Stunden-Fahrt nach Žabljak wirklich entspannend.",
+      "bestFor": {
+        "0": "Paare zwischen Küste und Canyon",
+        "1": "Geschäftsreisende mit Wochenmieten",
+        "2": "Fahrer mit BiH- oder Kroatien-Grenze im Plan"
+      },
+      "features": {
+        "0": "DSG-Automatik",
+        "1": "Adaptiver Tempomat",
+        "2": "Digitales Cockpit",
+        "3": "Apple CarPlay"
+      }
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "category": "City",
+      "tagline": "Briefmarken-Stadtauto für einen kurzen Podgorica-Aufenthalt, schiebt sich zwischen Lieferwagen",
+      "lede": "Winziger Stellplatz, Sonnendach, hybrid-unterstützter 1.0, der Pick für eine zwei- oder dreinächtige Podgorica-Basis ohne Mehrtagesfahrten.",
+      "suitability": "Zwei oder drei Nächte in Podgorica mit kurzen Nachmittagsausflügen nach Perast und Prčanj, der 500 parkt, wo Mittelklasse-Autos winkend vorbeifahren.",
+      "regional": "Die 3,57 m Länge ist entscheidend: passt in die abgestuften Terrassenparkplätze am Wasser der Nachbardörfer und in die schultergroße Lücke vor dem Seetor, in die ein Clio nicht passt. Untermotorisiert für den Lovćen-Anstieg, also mit Seilbahn-Transfer kombinieren oder im Buchtbereich bleiben.",
+      "bestFor": {
+        "0": "Kurze Stadtbasis-Aufenthalte",
+        "1": "Alleinreisende mit knappem Budget",
+        "2": "Fotografen für kurze Hopser"
+      },
+      "features": {
+        "0": "Kompakte Größe",
+        "1": "Einfaches Parken",
+        "2": "Schiebedach",
+        "3": "Bluetooth"
+      }
+    },
+    "citroen-c3": {
+      "name": "Citroen C3",
+      "category": "Economy",
+      "tagline": "Weichster Kleinwagen für die holprige Strecke Podgorica nach Risan und Nebenstraßen-Umwege",
+      "lede": "Advanced-Comfort-Dämpfer bügeln den geflickten Asphalt der alten Buchtstraße aus, der sanfteste Kleinwagen zum Übernachten an den Podgorica-Bastionen.",
+      "suitability": "Die Komfort-Wahl für eine Woche in Podgorica mit täglichen ruhigen Umwegen, Risans römische Mosaike, der Weiler Gornja Lastva über Tivat, die Schleife zurück durch die Nachbardörfer.",
+      "regional": "Die progressiven hydraulischen Anschläge lassen die Schlaglochstrecke von Risan nach Perast eine Klasse leiser wirken, der unaufgeregte 83-PS-Motor passt zu den 50-km/h-Tempolimits am Buchtufer, und die 4-Meter-Länge passt in jede Altstadt-Bastionsbucht.",
+      "bestFor": {
+        "0": "Langsam tourende Paare",
+        "1": "Nebenstraßen-Erkunder",
+        "2": "Mieter mit Reisekrankheit"
+      },
+      "features": {
+        "0": "Advanced-Comfort-Sitze",
+        "1": "Bluetooth-Audio",
+        "2": "USB-Ladung",
+        "3": "Spurverlassenswarnung"
+      }
+    },
+    "articleTitle": "Über dieses Auto",
+    "checkAvailability": "Verfügbarkeit prüfen",
+    "featuresTitle": "Ausstattung",
+    "nextBtn": "Nächstes Auto",
+    "overviewTitle": "Überblick",
+    "readGuide": "Vollständigen Guide lesen",
+    "regionalTitle": "Auf Montenegros Straßen",
+    "relatedTitle": "Verwandte Guides",
+    "whoForTitle": "Für wen passt es",
+    "sections": {
+      "behindWheel": "Hinter dem Steuer",
+      "bestFor": "Am besten für",
+      "onRoads": "Auf Montenegros Straßen",
+      "practical": "Praktische Hinweise",
+      "spaceLoad": "Platz und Beladung",
+      "verdict": "Fazit"
+    }
+  },
+  "affiliate": {
+    "heroTitle": "Werden Sie Car Rental Podgorica-Partner",
+    "heroSubtitle": "Empfehlen Sie Reisende nach Montenegro und verdienen Sie an jeder vermittelten Buchung mit. Aufgebaut auf dem LocalRent-Partnerprogramm.",
+    "signUp": "Bei LocalRent anmelden",
+    "howTitle": "So funktioniert es",
+    "step1Title": "Bewerben",
+    "step1Text": "Melden Sie sich beim LocalRent-Partnerprogramm an. Die Freischaltung dauert in der Regel einen Werktag.",
+    "step2Title": "Bewerben Sie uns",
+    "step2Text": "Setzen Sie Ihren Empfehlungslink in Artikel, Newsletter, Social-Media-Posts oder binden Sie das Buchungs-Widget direkt auf Ihrer Website ein.",
+    "step3Title": "Verdienen",
+    "step3Text": "Sie erhalten eine Vergütung für jede bestätigte Buchung, mit monatlicher Auszahlung in EUR direkt auf Ihr Konto.",
+    "commissionTitle": "Provision und Preise",
+    "revenueShare": "Umsatzbeteiligung",
+    "revenueShareText": "Bis zu 10 % des Mietpreises pro bestätigter Buchung über Ihren Link.",
+    "avgBooking": "Durchschnittliche Buchung",
+    "avgBookingText": "Eine typische Podgorica-Anmietung dauert fünf bis sieben Tage zu etwa 30 bis 45 EUR pro Tag, jede Buchung bringt also eine spürbare Auszahlung.",
+    "noCap": "Keine Obergrenze",
+    "noCapText": "Es gibt keine monatliche Verdienstgrenze. Tausend Buchungen, tausendmal Provision.",
+    "minPayout": "Niedrige Mindestauszahlung",
+    "minPayoutText": "Auszahlung möglich ab einem Guthaben von 50 EUR. Keine versteckten Gebühren bei Überweisungen innerhalb der EU.",
+    "toolsTitle": "Diese Tools stellen wir bereit",
+    "refLinks": "Empfehlungslinks",
+    "refLinksText": "Persönliche Tracking-Links, die Sie in jeden Blogbeitrag, jede Social-Bio oder jeden Newsletter einfügen können.",
+    "widget": "Buchungs-Widget",
+    "widgetText": "Ein einbettbares iFrame, das Live-Verfügbarkeit und Preise auf Ihren eigenen Seiten anzeigt, auf Wunsch in Ihrem Branding.",
+    "whiteLabel": "White-Label-Option",
+    "whiteLabelText": "Buchungsfluss unter Ihrer eigenen Domain mit unserem Backend, verfügbar für volumenstarke Partner.",
+    "api": "API-Zugang",
+    "apiText": "Direkte API für Bestand, Preise und Buchungsanlage. Für Entwickler, die individuelle Reise-Sites bauen.",
+    "whoTitle": "Für wen das ist",
+    "whoBloggers": "Reiseblogger",
+    "whoBloggersText": "Alle, die Montenegro-Guides, Roadtrip-Routen oder Küsten- und Canyon-Planungsinhalte schreiben.",
+    "whoLocal": "Lokale Unterkünfte",
+    "whoLocalText": "Hotels, Apartments und Gästehäuser in Podgorica und der Region Montenegro, deren Gäste Transport brauchen.",
+    "whoCreators": "Content-Creator",
+    "whoCreatorsText": "YouTuber, Fotografen und Instagram-Creator, die Inhalte zu Balkan und Adria produzieren.",
+    "whoDevs": "Entwickler",
+    "whoDevsText": "Travel-Tech-Builder, die Mietwagen in Montenegro in größere Buchungsplattformen integrieren.",
+    "ctaTitle": "Bereit zum Start?",
+    "ctaSubtitle": "In unter fünf Minuten bei LocalRent anmelden, oder kontaktieren Sie uns bei Fragen.",
+    "questionsEmail": "Fragen? Schreiben Sie uns"
+  },
+  "contact": {
+    "heading": "Car Rental Podgorica kontaktieren",
+    "intro": "Schreiben Sie uns zu einer Buchung, fragen Sie nach einem Fahrzeug, oder erreichen Sie uns über WhatsApp.",
+    "emailLabel": "E-Mail",
+    "whatsappLabel": "WhatsApp",
+    "chatCta": "Chat starten",
+    "formHeading": "Senden Sie uns eine Nachricht",
+    "nameLabel": "Ihr Name",
+    "emailFieldLabel": "E-Mail-Adresse",
+    "messagePlaceholder": "Ihre Nachricht",
+    "sendButton": "Nachricht senden"
+  },
+  "ctaBrand": {
+    "brand": "Car Rental Podgorica",
+    "tagline": "Ab 13 €/Tag · Flughafen Podgorica (TGD) 12 km entfernt",
+    "searchCars": "Autos suchen"
+  },
+  "statsLabels": {
+    "countriesPermitted": "Erlaubte Grenzländer",
+    "customerRating": "Kundenbewertung",
+    "pickupLocations": "Abholorte",
+    "vehiclesAvailable": "Verfügbare Fahrzeuge"
+  },
+  "cookieBanner": {
+    "title": "Wir verwenden Cookies",
+    "text": "Wir verwenden Cookies, um Ihr Erlebnis zu verbessern und die Nutzung zu analysieren. Mit der Nutzung stimmen Sie unserer Cookie-Richtlinie zu.",
+    "accept": "Akzeptieren",
+    "decline": "Ablehnen"
+  },
+  "contentPage": {
+    "readyCta": "Bereit loszufahren?",
+    "searchCars": "Autos suchen"
+  },
+  "blogHome": {
+    "sectionLabel": "Aus dem Blog",
+    "sectionTitle": "Fahranleitungen und Podgorica-Berichte",
+    "sectionSubtitle": "Praktische, prägnante Beiträge zu den Strecken, Parkplätzen und Speisen, die wir am besten kennen.",
+    "viewAll": "Alle Beiträge ansehen"
+  },
+  "roadTripPlanner": {
+    "label": "Roadtrip-Planer",
+    "title": "Planen Sie Ihren Podgorica-Roadtrip",
+    "desc": "Wählen Sie eine Basis, wählen Sie eine Strecke, wir stellen das Auto bereit. Die meisten Mieter verbringen eine Woche mit Canyon-Touren, Skadar-See und Küste.",
+    "lovcenGuide": "Lovćen-Guide ansehen",
+    "browseAll": "Alle Guides durchsuchen"
+  },
+  "fleetIndex": {
+    "title": "Unsere Podgorica-Mietwagenflotte",
+    "subtitle": "Auf das Fahren in der Hauptstadtregion zugeschnittene Autos, von Stadtautos bis Autobahn-Kombis.",
+    "intro1": "Jedes Fahrzeug der Flotte ist auf die typische Nutzung in Podgorica abgestimmt: kurze Innenstadt-Sprünge zwischen Terminen, Tagesausflüge zum Skadar-See oder nach Cetinje, und lange Fahrten ins Landesinnere bis Žabljak oder über die albanische Grenze.",
+    "intro2": "Die Economy- und City-Optionen sind auf die schmalen Gassen von Stara Varoš und die belebte Hercegovačka-Café-Meile zugeschnitten. Die Mittelklasse-Diesel sind für die Autobahn von Podgorica nach Bar und die Strecke Smokovac-Mateševo abgestimmt. Crossover und SUVs bieten mehr Bodenfreiheit für die rauen Bergabzweige.",
+    "intro3": "Die angezeigte Preisangabe ist der Tagessatz in der günstigsten Woche des Jahres. Langzeit- und Saisonpreise sind verfügbar, fragen Sie bei der Buchung an.",
+    "seoDesc": "Vergleichen Sie Autos unserer Podgorica-Mietwagenflotte. Ab 20 €/Tag Economy-Hatchbacks bis hin zu autobahntauglichen Dieseln und Crossovern, alle mit Vollkasko und TGD-Flughafenabholung."
+  },
+  "fleetShowcase": {
+    "label": "Auto wählen",
+    "title": "Gemacht für das Fahren in Podgorica",
+    "subtitle": "Eine kleine, sorgfältig ausgewählte Flotte, abgestimmt auf die Hauptstadt und die Strecken ins Landesinnere.",
+    "viewAll": "Vollständige Flotte ansehen"
+  },
+  "compare": {
+    "label": "Warum wir",
+    "title": "Wie wir uns gegen die großen Ketten schlagen",
+    "withTitle": "Mit Car Rental Podgorica",
+    "withTotal": "Gesamt: transparent, alles inklusive",
+    "withoutTitle": "Mit den meisten internationalen Ketten",
+    "withoutTotal": "Gesamt: 30 bis 50 % mehr nach Add-ons"
+  },
+  "driveMap": {
+    "label": "Hauptstadtregion-Karte",
+    "title": "Wie weit Sie von Podgorica kommen",
+    "subtitle": "Die meisten Highlights liegen im 90-Minuten-Radius der Hauptstadt.",
+    "hub": "Podgorica"
+  },
+  "experiences": {
+    "label": "Wohin fahren",
+    "title": "Halb- und Ganztagestouren ab Podgorica",
+    "subtitle": "Wählen Sie eine Strecke, nehmen Sie das Auto, seien Sie zum Abendessen zurück.",
+    "readGuide": "Anleitung lesen"
+  },
+  "insiderTips": {
+    "label": "Insider-Tipps",
+    "title": "Dinge, die nur Einheimische wissen"
+  },
+  "popularRoutes": {
+    "label": "Beliebte Routen",
+    "title": "Fahrten, die Mieter am häufigsten machen",
+    "subtitle": "Halbtages-, Ganztages- und Wochenend-Schleifen ab Podgorica."
+  },
+  "carSpecs": {
+    "bootSize": "Kofferraum",
+    "fuel": "Kraftstoff",
+    "luggage": "Gepäck",
+    "mpg": "Verbrauch",
+    "seats": "Sitze",
+    "transmission": "Getriebe"
   }
 }

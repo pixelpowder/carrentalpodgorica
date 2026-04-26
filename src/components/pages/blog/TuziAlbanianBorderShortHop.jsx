@@ -36,7 +36,7 @@ export default function TuziAlbanianBorderShortHop() {
       <p>Tuzi also puts you close to the <strong>eastern shore of Lake Skadar</strong>, less visited than the Virpazar side. The village of <strong>Vranjina</strong> and the Skadar Lake National Park visitor centre are on the main road south, a short drive onward. The water here is reed-fringed and full of birdlife.</p>
 
       <h2>Crossing into Albania, Hani i Hotit</h2>
-      <p>The main border crossing for Albania on this route is <strong>Hani i Hotit</strong>, about 10 km south-east of Tuzi. It is the busiest Montenegro–Albania crossing and is open 24 hours. From the border, it's a further 30 minutes into <strong>Shkodër</strong> — the largest city in northern Albania, around 45 minutes' driving from Tuzi in total, 1 h 15 min from Podgorica.</p>
+      <p>The main border crossing for Albania on this route is <strong>Hani i Hotit</strong>, about 10 km south-east of Tuzi. It is the busiest Montenegro–Albania crossing and is open 24 hours. From the border, it's a further 30 minutes into <strong>Shkodër</strong>, the largest city in northern Albania, around 45 minutes' driving from Tuzi in total, 1 h 15 min from Podgorica.</p>
       <p>To take a rental car across the border you need a <strong>Green Card</strong> covering Albania. Tell us at booking and we will issue it, don't show up at the border without it. Passports are required, not ID cards; an EU or UK driving licence is sufficient to drive on the Albanian side. Border checks are usually quick but can queue for 20–30 minutes on peak summer Saturdays.</p>
 
       <h2>Practical notes</h2>
@@ -47,7 +47,7 @@ export default function TuziAlbanianBorderShortHop() {
       </ul>
 
       <h2>Pair with</h2>
-      <p>Tuzi pairs well with <a href={localePath('/blog/podgorica-wineries-plantaze')}>a Plantaže Šipčanik tour</a> on the same day — both are south of the centre. For the mountain scenery Tuzi only hints at, plan a separate day for the <a href={localePath('/blog/komovi-mountains-berane-road')}>Komovi mountains road east</a>.</p>
+      <p>Tuzi pairs well with <a href={localePath('/blog/podgorica-wineries-plantaze')}>a Plantaže Šipčanik tour</a> on the same day, both are south of the centre. For the mountain scenery Tuzi only hints at, plan a separate day for the <a href={localePath('/blog/komovi-mountains-berane-road')}>Komovi mountains road east</a>.</p>
 
       <div className="route-info">
         <h3>At a glance</h3>

@@ -185,12 +185,12 @@ function Hero() {
       </div>
 
       {/* Image section with overlaid search form */}
-      <div className="hero__image-section">
+      <div className="hero__image-section" style={{ backgroundImage: `url('${config.hero.image}')` }}>
         <div className="booking-card">
           <div className="booking-card__fields">
             <LocationField value={pickup} onChange={setPickup} />
             <div className="booking-field booking-field--dates">
-              <label>{t('hero.pickupDate')} — {t('hero.dropoffDate')}</label>
+              <label>{t('hero.pickupDate')} - {t('hero.dropoffDate')}</label>
               <DatePicker
                 selectsRange startDate={startDate} endDate={endDate}
                 onChange={handleDateChange} minDate={new Date()}
@@ -991,8 +991,8 @@ function CTABanner() {
           <a href={localePath("/book")} className="cta-white-btn">
             {t('cta.browseFleet')} <ArrowRight size={16} />
           </a>
-          <a href="mailto:info@carrentalbudva.com" className="cta-btn--outline">
-            <Mail size={15} /> info@carrentalbudva.com
+          <a href="mailto:info@carrentalpodgorica.com" className="cta-btn--outline">
+            <Mail size={15} /> info@carrentalpodgorica.com
           </a>
         </div>
       </div>

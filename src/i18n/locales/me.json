@@ -30,7 +30,9 @@
     "pickupTime": "Vrijeme",
     "dropoffDate": "Datum vraćanja",
     "dropoffTime": "Vrijeme",
-    "selectDates": "Odaberite datume"
+    "selectDates": "Odaberite datume",
+    "headlineMain": "Car Rental Podgorica",
+    "headlineSub": "Glavni grad Crne Gore, vaš auto."
   },
   "trust": {
     "noHiddenFees": "Bez Skrivenih Troškova",
@@ -60,7 +62,12 @@
   "fleet": {
     "label": "Naša Flota",
     "title": "Izaberite Vaše Vozilo",
-    "subtitle": "Pregledajte dostupnost i cijene u realnom vremenu, rezervišite direktno."
+    "subtitle": "Pregledajte dostupnost i cijene u realnom vremenu, rezervišite direktno.",
+    "browseByCategory": "Pregled po kategoriji",
+    "ourFleet": "Naša flota",
+    "tabCities": "Gradovi",
+    "tabAirports": "Aerodromi",
+    "tabScenic": "Panoramske vožnje"
   },
   "brands": {
     "label": "Provjereni brendovi u našoj floti"
@@ -258,8 +265,8 @@
       "a": "Vaš agent čeka vas u holu dolazaka aerodroma Tivat. Obalna cesta od 22 km do Budve traje oko 25 minuta zavisno od ljetnog saobraćaja. Nema transfera, nema čekanja, auto je parkiran odmah ispred terminala."
     },
     "5": {
-      "q": "Mogu li vratiti auto na drugom mjestu?",
-      "a": "Jednosmjerno iznajmljivanje dostupno je u 28 gradova i mjesta u Crnoj Gori. Preuzmite u Tivatu, vratite u Budvi, ili obratno, samo izaberite različite lokacije pri rezervaciji."
+      "q": "Mogu li dodati dječje sjedište ili druge dodatke?",
+      "a": "Da. Dječja sjedišta, podloge, dodatni vozači i krovni nosači mogu se dodati prilikom rezervacije. Samo označite željene dodatke na stranici rezultata pretrage, cijena se jasno prikazuje prije potvrde. Oprema je spremna za preuzimanje na aerodromu Podgorica (TGD) ili na izabranom mjestu preuzimanja."
     },
     "6": {
       "q": "Kakva je politika otkazivanja?",
@@ -326,6 +333,46 @@
       "name": "Podgorica",
       "tag": "Glavni grad",
       "desc": "Moderna prijestonica Crna Gora, kultura i trgovina."
+    },
+    "blog/podgorica-wineries-plantaze": {
+      "name": "Vinarije Plantaže",
+      "tag": "15 min vožnje",
+      "desc": "Najveći jedinstveni vinograd u Evropi i vinski tunel Šipčanik, uklesan u stari podzemni hangar za avione."
+    },
+    "blog/gorica-hill-walk": {
+      "name": "Brdo Gorica",
+      "tag": "Centar grada",
+      "desc": "Šumovito brdo po kojem je glavni grad dobio ime, staze, spomenik iz Drugog svjetskog rata i pogled od 360 stepeni na Zetsku ravnicu."
+    },
+    "blog/podgorica-rijeka-crnojevica-drive": {
+      "name": "Rijeka Crnojevića",
+      "tag": "Pavlova Strana",
+      "desc": "Najfotografisaniji vidikovac u Crnoj Gori, krivina u obliku potkovice Pavlova Strana iznad Skadarskog jezera."
+    },
+    "blog/stara-varos-podgorica-ottoman-quarter": {
+      "name": "Stara Varoš",
+      "tag": "Stari kvart",
+      "desc": "Osmanski kvart Podgorice, Sahat-kula, Osmanagića džamija i ulice koje su preživjele ratove."
+    },
+    "blog/niksic-beer-lake-loop": {
+      "name": "Nikšić i Ostrog",
+      "tag": "Dnevni krug",
+      "desc": "Drugi grad Crne Gore, pivara iza Nikšićkog piva, kupanje na Krupcu i Ostrog na povratku."
+    },
+    "blog/komovi-mountains-berane-road": {
+      "name": "Planine Komovi",
+      "tag": "Divlji istok",
+      "desc": "Blizanke Kom Kučki i Kom Vasojevićki preko 2.400 m, dug dan planinskog puta prema Beranama."
+    },
+    "blog/podgorica-millennium-bridge-new-city": {
+      "name": "Most Milenijum",
+      "tag": "Novi grad",
+      "desc": "Kabelski most preko Morače, hram Hristovog Vaskrsenja i gdje parkirati da vidite sva tri."
+    },
+    "blog/tuzi-albanian-border-short-hop": {
+      "name": "Tuzi",
+      "tag": "15 km južno",
+      "desc": "Petnaest kilometara od glavnog grada i već druga Crna Gora, planine Malësije, albanske pekare, granični prelaz Hani i Hotit."
     }
   },
   "aboutBody": {
@@ -559,5 +606,296 @@
     "destinations": "Destinations",
     "travelGuides": "Travel Guides",
     "bokaBayRentals": "Podgorica Rentals"
+  },
+  "cars": {
+    "renault-clio": {
+      "name": "Renault Clio",
+      "category": "Economy",
+      "tagline": "Mali gradski auto bez gnjavaže za dvonedjeljnu bazu u Podgorici",
+      "lede": "Štedljiv, jeftin za parkiranje na lokaciji preuzimanja i ugodan na autoputu do Podgorice ili Žabljaka.",
+      "suitability": "Par koji boravi u Podgorici deset do četrnaest dana, sa redovnim jednodnevnim izletima do Cetinja, Risana i Skadarskog jezera. Lako za parkirati, štedljivo za benzin.",
+      "regional": "Savladava uspon Podgorica-Cetinje u trećoj brzini bez napora, provlači se kroz uske obalne ulice prigradskih sela, a potrošnja od 5,3 L/100 km drži račun za gorivo predvidivim tokom višenedeljnog najma.",
+      "bestFor": {
+        "0": "Parovi u dvonedjeljnom boravku",
+        "1": "Jednodnevni izleti do Cetinja i Njeguša",
+        "2": "Posjetioci rimskih mozaika u Risnu"
+      },
+      "features": {
+        "0": "Bluetooth audio",
+        "1": "USB punjenje",
+        "2": "Centralno zaključavanje",
+        "3": "Ekran osjetljiv na dodir"
+      }
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "category": "Mid-Size",
+      "tagline": "Dizel srednje klase za rute Podgorica-Dubrovnik i Podgorica-Durmitor",
+      "lede": "Štedljiv BlueHDi sa automatskim mjenjačem, napravljen za 3-satni uspon do Žabljaka ili prekograničnu vožnju do Trebinja i Mostara.",
+      "suitability": "Izbor dizelaša srednje klase za svakog ko bazu u Podgorici kombinuje sa višednevnim vožnjama u unutrašnjost. Automatski mjenjač i tempomat plaćaju se na autoputu iz Podgorice.",
+      "regional": "Lako savladava autoput Smokovac-Mateševo, guta nedjelju opreme za planinarenje do Žabljaka i pokriva rutu Podgorica-Dubrovnik preko Debelog Brijega na pola rezervoara.",
+      "bestFor": {
+        "0": "Putnici preko granice",
+        "1": "Vikendaši za Durmitor",
+        "2": "Četvoro odraslih sa prtljagom"
+      },
+      "features": {
+        "0": "Automatski mjenjač",
+        "1": "Adaptivni tempomat",
+        "2": "Dvozonska klima",
+        "3": "Veliki prtljažnik"
+      }
+    },
+    "renault-megane": {
+      "name": "Renault Megane",
+      "category": "Mid-Size",
+      "tagline": "Najveći prtljažnik u francuskoj srednjoj klasi, napravljen za duže boravke i izlete na jezero",
+      "lede": "Prtljažnik od 434 litre, tiha dizel vožnja, mekane amortizovanje, izbor srednje klase za mjesec dana u zalivu sa redovnim izletima.",
+      "suitability": "Korisnicima koji žele više prostora od hečbeka bez dužine pravog karavana, idealan za opremu za pecanje na Skadarskom jezeru, torbe za posjetu cetinjskim manastirima i frižider za povratak.",
+      "regional": "Ovjes velikog hoda guta pokrpani asfalt na starom putu Podgorica-Budva, dCi dizel štedi gorivo na ruti kroz tunel Sozina, a izdašan prtljažnik prima dvije sedmice porodične opreme uz kesu sa vešom uzetu u Prčanju.",
+      "bestFor": {
+        "0": "Korisnici dugog najma",
+        "1": "Jednodnevni izleti na Skadarsko jezero",
+        "2": "Porodice u posjeti manastirima"
+      },
+      "features": {
+        "0": "Veliki prtljažnik",
+        "1": "Bluetooth audio",
+        "2": "Tempomat",
+        "3": "Parking senzori"
+      }
+    },
+    "kia-stonic": {
+      "name": "Kia Stonic",
+      "category": "Compact Crossover",
+      "tagline": "Krosover povišenog hoda za šljunkovite prilaze Njegušima i Lovćenu",
+      "lede": "Malo viša alternativa hečbeku, savladava izrovane sporedne puteve oko Njeguša i zadnje prilaze Lovćenu bez struganja.",
+      "suitability": "Korisnicima koji žele krosover preglednost i nešto klirensa za sporedne puteve oko gornjeg dijela podgoričkog zaliva i Lovćena, bez cijene punog SUV-a.",
+      "regional": "Viša pozicija sjedenja znači bolji pogled preko zidića, klirens od 182 mm prelazi kamene rupe na staroj uličici njeguških pušnica, a prtljažnik od 352 litre prima opremu za pješačenje porodice na Durmitor bez sklapanja sjedišta.",
+      "bestFor": {
+        "0": "Vikend izlazi do Njeguša",
+        "1": "Jednodnevni izleti za Durmitor",
+        "2": "Fotografi koji love grebene"
+      },
+      "features": {
+        "0": "Povišen klirens",
+        "1": "Apple CarPlay",
+        "2": "Kamera za parkiranje",
+        "3": "Asistencija za držanje trake"
+      }
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "category": "Mid-Size",
+      "tagline": "DSG dizel za sve, mirna vožnja po E80 i višednevnim turama",
+      "lede": "Racionalan podrazumijevani izbor za korisnika koji bazu u Podgorici kombinuje sa dugim vožnjama u unutrašnjost, profinjen, dovoljno brz, ekonomičan na autoputu.",
+      "suitability": "Podrazumijevana srednja klasa za korisnike koji žele auto koji će prvog dana voziti perimetar Stare Podgorice, a četvrtog dana autoput Smokovac-Mateševo bez prigovora.",
+      "regional": "DSG bez razmišljanja bira pravu brzinu na serpentinama Podgorica-Lovćen, 2.0 TDI drži 130 km/h na autoputu do Podgorice uz 4,3 L/100 km, a tišina kabine 3 sata vožnje do Žabljaka čini istinski opuštajućim.",
+      "bestFor": {
+        "0": "Parovi između obale i kanjona",
+        "1": "Poslovni putnici na sedmičnom najmu",
+        "2": "Vozači koji planiraju BiH ili hrvatsku granicu"
+      },
+      "features": {
+        "0": "DSG automatik",
+        "1": "Adaptivni tempomat",
+        "2": "Digitalna instrument tabla",
+        "3": "Apple CarPlay"
+      }
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "category": "City",
+      "tagline": "Mali gradski auto za kratak boravak u Podgorici, ulijeće između dostavnih kombija",
+      "lede": "Minimalna veličina, krov sa otvaranjem, 1.0 mild-hybrid, izbor za dvije ili tri noći baze u Podgorici bez višednevnih vožnji.",
+      "suitability": "Dvije ili tri noći u Podgorici sa kratkim popodnevnim izletima do Perasta i Prčanja, 500 se parkira tamo gdje srednje klase mašu i prolaze.",
+      "regional": "Dužina od 3,57 m je odlučujuća: staje u stepenastom parkingu uz obalu okolnih sela i u prostor širok koliko rame ispred Morske kapije gdje Clio ne može. Slab za uspon na Lovćen, kombinujte sa žičarom ili ostanite u zalivu.",
+      "bestFor": {
+        "0": "Kratki boravci u gradu",
+        "1": "Solo putnici na malom budžetu",
+        "2": "Fotografi za kratke skokove"
+      },
+      "features": {
+        "0": "Kompaktna veličina",
+        "1": "Lako parkiranje",
+        "2": "Krov sa otvaranjem",
+        "3": "Bluetooth"
+      }
+    },
+    "citroen-c3": {
+      "name": "Citroen C3",
+      "category": "Economy",
+      "tagline": "Najmekši mali hečbek za izrovani put Podgorica-Risan i obilaznice sporednim putevima",
+      "lede": "Advanced Comfort amortizeri zaglade pokrpani asfalt na starom putu uz zaliv, najnježniji mali auto za noćenje kod podgoričkih bastiona.",
+      "suitability": "Izbor zasnovan na komforu za sedmicu u Podgorici sa svakodnevnim sporim obilaznicama: rimski mozaici u Risnu, zaseok Gornja Lastva iznad Tivta, povratak kroz okolna sela.",
+      "regional": "Progresivni hidraulični graničnici čine rupičastu dionicu Risan-Perast tišom za klasu, mirnih 83 KS odgovara ograničenju od 50 km/h u zalivu, a dužina od 4 metra ulazi u bilo koji bastion u Starom gradu.",
+      "bestFor": {
+        "0": "Parovi koji putuju polako",
+        "1": "Istraživači sporednih puteva",
+        "2": "Putnici skloni mučnini"
+      },
+      "features": {
+        "0": "Advanced Comfort sjedišta",
+        "1": "Bluetooth audio",
+        "2": "USB punjenje",
+        "3": "Upozorenje o napuštanju trake"
+      }
+    },
+    "articleTitle": "O ovom autu",
+    "checkAvailability": "Provjeri dostupnost",
+    "featuresTitle": "Karakteristike",
+    "nextBtn": "Sljedeći auto",
+    "overviewTitle": "Pregled",
+    "readGuide": "Pročitaj cijeli vodič",
+    "regionalTitle": "Na crnogorskim putevima",
+    "relatedTitle": "Povezani vodiči",
+    "whoForTitle": "Kome odgovara",
+    "sections": {
+      "behindWheel": "Za volanom",
+      "bestFor": "Najbolje za",
+      "onRoads": "Na crnogorskim putevima",
+      "practical": "Praktične napomene",
+      "spaceLoad": "Prostor i teret",
+      "verdict": "Zaključak"
+    }
+  },
+  "affiliate": {
+    "heroTitle": "Postanite Car Rental Podgorica partner",
+    "heroSubtitle": "Preporučite putnike koji idu u Crnu Goru i zaradite dio od svake završene rezervacije. Bazirano na LocalRent partnerskom programu.",
+    "signUp": "Prijavite se preko LocalRent-a",
+    "howTitle": "Kako funkcioniše",
+    "step1Title": "Prijavite se",
+    "step1Text": "Prijavite se na LocalRent partnerski program. Odobrenje obično traje jedan radni dan.",
+    "step2Title": "Promovišite",
+    "step2Text": "Postavite svoj affiliate link u tekstove, newslettere, postove na društvenim mrežama, ili ugradite booking widget direktno na svoj sajt.",
+    "step3Title": "Zarađujte",
+    "step3Text": "Plaćeni ste za svaku potvrđenu rezervaciju, sa mjesečnim isplatama u EUR direktno na račun.",
+    "commissionTitle": "Provizija i cijene",
+    "revenueShare": "Podjela prihoda",
+    "revenueShareText": "Do 10 % vrijednosti najma po svakoj potvrđenoj rezervaciji preko vašeg linka.",
+    "avgBooking": "Prosječna rezervacija",
+    "avgBookingText": "Tipičan najam u Podgorici traje pet do sedam dana po oko 30 do 45 EUR dnevno, pa svaka rezervacija donosi značajnu zaradu.",
+    "noCap": "Bez gornje granice",
+    "noCapText": "Nema mjesečnog ograničenja zarade. Hiljadu rezervacija, hiljadu provizija.",
+    "minPayout": "Nizak prag isplate",
+    "minPayoutText": "Podignite iznos kada dostigne 50 EUR. Bez skrivenih troškova za prenose unutar EU.",
+    "toolsTitle": "Alati koje obezbjeđujemo",
+    "refLinks": "Affiliate linkovi",
+    "refLinksText": "Personalni tracking linkovi koje možete ubaciti u bilo koji tekst, bio na društvenoj mreži ili newsletter.",
+    "widget": "Booking widget",
+    "widgetText": "Iframe za ugradnju koji prikazuje dostupnost i cijene u realnom vremenu na vašim stranicama, sa vašim brendom ako želite.",
+    "whiteLabel": "White-label opcija",
+    "whiteLabelText": "Pokrećite booking proces pod vašim sopstvenim domenom sa našim backend-om, dostupno za partnere sa velikim obimom.",
+    "api": "API pristup",
+    "apiText": "Direktni API za inventar, cijene i kreiranje rezervacija. Za developere koji prave custom putničke sajtove.",
+    "whoTitle": "Za koga je ovo",
+    "whoBloggers": "Putopisni blogeri",
+    "whoBloggersText": "Svi koji pišu vodiče po Crnoj Gori, planove rutnih putovanja ili sadržaj o planiranju obale i kanjona.",
+    "whoLocal": "Lokalni smještaj",
+    "whoLocalText": "Hoteli, apartmani i pansioni u Podgorici i regionu Crne Gore čijim gostima treba prevoz.",
+    "whoCreators": "Kreatori sadržaja",
+    "whoCreatorsText": "YouTuberi, fotografi i Instagram kreatori koji prave sadržaj o Balkanu i Jadranu.",
+    "whoDevs": "Developeri",
+    "whoDevsText": "Travel-tech graditelji koji integrišu rent a car u Crnoj Gori u šire booking platforme.",
+    "ctaTitle": "Spremni za početak?",
+    "ctaSubtitle": "Prijavite se preko LocalRent-a za manje od pet minuta, ili nas kontaktirajte za bilo koje pitanje.",
+    "questionsEmail": "Pitanja? Pišite nam"
+  },
+  "contact": {
+    "heading": "Kontaktirajte Car Rental Podgorica",
+    "intro": "Pošaljite nam poruku o rezervaciji, raspitajte se o vozilu, ili nas kontaktirajte na WhatsApp-u.",
+    "emailLabel": "Email",
+    "whatsappLabel": "WhatsApp",
+    "chatCta": "Pokrenite razgovor",
+    "formHeading": "Pošaljite nam poruku",
+    "nameLabel": "Vaše ime",
+    "emailFieldLabel": "Email adresa",
+    "messagePlaceholder": "Vaša poruka",
+    "sendButton": "Pošalji poruku"
+  },
+  "ctaBrand": {
+    "brand": "Car Rental Podgorica",
+    "tagline": "Od 13 €/dan · Aerodrom Podgorica (TGD) 12 km",
+    "searchCars": "Pretraži auta"
+  },
+  "statsLabels": {
+    "countriesPermitted": "Dozvoljene prekogranične zemlje",
+    "customerRating": "Ocjena korisnika",
+    "pickupLocations": "Lokacije preuzimanja",
+    "vehiclesAvailable": "Dostupna vozila"
+  },
+  "cookieBanner": {
+    "title": "Koristimo kolačiće",
+    "text": "Koristimo kolačiće da poboljšamo vaše iskustvo i analiziramo korišćenje sajta. Nastavkom prihvatate našu politiku kolačića.",
+    "accept": "Prihvati",
+    "decline": "Odbij"
+  },
+  "contentPage": {
+    "readyCta": "Spremni za vožnju?",
+    "searchCars": "Pretraži auta"
+  },
+  "blogHome": {
+    "sectionLabel": "Sa bloga",
+    "sectionTitle": "Vodiči za vožnju i tekstovi o Podgorici",
+    "sectionSubtitle": "Praktični, jasni tekstovi o rutama, parkiranju i hrani koju najbolje poznajemo.",
+    "viewAll": "Pogledaj sve postove"
+  },
+  "roadTripPlanner": {
+    "label": "Planer rutnih putovanja",
+    "title": "Isplanirajte put po Podgorici",
+    "desc": "Izaberite bazu, izaberite rutu, mi spremamo auto. Većina korisnika provede sedmicu kombinujući vožnje kanjonima, Skadarsko jezero i obalu.",
+    "lovcenGuide": "Pogledaj Lovćen vodič",
+    "browseAll": "Pogledaj sve vodiče"
+  },
+  "fleetIndex": {
+    "title": "Naša flota za iznajmljivanje u Podgorici",
+    "subtitle": "Automobili prilagođeni vožnji u regiji glavnog grada, od gradskih hečbeka do karavana za autoput.",
+    "intro1": "Svako vozilo flote birano je prema stvarnoj upotrebi u Podgorici: kratke vožnje centrom između sastanaka, jednodnevne ture do Skadarskog jezera ili Cetinja, i duge vožnje u unutrašnjost do Žabljaka ili preko albanske granice.",
+    "intro2": "Ekonomske i gradske opcije dimenzionisane su za uske ulice Stare Varoši i prometnu kafansku ulicu Hercegovačku. Srednji dizel modeli podešeni su za autoput Podgorica-Bar i dionicu Smokovac-Mateševo. Krosoveri i SUV-ovi dodaju klirens za grublje planinske odvojke.",
+    "intro3": "Prikazana cijena je dnevna stopa najjeftinije sedmice u godini. Cijene za dugi najam i sezonu dostupne su, pitajte pri rezervaciji.",
+    "seoDesc": "Uporedite automobile naše flote u Podgorici. Od 20 €/dan ekonomični hečbeci do dizelaša i krosovera spremnih za autoput, svi sa punim osiguranjem i preuzimanjem na aerodromu TGD."
+  },
+  "fleetShowcase": {
+    "label": "Izaberite auto",
+    "title": "Napravljeno za vožnju Podgoricom",
+    "subtitle": "Mala, pažljivo birana flota, dimenzionisana za glavni grad i podešena za rute u unutrašnjost.",
+    "viewAll": "Pogledaj cijelu flotu"
+  },
+  "compare": {
+    "label": "Zašto izabrati nas",
+    "title": "Kako se poredimo sa velikim lancima",
+    "withTitle": "Sa Car Rental Podgorica",
+    "withTotal": "Ukupno: transparentno, sve uključeno",
+    "withoutTitle": "Sa većinom internacionalnih lanaca",
+    "withoutTotal": "Ukupno: 30 do 50 % više nakon dodataka"
+  },
+  "driveMap": {
+    "label": "Mapa regije glavnog grada",
+    "title": "Dokle možete stići iz Podgorice",
+    "subtitle": "Većina znamenitosti je u radijusu od 90 minuta od glavnog grada.",
+    "hub": "Podgorica"
+  },
+  "experiences": {
+    "label": "Gdje ići",
+    "title": "Pola dana i cijeli dan iz Podgorice",
+    "subtitle": "Izaberite rutu, uzmite auto, vratite se na večeru.",
+    "readGuide": "Pročitaj vodič"
+  },
+  "insiderTips": {
+    "label": "Insajderski savjeti",
+    "title": "Stvari koje samo lokalci znaju"
+  },
+  "popularRoutes": {
+    "label": "Popularne rute",
+    "title": "Vožnje koje korisnici najčešće biraju",
+    "subtitle": "Polu-dnevne, cjelodnevne i vikend ture iz Podgorice."
+  },
+  "carSpecs": {
+    "bootSize": "Prtljažnik",
+    "fuel": "Gorivo",
+    "luggage": "Prtljag",
+    "mpg": "Potrošnja",
+    "seats": "Sjedišta",
+    "transmission": "Mjenjač"
   }
 }

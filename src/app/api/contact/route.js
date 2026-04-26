@@ -31,8 +31,8 @@ export async function POST(request) {
     }
 
     const sitePrefix = process.env.SITE_PREFIX || 'MNE';
-    const fromName = process.env.MAIL_FROM_NAME || 'Montenegro Car Hire';
-    const fromAddress = process.env.MAIL_FROM || 'noreply@montenegrocarhire.com';
+    const fromName = process.env.MAIL_FROM_NAME || 'Car Rental Podgorica';
+    const fromAddress = process.env.MAIL_FROM || 'noreply@carrentalpodgorica.com';
     const to = process.env.CONTACT_TO_EMAIL;
 
     if (!to) {
