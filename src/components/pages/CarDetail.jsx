@@ -9,6 +9,7 @@ import { carArticles as carArticlesIt } from '../../data/carArticles.it';
 import { carArticles as carArticlesFr } from '../../data/carArticles.fr';
 import { carArticles as carArticlesMe } from '../../data/carArticles.me';
 import { carImages } from '../../data/carImages';
+import { INLINE_PHOTOS, RELATED } from '../../data/blog/car-detail-extras';
 import CarGallery from '../CarGallery';
 
 const CAR_ARTICLES_BY_LANG = {
@@ -24,61 +25,6 @@ import {
   Droplet, Package,
 } from 'lucide-react';
 
-// Kotor-rental inline photo per car — bay road, Lovćen, motorway, cross-border feel.
-const INLINE_PHOTOS = {
-  'renault-clio':   { src: '/img/fleet-inline/coastal-road.jpg',      alt: 'Bay of Kotor coastal road near Dobrota',       caption: 'The Dobrota–Prčanj stretch at a steady 50 km/h, the Clio\u2019s natural cruising pace on a multi-day bay stay.' },
-  'peugeot-308':    { src: '/img/fleet-inline/mountain-highway.jpg',  alt: 'Smokovac–Mateševo motorway inland from Kotor',  caption: 'The Smokovac motorway toward Podgorica, the 308\u2019s BlueHDi settles into a steady 1,800 rpm cruise here.' },
-  'renault-megane': { src: '/img/fleet-inline/sea-road.jpg',          alt: 'Old bay road from Kotor toward Risan',          caption: 'The patched tarmac out to Risan\u2019s Roman mosaics, where the Megane\u2019s soft damping actually earns its rental premium.' },
-  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg',        alt: 'Rutted spur road up to Njeguši above Kotor',    caption: 'The Njeguši approach above the bay, a little extra ground clearance keeps the Stonic composed where a Clio scrapes.' },
-  'vw-golf':        { src: '/img/fleet-inline/forest-road.jpg',       alt: 'Wooded Lovćen serpentine above Kotor',          caption: 'The Kotor–Cetinje climb in third gear, the DSG reads the hairpins, the cabin stays silent.' },
-  'fiat-500':       { src: '/img/fleet-inline/seaside-road.jpg',      alt: 'Narrow Muo waterfront lane in Kotor',           caption: 'The Muo waterfront past the ferry dock, the 500 slots into gaps the rest of the fleet drives past.' },
-  'citroen-c3':     { src: '/img/fleet-inline/village-trees.jpg',     alt: 'Back road through Gornja Lastva above Tivat',   caption: 'The Gornja Lastva spur above the bay, the C3\u2019s Advanced Comfort turns the patched bitumen into distant thumps.' },
-  _default:         { src: '/img/fleet-inline/kotor-bay.jpg',         alt: 'Aerial view of the Bay of Kotor',               caption: 'A week based in Kotor puts Cetinje, Njeguši, Risan, Skadar Lake and Dubrovnik all inside day-trip range.' },
-};
-
-// Related cards per car — using the actual blog + destination pages that exist on kotorcarrental.
-const RELATED = {
-  'vw-polo': [
-    { href: '/blog/podgorica-morning-coffee-spots', img: '/img/blog-podgorica-morning-coffee-spots.webp', title: 'Podgorica morning coffee' },
-    { href: '/blog/niksic-beer-lake-loop', img: '/img/blog-niksic-beer-lake-loop.webp', title: 'Nikšić & Ostrog loop' },
-    { href: '/blog/podgorica-millennium-bridge-new-city', img: '/img/blog-podgorica-millennium-bridge-new-city.webp', title: 'Millennium Bridge & new city' },
-  ],
-  'skoda-octavia': [
-    { href: '/blog/komovi-mountains-berane-road', img: '/img/blog-komovi-mountains-berane-road.webp', title: 'Komovi mountains' },
-    { href: '/blog/podgorica-wineries-plantaze', img: '/img/blog-podgorica-wineries-plantaze.webp', title: 'Plantaže wineries & Šipčanik' },
-    { href: '/blog/niksic-beer-lake-loop', img: '/img/blog-niksic-beer-lake-loop.webp', title: 'Nikšić & Ostrog loop' },
-  ],
-  'toyota-corolla': [
-    { href: '/blog/podgorica-morning-coffee-spots', img: '/img/blog-podgorica-morning-coffee-spots.webp', title: 'Podgorica morning coffee' },
-    { href: '/blog/stara-varos-podgorica-ottoman-quarter', img: '/img/blog-stara-varos-podgorica-ottoman-quarter.webp', title: 'Stara Varoš Ottoman quarter' },
-    { href: '/blog/komovi-mountains-berane-road', img: '/img/blog-komovi-mountains-berane-road.webp', title: 'Komovi mountains' },
-  ],
-  'mercedes-c-class': [
-    { href: '/blog/podgorica-rijeka-crnojevica-drive', img: '/img/blog-podgorica-rijeka-crnojevica-drive.webp', title: 'Rijeka Crnojevića' },
-    { href: '/blog/podgorica-wineries-plantaze', img: '/img/blog-podgorica-wineries-plantaze.webp', title: 'Plantaže wineries & Šipčanik' },
-    { href: '/blog/gorica-hill-walk', img: '/img/blog-gorica-hill-walk.webp', title: 'Gorica Hill walk' },
-  ],
-  'jeep-renegade': [
-    { href: '/blog/gorica-hill-walk', img: '/img/blog-gorica-hill-walk.webp', title: 'Gorica Hill walk' },
-    { href: '/blog/tuzi-albanian-border-short-hop', img: '/img/blog-tuzi-albanian-border-short-hop.webp', title: 'Tuzi border hop' },
-    { href: '/blog/komovi-mountains-berane-road', img: '/img/blog-komovi-mountains-berane-road.webp', title: 'Komovi mountains' },
-  ],
-  'bmw-x3': [
-    { href: '/blog/podgorica-rijeka-crnojevica-drive', img: '/img/blog-podgorica-rijeka-crnojevica-drive.webp', title: 'Rijeka Crnojevića' },
-    { href: '/blog/gorica-hill-walk', img: '/img/blog-gorica-hill-walk.webp', title: 'Gorica Hill walk' },
-    { href: '/blog/podgorica-wineries-plantaze', img: '/img/blog-podgorica-wineries-plantaze.webp', title: 'Plantaže wineries & Šipčanik' },
-  ],
-  'fiat-500': [
-    { href: '/blog/podgorica-morning-coffee-spots', img: '/img/blog-podgorica-morning-coffee-spots.webp', title: 'Podgorica morning coffee' },
-    { href: '/blog/niksic-beer-lake-loop', img: '/img/blog-niksic-beer-lake-loop.webp', title: 'Nikšić & Ostrog loop' },
-    { href: '/blog/stara-varos-podgorica-ottoman-quarter', img: '/img/blog-stara-varos-podgorica-ottoman-quarter.webp', title: 'Stara Varoš Ottoman quarter' },
-  ],
-  'vw-transporter': [
-    { href: '/blog/podgorica-wineries-plantaze', img: '/img/blog-podgorica-wineries-plantaze.webp', title: 'Plantaže wineries & Šipčanik' },
-    { href: '/blog/niksic-beer-lake-loop', img: '/img/blog-niksic-beer-lake-loop.webp', title: 'Nikšić & Ostrog loop' },
-    { href: '/blog/tuzi-albanian-border-short-hop', img: '/img/blog-tuzi-albanian-border-short-hop.webp', title: 'Tuzi border hop' },
-  ],
-};
 
 const ARTICLE_LINKS = {};
 
