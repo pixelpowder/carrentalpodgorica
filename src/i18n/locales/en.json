@@ -750,17 +750,47 @@
     "label": "Capital-region map",
     "title": "How far you can get from Podgorica",
     "subtitle": "Most highlights are inside a 90-minute radius of the capital.",
-    "hub": "Podgorica"
+    "hub": "Podgorica",
+    "items": {
+      "0": { "name": "Plantaže Wineries", "time": "20 min" },
+      "1": { "name": "Gorica Hill", "time": "10 min" },
+      "2": { "name": "Nikšić", "time": "45 min" },
+      "3": { "name": "Rijeka Crnojevića", "time": "30 min" },
+      "4": { "name": "Tuzi", "time": "15 min" }
+    }
   },
   "experiences": {
     "label": "Where to go",
     "title": "Half-day and full-day from Podgorica",
     "subtitle": "Pick a route, take the car, be home for dinner.",
-    "readGuide": "Read the guide"
+    "readGuide": "Read the guide",
+    "items": {
+      "0": { "title": "Wander the Ottoman Quarter", "location": "Stara Varoš, central Podgorica" },
+      "1": { "title": "Cross the Millennium Bridge", "location": "New town, 5 min from centre" },
+      "2": { "title": "Sit at a Local Café", "location": "Hercegovačka Street area" },
+      "3": { "title": "Drive into the Komovi Mountains", "location": "Berane road, 90 min east" }
+    }
   },
   "insiderTips": {
     "label": "Insider tips",
-    "title": "Things only locals know"
+    "title": "Things only locals know",
+    "items": {
+      "0": {
+        "tag": "Local walk",
+        "title": "Climb Gorica Before Breakfast",
+        "text": "Locals start the day on the wooded hill above the city. Free, signposted trails, 20-minute climb to the cross at the summit, with panoramic views back over the rivers."
+      },
+      "1": {
+        "tag": "Old quarter",
+        "title": "Walk the Ottoman Streets at Dusk",
+        "text": "Stara Varoš is the original Podgorica: narrow lanes of low stone houses and the Sahat Kula clock tower. Quietest hour is just before sunset when shopkeepers close up."
+      },
+      "2": {
+        "tag": "Morning coffee",
+        "title": "Where Locals Take Their First Coffee",
+        "text": "Skip the chains. The cafés around Hercegovačka are where Podgorica wakes up: espresso, ashtrays, newspapers, and conversations that drift past breakfast."
+      }
+    }
   },
   "popularRoutes": {
     "label": "Popular routes",
