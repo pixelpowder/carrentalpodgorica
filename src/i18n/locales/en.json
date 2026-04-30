@@ -307,20 +307,20 @@
       "a": "You'll need a full driving licence with Latin-script details, your passport, and a physical credit card issued in the main driver's name. If your licence is from a country that uses a non-Latin script, bring an International Driving Permit too. Photocopies and digital-only licences are not accepted at pickup."
     },
     "1": {
-      "q": "Can I drive to Croatia or Albania?",
-      "a": "Yes. Cross-border travel is permitted to Croatia, Bosnia, Albania, Kosovo, and Serbia. The Tuzi crossing into Albania is just fifteen minutes from Podgorica, and Dubrovnik is around three hours via the Sozina tunnel and the coast road. Flag the countries at booking and the Green Card is prepared for you."
+      "q": "Can I drive to Croatia, Serbia or Albania, and how do the cross-border fees work?",
+      "a": "Yes, and the capital is the right base for it: the Tuzi crossing into Albania is fifteen minutes from the ring road, Dobrakovo for Serbia is straight up the E65 from Podgorica, and the inland route to Trebinje and Mostar starts at the Vilusi crossing past Nikšić. The fee is tiered. Tier 1 covers neighbouring countries excluding Albania and Kosovo, the right pick for the typical business loop that strings Trebinje, Dubrovnik and a Belgrade meeting into one week out of TGD. Tier 2 layers Albania and Kosovo on top, suited to a Shkodër weekend or a Prizren detour from the capital. Tier 3 opens up the wider Balkan circuit for renters mixing neighbouring countries with more distant destinations on a single contract. Flag the countries at booking and the Green Card plus the matching tier are sorted before you collect the keys."
     },
     "2": {
       "q": "What's actually included in the price?",
-      "a": "Third-party liability insurance and CDW come standard on most cars. VAT, a roadside safety kit, and a transparent fuel policy are included too. Mileage terms differ per vehicle, check the car listing. Zero-excess cover and extras like child seats can be added at booking."
+      "a": "Third-party liability insurance and CDW come standard on most cars. VAT, a roadside safety kit, and a transparent fuel policy are included too. Mileage terms differ per vehicle, check the car listing. Zero-excess cover and the bookable extras (child seats, Winter Pack, Personal Accident Insurance, Theft Protection, hotspot, SIM, ski and roof racks, electric scooter) sit on top of the base rate."
     },
     "3": {
       "q": "How does pickup work at Podgorica Airport?",
       "a": "Your agent meets you at Podgorica Airport (TGD) arrivals hall. The airport is 12 km south of the city on the Zeta plain, about 15 minutes to the centre. No shuttle, no waiting around; the car is parked right outside the terminal."
     },
     "4": {
-      "q": "Can I add a child seat or other extras?",
-      "a": "One-way rentals are available across 28+ towns and cities in Montenegro. Pick up at Podgorica Airport, drop off in Nikšić, Kotor, or anywhere on the coast, just select different locations when you book."
+      "q": "What extras can I add to a Podgorica rental?",
+      "a": "Three child seat formats are bookable, infant, toddler and booster, fitted before handover, the booster is the one most capital-region families pick for the school run that ends with a Lake Skadar afternoon. A Winter Pack adds winter tyres and chains for the Morača canyon climb up to Kolašin or the Smokovac to Mateševo motorway run on snow days. Personal Accident Insurance is the considered add-on for that same M-9 cliff drive, where the road hugs the gorge with no hard shoulder. Theft Protection layers on top of CDW for renters parking in unmetered streets outside Stara Varoš and the Hercegovačka cafe strip. A wireless hotspot or local SIM card both solve the no-roaming problem the moment a business visitor walks out of TGD arrivals without a Montenegrin plan. Ski rack and snowboard rack ride together with the Žabljak weekenders, a roof rack handles the SUP and paddleboard run down to Skadar, and an electric scooter with charger is on the list for darting between meetings when the rental is parked near the Millennium Bridge."
     },
     "5": {
       "q": "What is the cancellation policy?",
@@ -383,12 +383,12 @@
     "h2": "The Podgorica Advantage",
     "p2": "Podgorica sits at the hub of every serious Montenegrin road trip. From the city ring road you are on the motorway to Bar in twenty minutes, at the Tuzi border for Albania in fifteen, and on the Morača canyon road toward Kolašin in under an hour. The airport (TGD) is twelve kilometres south on the Zeta plain, the Plantaže cellars are fifteen minutes out, and the old royal capital of Cetinje is a forty-minute climb up the switchbacks. A rental car turns a layover into a proper Balkan adventure.",
     "h3": "How We Work",
-    "p3": "Search our fleet, pick a car, and book online with instant confirmation. We cover Podgorica Airport (12 km), the city centre, Nikšić, Kolašin, and 25 more pickup spots across the interior and coast. Fleet runs from budget city cars that slot into old-town parking to SUVs built for the Durmitor ring road. Every vehicle carries full insurance with no hidden fees.",
+    "p3": "Search our fleet, pick a car, and book online with instant confirmation. We cover Podgorica Airport (12 km), the city centre, Nikšić, Kolašin, and 25 more pickup spots across the interior and coast. Fleet runs from budget city cars that slot into old-town parking to SUVs built for the Durmitor ring road. Every vehicle carries full insurance with no hidden fees, and the bookable extras (booster and child seats for the school-run-then-Skadar afternoon, a Winter Pack for the Kolašin commute through January, Personal Accident Insurance for the Morača M-9 cliff drive, Theft Protection for free street parking outside Stara Varoš, a SIM card or hotspot for business visitors landing at TGD without a local plan, ski and snowboard racks for the Žabljak weekenders, a roof rack for the SUP weekends to Skadar, and an electric scooter with charger) are all sorted at booking, not bolted on at the counter.",
     "promiseTitle": "What You Get",
     "promise1": "Full insurance, zero-excess upgrade available",
     "promise2": "Podgorica Airport meet-and-greet at the arrivals door",
     "promise3": "Transparent pricing: the number at booking is the number you pay",
-    "promise4": "Cross-border driving to Croatia, Bosnia, Albania, Serbia, and Kosovo",
+    "promise4": "Cross-border driving on three tiers: Tier 1 for Croatia, Bosnia and Serbia, Tier 2 adding Albania and Kosovo, Tier 3 for the wider Balkan loop",
     "promise5": "Free cancellation on most cars",
     "promise6": "Local rental providers, full insurance and low or no-deposit options",
     "h4": "We Live Here",
@@ -424,13 +424,13 @@
     "e762Title": "South: Lake Skadar & the Albanian Border",
     "e762Text": "Head south via Virpazar for the lake. Rent a small boat at the jetty, or drive the loop road above Rijeka Crnojevića for the postcard viewpoint. Continue to Tuzi and cross into Albania for lunch in Shkodër. Or stay inland for the Plantaže cellars fifteen minutes out of the city, Europe's largest single vineyard and an unexpectedly good place to spend an afternoon.",
     "borderTitle": "Crossing Borders",
-    "borderText": "Montenegro borders five countries, and you can drive to all of them with the right paperwork. The Green Card covers insurance. The rental contract needs to list every country you plan to visit. Summer weekends bring long queues at the Croatian coastal crossing, weekday mornings or late evenings are the way to go. Tuzi for Albania is almost always quiet.",
+    "borderText": "Montenegro borders five countries, and you can drive to all of them with the right paperwork. The Green Card covers insurance, and the contract picks up one of three cross-border tiers: Tier 1 for Croatia, Bosnia and Serbia (the standard business loop out of TGD), Tier 2 layering Albania and Kosovo on top, Tier 3 for the wider Balkan circuit. Summer weekends bring long queues at the Croatian coastal crossing, weekday mornings or late evenings are the way to go. Tuzi for Albania is almost always quiet.",
     "nationTitle": "A Tiny Country, Full-Sized Scenery",
     "nationText": "Independent only since 2006, Montenegro is one of Europe's youngest nations. Tourism has boomed in the years since, but the capital region still feels like the local Montenegro, where families actually live, work, and weekend. From Podgorica you can sample all of it: the coast, the canyons, the lake, and the cross-border cities. There has never been a better time to rent a car and see what the whole place offers."
   },
   "borderCrossingBody": {
     "h1": "Taking Your Rental Car Across Borders",
-    "p1": "Yes, you can drive your rental car out of Montenegro. Cross-border travel is permitted to Croatia, Bosnia & Herzegovina, Albania, Kosovo, and Serbia. The key: tell your rental company which countries you plan to visit when you book. They prepare the paperwork so you are covered at every checkpoint.",
+    "p1": "Yes, you can drive your rental car out of Montenegro. Cross-border travel is permitted to Croatia, Bosnia & Herzegovina, Albania, Kosovo, and Serbia, and the contract picks up one of three tiers depending on where you are headed. Tier 1 covers neighbouring countries excluding Albania and Kosovo, the right pick for the Trebinje, Dubrovnik or Belgrade run that capital-based business travellers tend to chain into a single trip. Tier 2 layers Albania and Kosovo on top, suited to a Shkodër weekend or a Prizren detour. Tier 3 opens the wider Balkan loop combining neighbouring and more distant countries on one contract. Tell your rental company which countries you plan to visit when you book. They prepare the paperwork and the matching tier so you are covered at every checkpoint.",
     "greenCardTitle": "The Green Card Explained",
     "greenCardText": "A Green Card is an international motor insurance certificate that confirms your vehicle is covered in the country you are entering. It's commonly required when taking a rental car across borders in the region.",
     "greenCard1": "Cost: around €15 for 15 days of cover",
