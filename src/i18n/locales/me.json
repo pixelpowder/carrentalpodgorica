@@ -62,7 +62,7 @@
   "fleet": {
     "label": "Naša Flota",
     "title": "Izaberite Vaše Vozilo",
-    "subtitle": "Pregledajte dostupnost i cijene u realnom vremenu, rezervišite direktno.",
+    "subtitle": "Cijene u realnom vremenu i trenutna rezervacija uz besplatno otkazivanje, puno osiguranje i opcije sa niskim ili bez depozita.",
     "browseByCategory": "Pregled po kategoriji",
     "ourFleet": "Naša flota",
     "tabCities": "Gradovi",
@@ -761,11 +761,11 @@
   },
   "affiliate": {
     "heroTitle": "Postanite Car Rental Podgorica partner",
-    "heroSubtitle": "Preporučite putnike koji idu u Crnu Goru i zaradite dio od svake završene rezervacije. Bazirano na LocalRent partnerskom programu.",
-    "signUp": "Prijavite se preko LocalRent-a",
+    "heroSubtitle": "Preporučite putnike koji idu u Crnu Goru i zaradite dio od svake završene rezervacije. Bazirano na partnerskom programu našeg partnera za rezervacije.",
+    "signUp": "Prijavite se preko našeg partnera za rezervacije",
     "howTitle": "Kako funkcioniše",
     "step1Title": "Prijavite se",
-    "step1Text": "Prijavite se na LocalRent partnerski program. Odobrenje obično traje jedan radni dan.",
+    "step1Text": "Prijavite se na partnerski program našeg partnera za rezervacije. Odobrenje obično traje jedan radni dan.",
     "step2Title": "Promovišite",
     "step2Text": "Postavite svoj affiliate link u tekstove, newslettere, postove na društvenim mrežama, ili ugradite booking widget direktno na svoj sajt.",
     "step3Title": "Zarađujte",
@@ -798,7 +798,7 @@
     "whoDevs": "Developeri",
     "whoDevsText": "Travel-tech graditelji koji integrišu rent a car u Crnoj Gori u šire booking platforme.",
     "ctaTitle": "Spremni za početak?",
-    "ctaSubtitle": "Prijavite se preko LocalRent-a za manje od pet minuta, ili nas kontaktirajte za bilo koje pitanje.",
+    "ctaSubtitle": "Prijavite se preko našeg partnera za rezervacije za manje od pet minuta, ili nas kontaktirajte za bilo koje pitanje.",
     "questionsEmail": "Pitanja? Pišite nam"
   },
   "contact": {
@@ -873,17 +873,74 @@
     "label": "Mapa regije glavnog grada",
     "title": "Dokle možete stići iz Podgorice",
     "subtitle": "Većina znamenitosti je u radijusu od 90 minuta od glavnog grada.",
-    "hub": "Podgorica"
+    "hub": "Podgorica",
+    "items": {
+      "0": {
+        "name": "Vinarije Plantaže",
+        "time": "20 min"
+      },
+      "1": {
+        "name": "Brdo Gorica",
+        "time": "10 min"
+      },
+      "2": {
+        "name": "Nikšić",
+        "time": "45 min"
+      },
+      "3": {
+        "name": "Rijeka Crnojevića",
+        "time": "30 min"
+      },
+      "4": {
+        "name": "Tuzi",
+        "time": "15 min"
+      }
+    }
   },
   "experiences": {
     "label": "Gdje ići",
     "title": "Pola dana i cijeli dan iz Podgorice",
     "subtitle": "Izaberite rutu, uzmite auto, vratite se na večeru.",
-    "readGuide": "Pročitaj vodič"
+    "readGuide": "Pročitaj vodič",
+    "items": {
+      "0": {
+        "title": "Prošetajte osmanskim kvartom",
+        "location": "Stara Varoš, centar Podgorice"
+      },
+      "1": {
+        "title": "Pređite Most Milenijuma",
+        "location": "Novi grad, 5 min od centra"
+      },
+      "2": {
+        "title": "Sjedite u lokalnom kafiću",
+        "location": "Područje ulice Hercegovačka"
+      },
+      "3": {
+        "title": "Vožnja do planina Komovi",
+        "location": "Put za Berane, 90 min istočno"
+      }
+    }
   },
   "insiderTips": {
     "label": "Insajderski savjeti",
-    "title": "Stvari koje samo lokalci znaju"
+    "title": "Stvari koje samo lokalci znaju",
+    "items": {
+      "0": {
+        "tag": "Lokalna šetnja",
+        "title": "Popnite se na Goricu prije doručka",
+        "text": "Mještani započinju dan na šumovitom brdu iznad grada. Besplatne, označene staze, 20 minuta uspona do krsta na vrhu, s panoramskim pogledom na rijeke."
+      },
+      "1": {
+        "tag": "Stari kvart",
+        "title": "Prošetajte osmanskim ulicama u sumrak",
+        "text": "Stara Varoš je izvorna Podgorica: uske uličice niskih kamenih kuća i sat-kula Sahat Kula. Najmirnija je u sat vremena pred zalazak sunca, kad trgovci zatvaraju radnje."
+      },
+      "2": {
+        "tag": "Jutarnja kafa",
+        "title": "Gdje mještani piju prvu kafu",
+        "text": "Preskočite lance. Kafići oko Hercegovačke su mjesto gdje se Podgorica budi: espreso, pepeljare, novine i razgovori koji se otežu i poslije doručka."
+      }
+    }
   },
   "popularRoutes": {
     "label": "Popularne rute",
@@ -968,9 +1025,9 @@
   "termsBody": {
     "lastUpdated": "Posljednje ažuriranje:",
     "aboutTitle": "O ovoj web stranici",
-    "aboutText": "Podgorica Car Rental (carrentalpodgorica.com) je partnerska web stranica koja povezuje putnike s uslugama najma automobila u Podgoricau i okolini, Crna Gora. Mi nismo kompanija za najam automobila, sarađujemo s LocalRent-om za pružanje dostupnosti u realnom vremenu i usluga rezervacije.",
+    "aboutText": "Podgorica Car Rental (carrentalpodgorica.com) je partnerska web stranica koja povezuje putnike s uslugama najma automobila u Podgorici i okolini, Crna Gora. Mi nismo kompanija za najam automobila, sarađujemo s lokalnim partnerom za rezervacije za pružanje dostupnosti u realnom vremenu i usluga rezervacije.",
     "bookingTitle": "Uslovi rezervacije i najma",
-    "bookingP1": "Sve rezervacije najma automobila izvršene preko naše web stranice obrađuje i ispunjava naš partner LocalRent. Kada završite rezervaciju, sklapate ugovor o najmu direktno s dobavljačem vozila, a ne s Podgorica Car Rental.",
+    "bookingP1": "Sve rezervacije najma automobila izvršene preko naše web stranice obrađuje i ispunjava naš partner za rezervacije. Kada završite rezervaciju, sklapate ugovor o najmu direktno s dobavljačem vozila, a ne s Podgorica Car Rental.",
     "bookingP2": "Uslovi najma, uključujući politike otkazivanja, osiguranje, starosne uslove i uslove plaćanja, određuje dobavljač vozila i prikazuju se tokom procesa rezervacije. Preporučujemo da pažljivo pročitate ove uslove prije potvrde bilo koje rezervacije.",
     "roleTitle": "Naša uloga",
     "weProvide": "Mi pružamo:",

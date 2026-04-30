@@ -62,7 +62,7 @@
   "fleet": {
     "label": "La Nostra Flotta",
     "title": "Scegli la Tua Auto",
-    "subtitle": "Consulta disponibilità e prezzi in tempo reale, prenota direttamente.",
+    "subtitle": "Prezzi in tempo reale e prenotazione immediata con cancellazione gratuita, assicurazione completa e opzioni con cauzione bassa o nulla.",
     "browseByCategory": "Sfoglia per categoria",
     "ourFleet": "La nostra flotta",
     "tabCities": "Città",
@@ -761,11 +761,11 @@
   },
   "affiliate": {
     "heroTitle": "Diventa affiliato Car Rental Podgorica",
-    "heroSubtitle": "Indirizza viaggiatori verso il Montenegro e guadagna una quota su ogni prenotazione completata. Basato sul programma partner di LocalRent.",
-    "signUp": "Iscriviti a LocalRent",
+    "heroSubtitle": "Indirizza viaggiatori verso il Montenegro e guadagna una quota su ogni prenotazione completata. Basato sul programma partner del nostro partner di prenotazione.",
+    "signUp": "Iscriviti tramite il nostro partner di prenotazione",
     "howTitle": "Come funziona",
     "step1Title": "Candidati",
-    "step1Text": "Iscriviti al programma partner di LocalRent. L'approvazione richiede in genere un giorno lavorativo.",
+    "step1Text": "Iscriviti al programma partner del nostro partner di prenotazione. L'approvazione richiede in genere un giorno lavorativo.",
     "step2Title": "Promuovi",
     "step2Text": "Inserisci il tuo link affiliato in articoli, newsletter, post social, oppure integra il widget di prenotazione direttamente sul tuo sito.",
     "step3Title": "Guadagna",
@@ -798,7 +798,7 @@
     "whoDevs": "Sviluppatori",
     "whoDevsText": "Operatori travel-tech che integrano il noleggio in Montenegro in piattaforme di prenotazione più ampie.",
     "ctaTitle": "Pronto a iniziare?",
-    "ctaSubtitle": "Iscriviti a LocalRent in meno di cinque minuti, oppure contattaci per qualsiasi domanda.",
+    "ctaSubtitle": "Iscriviti tramite il nostro partner di prenotazione in meno di cinque minuti, oppure contattaci per qualsiasi domanda.",
     "questionsEmail": "Domande? Scrivici"
   },
   "contact": {
@@ -873,17 +873,74 @@
     "label": "Mappa della regione capitale",
     "title": "Fin dove puoi arrivare da Podgorica",
     "subtitle": "La maggior parte delle attrazioni è entro 90 minuti dalla capitale.",
-    "hub": "Podgorica"
+    "hub": "Podgorica",
+    "items": {
+      "0": {
+        "name": "Cantine Plantaže",
+        "time": "20 min"
+      },
+      "1": {
+        "name": "Collina di Gorica",
+        "time": "10 min"
+      },
+      "2": {
+        "name": "Nikšić",
+        "time": "45 min"
+      },
+      "3": {
+        "name": "Rijeka Crnojevića",
+        "time": "30 min"
+      },
+      "4": {
+        "name": "Tuzi",
+        "time": "15 min"
+      }
+    }
   },
   "experiences": {
     "label": "Dove andare",
     "title": "Mezza giornata e giornata intera da Podgorica",
     "subtitle": "Scegli un percorso, prendi l'auto, torna in tempo per cena.",
-    "readGuide": "Leggi la guida"
+    "readGuide": "Leggi la guida",
+    "items": {
+      "0": {
+        "title": "Passeggia nel quartiere ottomano",
+        "location": "Stara Varoš, centro di Podgorica"
+      },
+      "1": {
+        "title": "Attraversa il Ponte del Millennio",
+        "location": "Città nuova, a 5 min dal centro"
+      },
+      "2": {
+        "title": "Siediti in un caffè locale",
+        "location": "Zona di via Hercegovačka"
+      },
+      "3": {
+        "title": "Guida fino ai monti Komovi",
+        "location": "Strada per Berane, 90 min a est"
+      }
+    }
   },
   "insiderTips": {
     "label": "Consigli da insider",
-    "title": "Cose che solo i locali sanno"
+    "title": "Cose che solo i locali sanno",
+    "items": {
+      "0": {
+        "tag": "Passeggiata locale",
+        "title": "Sali su Gorica prima di colazione",
+        "text": "I locali iniziano la giornata sulla collina boscosa sopra la città. Sentieri gratuiti e segnalati, 20 minuti di salita fino alla croce sulla vetta, con vista panoramica sui fiumi."
+      },
+      "1": {
+        "tag": "Quartiere vecchio",
+        "title": "Cammina nelle strade ottomane al tramonto",
+        "text": "Stara Varoš è la Podgorica delle origini: vicoli stretti di basse case in pietra e la torre dell'orologio Sahat Kula. L'ora più tranquilla è poco prima del tramonto, quando i bottegai chiudono."
+      },
+      "2": {
+        "tag": "Caffè del mattino",
+        "title": "Dove i locali prendono il primo caffè",
+        "text": "Lascia stare le catene. I caffè attorno a via Hercegovačka sono il luogo dove Podgorica si sveglia: espresso, posacenere, giornali e conversazioni che si trascinano oltre la colazione."
+      }
+    }
   },
   "popularRoutes": {
     "label": "Percorsi popolari",
@@ -968,9 +1025,9 @@
   "termsBody": {
     "lastUpdated": "Ultimo aggiornamento:",
     "aboutTitle": "Informazioni su questo sito",
-    "aboutText": "Podgorica Car Rental (carrentalpodgorica.com) è un sito web affiliato che mette in contatto i viaggiatori con i servizi di noleggio auto a Podgorica e dintorni, Montenegro. Non siamo una società di noleggio auto, collaboriamo con LocalRent per fornire disponibilità in tempo reale e servizi di prenotazione.",
+    "aboutText": "Podgorica Car Rental (carrentalpodgorica.com) è un sito web affiliato che mette in contatto i viaggiatori con i servizi di noleggio auto a Podgorica e dintorni, Montenegro. Non siamo una società di noleggio auto, collaboriamo con un partner di prenotazione locale per fornire disponibilità in tempo reale e servizi di prenotazione.",
     "bookingTitle": "Termini di prenotazione e noleggio",
-    "bookingP1": "Tutte le prenotazioni di noleggio auto effettuate tramite il nostro sito web vengono elaborate e gestite dal nostro partner LocalRent. Quando completi una prenotazione, stipuli un contratto di noleggio direttamente con il fornitore del veicolo, non con Podgorica Car Rental.",
+    "bookingP1": "Tutte le prenotazioni di noleggio auto effettuate tramite il nostro sito web vengono elaborate e gestite dal nostro partner di prenotazione. Quando completi una prenotazione, stipuli un contratto di noleggio direttamente con il fornitore del veicolo, non con Podgorica Car Rental.",
     "bookingP2": "I termini del noleggio, incluse le politiche di cancellazione, la copertura assicurativa, i requisiti di età e le condizioni di pagamento, sono stabiliti dal fornitore del veicolo e visualizzati durante il processo di prenotazione. Ti consigliamo di leggere attentamente questi termini prima di confermare qualsiasi prenotazione.",
     "roleTitle": "Il nostro ruolo",
     "weProvide": "Noi forniamo:",

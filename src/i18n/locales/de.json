@@ -62,7 +62,7 @@
   "fleet": {
     "label": "Unsere Flotte",
     "title": "Wählen Sie Ihr Fahrzeug",
-    "subtitle": "Verfügbarkeit und Preise in Echtzeit, direkt buchen.",
+    "subtitle": "Echtzeit-Preise und sofortige Buchung mit kostenloser Stornierung, Vollkasko und Optionen mit niedriger oder keiner Kaution.",
     "browseByCategory": "Nach Kategorie durchsuchen",
     "ourFleet": "Unsere Flotte",
     "tabCities": "Städte",
@@ -761,11 +761,11 @@
   },
   "affiliate": {
     "heroTitle": "Werden Sie Car Rental Podgorica-Partner",
-    "heroSubtitle": "Empfehlen Sie Reisende nach Montenegro und verdienen Sie an jeder vermittelten Buchung mit. Aufgebaut auf dem LocalRent-Partnerprogramm.",
-    "signUp": "Bei LocalRent anmelden",
+    "heroSubtitle": "Empfehlen Sie Reisende nach Montenegro und verdienen Sie an jeder vermittelten Buchung mit. Aufgebaut auf dem Partnerprogramm unseres Buchungspartners.",
+    "signUp": "Bei unserem Buchungspartner anmelden",
     "howTitle": "So funktioniert es",
     "step1Title": "Bewerben",
-    "step1Text": "Melden Sie sich beim LocalRent-Partnerprogramm an. Die Freischaltung dauert in der Regel einen Werktag.",
+    "step1Text": "Melden Sie sich beim Partnerprogramm unseres Buchungspartners an. Die Freischaltung dauert in der Regel einen Werktag.",
     "step2Title": "Bewerben Sie uns",
     "step2Text": "Setzen Sie Ihren Empfehlungslink in Artikel, Newsletter, Social-Media-Posts oder binden Sie das Buchungs-Widget direkt auf Ihrer Website ein.",
     "step3Title": "Verdienen",
@@ -798,7 +798,7 @@
     "whoDevs": "Entwickler",
     "whoDevsText": "Travel-Tech-Builder, die Mietwagen in Montenegro in größere Buchungsplattformen integrieren.",
     "ctaTitle": "Bereit zum Start?",
-    "ctaSubtitle": "In unter fünf Minuten bei LocalRent anmelden, oder kontaktieren Sie uns bei Fragen.",
+    "ctaSubtitle": "In unter fünf Minuten bei unserem Buchungspartner anmelden, oder kontaktieren Sie uns bei Fragen.",
     "questionsEmail": "Fragen? Schreiben Sie uns"
   },
   "contact": {
@@ -873,17 +873,74 @@
     "label": "Hauptstadtregion-Karte",
     "title": "Wie weit Sie von Podgorica kommen",
     "subtitle": "Die meisten Highlights liegen im 90-Minuten-Radius der Hauptstadt.",
-    "hub": "Podgorica"
+    "hub": "Podgorica",
+    "items": {
+      "0": {
+        "name": "Plantaže Weingüter",
+        "time": "20 Min"
+      },
+      "1": {
+        "name": "Gorica-Hügel",
+        "time": "10 Min"
+      },
+      "2": {
+        "name": "Nikšić",
+        "time": "45 Min"
+      },
+      "3": {
+        "name": "Rijeka Crnojevića",
+        "time": "30 Min"
+      },
+      "4": {
+        "name": "Tuzi",
+        "time": "15 Min"
+      }
+    }
   },
   "experiences": {
     "label": "Wohin fahren",
     "title": "Halb- und Ganztagestouren ab Podgorica",
     "subtitle": "Wählen Sie eine Strecke, nehmen Sie das Auto, seien Sie zum Abendessen zurück.",
-    "readGuide": "Anleitung lesen"
+    "readGuide": "Anleitung lesen",
+    "items": {
+      "0": {
+        "title": "Streifzug durchs osmanische Viertel",
+        "location": "Stara Varoš, Zentrum Podgorica"
+      },
+      "1": {
+        "title": "Über die Millennium-Brücke gehen",
+        "location": "Neustadt, 5 Min vom Zentrum"
+      },
+      "2": {
+        "title": "In einem lokalen Café sitzen",
+        "location": "Bereich Hercegovačka-Straße"
+      },
+      "3": {
+        "title": "Hinauf in die Komovi-Berge",
+        "location": "Berane-Straße, 90 Min östlich"
+      }
+    }
   },
   "insiderTips": {
     "label": "Insider-Tipps",
-    "title": "Dinge, die nur Einheimische wissen"
+    "title": "Dinge, die nur Einheimische wissen",
+    "items": {
+      "0": {
+        "tag": "Lokaler Spaziergang",
+        "title": "Vor dem Frühstück auf den Gorica",
+        "text": "Einheimische starten den Tag auf dem bewaldeten Hügel über der Stadt. Kostenlose, ausgeschilderte Wege, 20-minütiger Aufstieg zum Kreuz auf dem Gipfel, mit Panoramablick zurück über die Flüsse."
+      },
+      "1": {
+        "tag": "Altstadt",
+        "title": "Bei Sonnenuntergang durchs osmanische Viertel",
+        "text": "Stara Varoš ist das ursprüngliche Podgorica: schmale Gassen mit niedrigen Steinhäusern und der Sahat-Kula-Uhrturm. Am ruhigsten ist es kurz vor Sonnenuntergang, wenn die Ladenbesitzer schließen."
+      },
+      "2": {
+        "tag": "Morgenkaffee",
+        "title": "Wo Einheimische ihren ersten Kaffee trinken",
+        "text": "Lassen Sie die Ketten links liegen. Die Cafés rund um die Hercegovačka sind der Ort, an dem Podgorica aufwacht: Espresso, Aschenbecher, Zeitungen und Gespräche, die bis nach dem Frühstück reichen."
+      }
+    }
   },
   "popularRoutes": {
     "label": "Beliebte Routen",
@@ -968,9 +1025,9 @@
   "termsBody": {
     "lastUpdated": "Zuletzt aktualisiert:",
     "aboutTitle": "Über diese Website",
-    "aboutText": "Podgorica Car Rental (carrentalpodgorica.com) ist eine Affiliate-Website, die Reisende mit Autovermietungen in und um Podgorica, Montenegro, verbindet. Wir sind kein Autovermieter, wir arbeiten mit LocalRent zusammen, um Echtzeit-Verfügbarkeit und Buchungsdienste bereitzustellen.",
+    "aboutText": "Podgorica Car Rental (carrentalpodgorica.com) ist eine Affiliate-Website, die Reisende mit Autovermietungen in und um Podgorica, Montenegro, verbindet. Wir sind kein Autovermieter, wir arbeiten mit einem lokalen Buchungspartner zusammen, um Echtzeit-Verfügbarkeit und Buchungsdienste bereitzustellen.",
     "bookingTitle": "Buchungs- und Mietbedingungen",
-    "bookingP1": "Alle über unsere Website vorgenommenen Mietwagenbuchungen werden von unserem Partner LocalRent bearbeitet und abgewickelt. Wenn Sie eine Buchung abschließen, gehen Sie einen Mietvertrag direkt mit dem Fahrzeuganbieter ein, nicht mit Podgorica Car Rental.",
+    "bookingP1": "Alle über unsere Website vorgenommenen Mietwagenbuchungen werden von unserem Buchungspartner bearbeitet und abgewickelt. Wenn Sie eine Buchung abschließen, gehen Sie einen Mietvertrag direkt mit dem Fahrzeuganbieter ein, nicht mit Podgorica Car Rental.",
     "bookingP2": "Die Mietbedingungen, einschließlich Stornierungsrichtlinien, Versicherungsschutz, Altersanforderungen und Zahlungsbedingungen, werden vom Fahrzeuganbieter festgelegt und während des Buchungsprozesses angezeigt. Wir empfehlen, diese Bedingungen vor der Bestätigung einer Buchung sorgfältig zu lesen.",
     "roleTitle": "Unsere Rolle",
     "weProvide": "Wir bieten:",
