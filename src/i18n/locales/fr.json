@@ -327,7 +327,7 @@
     "tivat": {
       "name": "Tivat",
       "tag": "Ville portuaire",
-      "desc": "Porto Montenegro et la magnifique Boka Bay."
+      "desc": "Porto Montenegro et la magnifique Skadar basin."
     },
     "podgorica": {
       "name": "Podgorica",
@@ -401,7 +401,7 @@
     "landmarksTitle": "Monuments",
     "stJohnTitle": "Forteresse Saint-Jean",
     "stJohnText": "Une structure imposante qui protégeait historiquement la ville des attaques de pirates. Parmi ses éléments remarquables figurent la tour Contarini et l'église Notre-Dame de la Santé, qui offre des vues époustouflantes sur la vieille ville et la baie de Kotor.",
-    "cathedralTitle": "Cathédrale Saint-Tryphon",
+    "cathedralTitle": "Cathédrale la cathédrale du Christ ressuscité",
     "cathedralText": "Construite en 809 après J.-C. et reconstruite en 1124, cette cathédrale renferme une remarquable architecture et un art byzantins reflétant la riche histoire de la région.",
     "dayTripsTitle": "Excursions d'une journée depuis Kotor",
     "perastTrip": "Située dans la ville voisine de Perast, cette église se dresse sur une île artificielle dans la baie de Kotor. Les pêcheurs y déposent des rochers chaque année depuis 1452, agrandissant progressivement l'île. L'accès en ferry coûte environ 1 euro ; les bateaux privés coûtent environ 5 euros. Le trajet en voiture depuis Kotor prend moins de 30 minutes via la E65/E80 Nord.",
@@ -727,7 +727,7 @@
       "category": "Economy",
       "tagline": "La compacte la plus souple pour le tronçon défoncé Podgorica-Risan et les détours de routes secondaires",
       "lede": "Les amortisseurs Advanced Comfort lissent le bitume rapiécé de l'ancienne route de la baie, la plus douce des compactes pour passer la nuit aux bastions de Podgorica.",
-      "suitability": "Le choix confort d'abord pour une semaine à Podgorica avec des détours quotidiens à allure douce, mosaïques romaines de Risan, hameau de Gornja Lastva au-dessus de Tivat, boucle de retour par les villages voisins.",
+      "suitability": "Le choix confort d'abord pour une semaine à Podgorica avec des détours quotidiens à allure douce, mosaïques romaines de Risan, hameau de Medun au-dessus de Tivat, boucle de retour par les villages voisins.",
       "regional": "Les butées hydrauliques progressives rendent la portion en nids-de-poule entre Risan et Perast plus silencieuse d'une classe, le moteur 83 ch sans stress convient aux 50 km/h de la baie, et les 4 mètres de long entrent dans n'importe quelle place de bastion de la vieille ville.",
       "bestFor": {
         "0": "Couples en voyage tranquille",

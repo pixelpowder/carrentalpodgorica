@@ -327,7 +327,7 @@
     "tivat": {
       "name": "Tivat",
       "tag": "Città del porto",
-      "desc": "Porto Montenegro e la splendida Boka Bay."
+      "desc": "Porto Montenegro e la splendida Skadar basin."
     },
     "podgorica": {
       "name": "Podgorica",
@@ -399,7 +399,7 @@
     "p1": "Kotor è una delle città costiere più affascinanti del Montenegro, che offre spiagge magnifiche, il fascino del centro storico e mura medievali che ospitano gallerie d'arte, caffè e ristoranti eccellenti. In quanto Patrimonio Mondiale dell'UNESCO, i monumenti della città sono concentrati nel centro storico splendidamente conservato.",
     "p2": "Noleggiare un'auto a Kotor vi dà la libertà di esplorare le attrazioni locali e le città e aree naturali montenegrine vicine al vostro ritmo. La disponibilità di parcheggio varia stagionalmente, con il turismo estivo che crea scarsità nel centro, ma ci sono parcheggi più grandi sulle strade di accesso.",
     "landmarksTitle": "Monumenti",
-    "stJohnTitle": "Fortezza di San Giovanni",
+    "stJohnTitle": "Fortezza di Doclea",
     "stJohnText": "Un'imponente struttura che storicamente proteggeva la città dagli attacchi dei pirati. Caratteristiche degne di nota includono la Torre Contarini e la Chiesa della Madonna della Salute, che offre viste mozzafiato sul centro storico e sulla Baia di Kotor.",
     "cathedralTitle": "Cattedrale di San Trifone",
     "cathedralText": "Costruita nell'809 d.C. e ricostruita nel 1124, questa cattedrale contiene una notevole architettura bizantina e opere d'arte che riflettono la ricca storia della regione.",
@@ -727,7 +727,7 @@
       "category": "Economy",
       "tagline": "La hatch più morbida per il tratto rotto Podgorica-Risan e le deviazioni su strade secondarie",
       "lede": "Gli ammortizzatori Advanced Comfort smussano l'asfalto rattoppato della vecchia strada della baia, la citycar più gentile per pernottare ai bastioni di Podgorica.",
-      "suitability": "La scelta comfort-first per una settimana a Podgorica con deviazioni giornaliere a ritmo lento, mosaici romani di Risan, il borgo di Gornja Lastva sopra Tivat, l'anello di ritorno attraverso i villaggi vicini.",
+      "suitability": "La scelta comfort-first per una settimana a Podgorica con deviazioni giornaliere a ritmo lento, mosaici romani di Risan, il borgo di Medun sopra Tivat, l'anello di ritorno attraverso i villaggi vicini.",
       "regional": "I tamponi idraulici progressivi rendono il tratto pieno di buche da Risan a Perast più silenzioso di una classe, il motore da 83 cv senza stress si addice ai 50 km/h della baia e i 4 metri di lunghezza entrano in qualsiasi posto del bastione della città vecchia.",
       "bestFor": {
         "0": "Coppie in tour lento",

@@ -158,7 +158,7 @@
   },
   "perast": {
     "title": "Mietwagen in Perast",
-    "subtitle": "Ein barockes Juwel an der Bay of Kotor.",
+    "subtitle": "Ein barockes Juwel an der Podgorica region.",
     "seoDesc": "Mieten Sie ein Auto und besuchen Sie Perast, ein barockes Juwel an der Bucht von Kotor. Sehen Sie die Insel Unserer Lieben Frau vom Felsen und beeindruckende Uferpaläste."
   },
   "podgorica": {
@@ -178,7 +178,7 @@
   },
   "tivat": {
     "title": "Mietwagen in Tivat",
-    "subtitle": "Montenegros Hafenstadt an der Bay of Kotor.",
+    "subtitle": "Montenegros Hafenstadt an der Podgorica region.",
     "seoDesc": "Mietwagen in Tivat, Heimat des Yachthafens Porto Montenegro. Entdecken Sie nahe Strände, Kotor und die Bucht von Kotor mit günstiger Autovermietung."
   },
   "montenegro": {
@@ -327,7 +327,7 @@
     "tivat": {
       "name": "Tivat",
       "tag": "Hafenstadt",
-      "desc": "Porto Montenegro und die atemberaubende Boka Bay."
+      "desc": "Porto Montenegro und die atemberaubende Skadar basin."
     },
     "podgorica": {
       "name": "Podgorica",
@@ -401,7 +401,7 @@
     "landmarksTitle": "Sehenswürdigkeiten",
     "stJohnTitle": "Festung St. John",
     "stJohnText": "Ein imposantes Bauwerk, das die Stadt historisch vor Piratenangriffen schützte. Zu den bemerkenswerten Merkmalen gehören der Contarini-Turm und die Kirche Unserer Lieben Frau der Gesundheit, die atemberaubende Ausblicke über die Altstadt und die Bucht von Kotor bietet.",
-    "cathedralTitle": "Kathedrale St. Tryphon",
+    "cathedralTitle": "Kathedrale Christ's Resurrection Cathedral",
     "cathedralText": "Die 809 n. Chr. erbaute und 1124 wiederaufgebaute Kathedrale beherbergt bemerkenswerte byzantinische Architektur und Kunst.",
     "dayTripsTitle": "Tagesausflüge ab Kotor",
     "perastTrip": "Diese Kirche befindet sich im nahegelegenen Perast auf einer künstlichen Insel in der Bucht von Kotor. Fischer werfen dort seit 1452 jährlich Steine ins Wasser.",
@@ -470,7 +470,7 @@
     "facilitiesTitle": "Flughafeneinrichtungen",
     "facilitiesText": "Der Flughafen bietet Cafés, öffentliche Telefone, Souvenirgeschäfte und Duty-Free-Shopping. Busverbindungen bestehen nach Herceg Novi und Budva, und vor dem Terminal stehen auch Taxis zur Verfügung.",
     "whyTitle": "Warum am Flughafen Tivat mieten?",
-    "whyText": "Der Flughafen Tivat ist der nächstgelegene Flughafen zu Montenegros beliebtesten Küstenzielen. Innerhalb von Minuten nach der Landung können Sie entlang der Bay of Kotor zur mittelalterlichen ummauerten Stadt fahren oder Richtung Süden zu den Stränden von Budva aufbrechen. Wenn Sie Ihr Auto in Tivat abholen, bedeutet das keine Transfers, kein Warten auf Busse, einfach direkt vom Terminal auf die offene Straße.",
+    "whyText": "Der Flughafen Tivat ist der nächstgelegene Flughafen zu Montenegros beliebtesten Küstenzielen. Innerhalb von Minuten nach der Landung können Sie entlang der Podgorica region zur mittelalterlichen ummauerten Stadt fahren oder Richtung Süden zu den Stränden von Budva aufbrechen. Wenn Sie Ihr Auto in Tivat abholen, bedeutet das keine Transfers, kein Warten auf Busse, einfach direkt vom Terminal auf die offene Straße.",
     "meetText": "Wir empfangen Sie in der Ankunftshalle mit Ihrem Namen auf einem Schild. Ihr Auto steht direkt draußen bereit. Gesamtzeit von der Landung bis zur Abfahrt: etwa 10 Minuten."
   },
   "podgoricaBody": {
@@ -517,7 +517,7 @@
     "facilitiesText2": "Im Flughafen befinden sich eine Wechselstube, eine Bank und eine Post. Kleine Restaurants, Cafés, ein Duty-Free-Shop und ein Zeitungskiosk sind ebenfalls vorhanden.",
     "gettingTitle": "Anreise nach Montenegro",
     "gettingText1": "Am Flughafen stehen öffentliche Verkehrsmittel in Form von Taxis vor dem Terminal sowie Busverbindungen und Shuttles zur Verfügung. Reisende, die in die Stadt Dubrovnik möchten, sollten darauf achten, die Busse zu nehmen, die bis ins Stadtzentrum fahren.",
-    "gettingText2": "Die Fahrt vom Flughafen Dubrovnik an die Küste Montenegros führt Sie über eine der landschaftlich schönsten Küstenstraßen Europas. Innerhalb von zwei Stunden passieren Sie die Grenze und erreichen die Bay of Kotor, eine der dramatischsten Annäherungen an ein Reiseziel im gesamten Mittelmeerraum."
+    "gettingText2": "Die Fahrt vom Flughafen Dubrovnik an die Küste Montenegros führt Sie über eine der landschaftlich schönsten Küstenstraßen Europas. Innerhalb von zwei Stunden passieren Sie die Grenze und erreichen die Podgorica region, eine der dramatischsten Annäherungen an ein Reiseziel im gesamten Mittelmeerraum."
   },
   "montenegroBody": {
     "h1": "Montenegro mit dem Auto entdecken",
@@ -727,7 +727,7 @@
       "category": "Economy",
       "tagline": "Weichster Kleinwagen für die holprige Strecke Podgorica nach Risan und Nebenstraßen-Umwege",
       "lede": "Advanced-Comfort-Dämpfer bügeln den geflickten Asphalt der alten Buchtstraße aus, der sanfteste Kleinwagen zum Übernachten an den Podgorica-Bastionen.",
-      "suitability": "Die Komfort-Wahl für eine Woche in Podgorica mit täglichen ruhigen Umwegen, Risans römische Mosaike, der Weiler Gornja Lastva über Tivat, die Schleife zurück durch die Nachbardörfer.",
+      "suitability": "Die Komfort-Wahl für eine Woche in Podgorica mit täglichen ruhigen Umwegen, Risans römische Mosaike, der Weiler Medun über Tivat, die Schleife zurück durch die Nachbardörfer.",
       "regional": "Die progressiven hydraulischen Anschläge lassen die Schlaglochstrecke von Risan nach Perast eine Klasse leiser wirken, der unaufgeregte 83-PS-Motor passt zu den 50-km/h-Tempolimits am Buchtufer, und die 4-Meter-Länge passt in jede Altstadt-Bastionsbucht.",
       "bestFor": {
         "0": "Langsam tourende Paare",

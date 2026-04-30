@@ -312,7 +312,7 @@
     "perast": {
       "name": "Perast",
       "tag": "Skriveni dragulj",
-      "desc": "Barokno selo na Boka Bay."
+      "desc": "Barokno selo na Skadar basin."
     },
     "budva": {
       "name": "Budva",
@@ -327,7 +327,7 @@
     "tivat": {
       "name": "Tivat",
       "tag": "Grad marine",
-      "desc": "Porto Crna Gora i zadivljujuća Boka Bay."
+      "desc": "Porto Crna Gora i zadivljujuća Skadar basin."
     },
     "podgorica": {
       "name": "Podgorica",
@@ -447,7 +447,7 @@
     "p2": "Ovo primorsko odmaralište ima populaciju od oko 13.000 stanovnika. Posjetioci mogu uživati u šetnjama uz more, jesti u restoranima na obali i istraživati prodavnice skrivene u uskim uličicama. Tokom vrhunca sezone, grad balansira između mira i živahne turističke aktivnosti.",
     "beachesTitle": "Plaže",
     "beachesText": "Tivat se može pohvaliti sa 17 plaža koje se prostiru na 3 kilometra obale, priznatih među najljepšima na Mediteranu. Među najboljim plažama su:",
-    "beach1": "Plavi Horizonti: Bijeli pijesak, kristalno čista voda, savršeno za plivanje i sunčanje",
+    "beach1": "Plaža Gorica: Bijeli pijesak, kristalno čista voda, savršeno za plivanje i sunčanje",
     "beach2": "Pržno na ostrvu Sveti Marko: Napušteno odmaralište koje nudi osamu i netaknutu vodu, idealno za vodene sportove",
     "portoTitle": "Porto Crna Gora",
     "portoText": "Dragulj Tivta je Porto Crna Gora, luksuzna marina za jahte i naselje na obali koje je transformisalo grad u jednu od najmodernijih destinacija na Jadranu. Kompleks marine sadrži butike, restorane, bazenski klub i redovne događaje tokom ljetnje sezone.",
@@ -727,7 +727,7 @@
       "category": "Economy",
       "tagline": "Najmekši mali hečbek za izrovani put Podgorica-Risan i obilaznice sporednim putevima",
       "lede": "Advanced Comfort amortizeri zaglade pokrpani asfalt na starom putu uz zaliv, najnježniji mali auto za noćenje kod podgoričkih bastiona.",
-      "suitability": "Izbor zasnovan na komforu za sedmicu u Podgorici sa svakodnevnim sporim obilaznicama: rimski mozaici u Risnu, zaseok Gornja Lastva iznad Tivta, povratak kroz okolna sela.",
+      "suitability": "Izbor zasnovan na komforu za sedmicu u Podgorici sa svakodnevnim sporim obilaznicama: rimski mozaici u Risnu, zaseok Medun iznad Tivta, povratak kroz okolna sela.",
       "regional": "Progresivni hidraulični graničnici čine rupičastu dionicu Risan-Perast tišom za klasu, mirnih 83 KS odgovara ograničenju od 50 km/h u zalivu, a dužina od 4 metra ulazi u bilo koji bastion u Starom gradu.",
       "bestFor": {
         "0": "Parovi koji putuju polako",
