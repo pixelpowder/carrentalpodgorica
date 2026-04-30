@@ -178,11 +178,11 @@
     "preferenceCookies": "Preference cookies:",
     "preferenceDesc": "remember your language and location selections",
     "thirdPartyTitle": "Third-Party Cookies",
-    "thirdPartyText": "Our car rental booking widget (provided by LocalRent) may set cookies to:",
+    "thirdPartyText": "Our car rental booking widget (provided by our booking partner) may set cookies to:",
     "thirdParty1": "Remember your search preferences (dates, location)",
     "thirdParty2": "Maintain your session during the booking process",
     "thirdParty3": "Track affiliate referrals",
-    "thirdPartyNote": "These cookies are set by LocalRent and are governed by their privacy policy.",
+    "thirdPartyNote": "These cookies are set by our booking partner and are governed by their privacy policy.",
     "managingTitle": "Managing Cookies",
     "managingText": "You can control cookies through your browser settings. Most browsers allow you to:",
     "manage1": "View what cookies are stored",
@@ -199,7 +199,7 @@
     "whoText": "Podgorica Car Rental operates as an affiliate partner connecting travellers with car rental providers in Podgorica, Montenegro. Our website is located at carrentalpodgorica.com. When you use our site, we may collect certain information as described below.",
     "collectTitle": "What Information We Collect",
     "provideTitle": "Information you provide",
-    "provideText": "When you use our booking search form, we collect the pickup location, dates, and times you enter in order to find available vehicles. This information is passed to our partner (LocalRent) to generate search results. We do not collect or store payment details, all payments are processed directly by the rental provider.",
+    "provideText": "When you use our booking search form, we collect the pickup location, dates, and times you enter in order to find available vehicles. This information is passed to our booking partner to generate search results. We do not collect or store payment details, all payments are processed directly by the rental provider.",
     "autoTitle": "Information collected automatically",
     "auto1Label": "Usage data:",
     "auto1": "pages visited, time spent on site, referring website",
@@ -214,7 +214,7 @@
     "how4": "To respond to enquiries via WhatsApp, Viber, or email",
     "thirdTitle": "Third-Party Services",
     "thirdText": "Our website uses the following third-party services:",
-    "third1Label": "LocalRent:",
+    "third1Label": "Booking partner:",
     "third1": "car rental booking widget, processes your search queries and handles all booking and payment",
     "third2Label": "Hosting Provider:",
     "third2": "website hosting",
@@ -222,7 +222,7 @@
     "third3": "stock photography under licence",
     "thirdNote": "Each of these services has their own privacy policy governing how they handle data.",
     "cookiesTitle": "Cookies",
-    "cookiesText": "We use minimal cookies necessary for the website to function. The LocalRent booking widget may set its own cookies for session management and preferences. See our {{link}} for details.",
+    "cookiesText": "We use minimal cookies necessary for the website to function. the booking widget may set its own cookies for session management and preferences. See our {{link}} for details.",
     "cookiePolicyLink": "Cookie Policy",
     "rightsTitle": "Your Rights",
     "rightsText": "You have the right to:",
@@ -236,9 +236,9 @@
   "termsBody": {
     "lastUpdated": "Last updated:",
     "aboutTitle": "About This Website",
-    "aboutText": "Podgorica Car Rental (carrentalpodgorica.com) is an affiliate website that connects travellers with car rental services in Podgorica, Montenegro. We are not a car rental company, we partner with LocalRent to provide real-time availability and booking services.",
+    "aboutText": "Podgorica Car Rental (carrentalpodgorica.com) is an affiliate website that connects travellers with car rental services in Podgorica, Montenegro. We are not a car rental company, we work with a local booking partner to provide real-time availability and booking services.",
     "bookingTitle": "Booking & Rental Terms",
-    "bookingP1": "All car rental bookings made through our website are processed and fulfilled by our partner, LocalRent. When you complete a booking, you enter into a rental agreement directly with the vehicle supplier, not with Podgorica Car Rental.",
+    "bookingP1": "All car rental bookings made through our website are processed and fulfilled by our booking partner. When you complete a booking, you enter into a rental agreement directly with the vehicle supplier, not with Podgorica Car Rental.",
     "bookingP2": "The rental terms, including cancellation policies, insurance coverage, age requirements, and payment conditions, are set by the vehicle supplier and displayed during the booking process. We recommend reading these terms carefully before confirming any booking.",
     "roleTitle": "Our Role",
     "weProvide": "We provide:",
@@ -390,7 +390,7 @@
     "promise3": "Transparent pricing: the number at booking is the number you pay",
     "promise4": "Cross-border driving to Croatia, Bosnia, Albania, Serbia, and Kosovo",
     "promise5": "Free cancellation on most cars",
-    "promise6": "24/7 roadside backup wherever you end up",
+    "promise6": " backup wherever you end up",
     "h4": "We Live Here",
     "p4": "Our team lives and drives in Podgorica. We know that the Delta City car park fills by Saturday lunchtime, that the Ostrog upper road is best attempted before 10am or after 4pm in summer, and that the best burek in town is hiding in a nameless bakery off Hercegovačka. We share this stuff freely, because a better road trip means a better review, and better reviews keep us going.",
     "h5": "Talk to Us",
@@ -638,11 +638,11 @@
   },
   "affiliate": {
     "heroTitle": "Become a Car Rental Podgorica Affiliate",
-    "heroSubtitle": "Refer travellers heading to Montenegro and earn a share of every booking they complete. Built on the LocalRent partner programme.",
-    "signUp": "Sign up with LocalRent",
+    "heroSubtitle": "Refer travellers heading to Montenegro and earn a share of every booking they complete. Built on the our booking partner partner programme.",
+    "signUp": "Sign up with our booking partner",
     "howTitle": "How it works",
     "step1Title": "Apply",
-    "step1Text": "Sign up to the LocalRent partner programme. Approval typically takes one working day.",
+    "step1Text": "Sign up to the our booking partner partner programme. Approval typically takes one working day.",
     "step2Title": "Promote",
     "step2Text": "Drop your referral link in articles, newsletters, social posts, or embed the booking widget directly on your site.",
     "step3Title": "Earn",
@@ -675,7 +675,7 @@
     "whoDevs": "Developers",
     "whoDevsText": "Travel-tech builders integrating Montenegro car rental into wider booking platforms.",
     "ctaTitle": "Ready to get started?",
-    "ctaSubtitle": "Sign up with LocalRent in under five minutes, or get in touch with any questions.",
+    "ctaSubtitle": "Sign up with our booking partner in under five minutes, or get in touch with any questions.",
     "questionsEmail": "Questions? Email us"
   },
   "contact": {
@@ -752,11 +752,26 @@
     "subtitle": "Most highlights are inside a 90-minute radius of the capital.",
     "hub": "Podgorica",
     "items": {
-      "0": { "name": "Plantaže Wineries", "time": "20 min" },
-      "1": { "name": "Gorica Hill", "time": "10 min" },
-      "2": { "name": "Nikšić", "time": "45 min" },
-      "3": { "name": "Rijeka Crnojevića", "time": "30 min" },
-      "4": { "name": "Tuzi", "time": "15 min" }
+      "0": {
+        "name": "Plantaže Wineries",
+        "time": "20 min"
+      },
+      "1": {
+        "name": "Gorica Hill",
+        "time": "10 min"
+      },
+      "2": {
+        "name": "Nikšić",
+        "time": "45 min"
+      },
+      "3": {
+        "name": "Rijeka Crnojevića",
+        "time": "30 min"
+      },
+      "4": {
+        "name": "Tuzi",
+        "time": "15 min"
+      }
     }
   },
   "experiences": {
@@ -765,10 +780,22 @@
     "subtitle": "Pick a route, take the car, be home for dinner.",
     "readGuide": "Read the guide",
     "items": {
-      "0": { "title": "Wander the Ottoman Quarter", "location": "Stara Varoš, central Podgorica" },
-      "1": { "title": "Cross the Millennium Bridge", "location": "New town, 5 min from centre" },
-      "2": { "title": "Sit at a Local Café", "location": "Hercegovačka Street area" },
-      "3": { "title": "Drive into the Komovi Mountains", "location": "Berane road, 90 min east" }
+      "0": {
+        "title": "Wander the Ottoman Quarter",
+        "location": "Stara Varoš, central Podgorica"
+      },
+      "1": {
+        "title": "Cross the Millennium Bridge",
+        "location": "New town, 5 min from centre"
+      },
+      "2": {
+        "title": "Sit at a Local Café",
+        "location": "Hercegovačka Street area"
+      },
+      "3": {
+        "title": "Drive into the Komovi Mountains",
+        "location": "Berane road, 90 min east"
+      }
     }
   },
   "insiderTips": {
