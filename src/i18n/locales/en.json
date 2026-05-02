@@ -101,7 +101,7 @@
     "bookTitle": "Book Your Car",
     "bookText": "Live prices for Podgorica, Lake Skadar, Nikšić, and 25 more pickup points.",
     "helpTitle": "Need Help?",
-    "helpText": "WhatsApp, Viber, or old-fashioned phone, we pick up fast.",
+    "helpText": "Send us an email and we will get back to you.",
     "popularDest": "Popular Destinations"
   },
   "book": {
@@ -211,7 +211,7 @@
     "how1": "To connect you with car rental availability and pricing",
     "how2": "To improve our website and user experience",
     "how3": "To understand how visitors use our site (analytics)",
-    "how4": "To respond to enquiries via WhatsApp, Viber, or email",
+    "how4": "To respond to enquiries via email",
     "thirdTitle": "Third-Party Services",
     "thirdText": "Our website uses the following third-party services:",
     "third1Label": "Booking partner:",

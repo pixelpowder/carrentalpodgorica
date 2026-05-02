@@ -101,7 +101,7 @@
     "bookTitle": "Réservez Votre Voiture",
     "bookText": "Recherchez la disponibilité et les prix pour Budva et la riviera.",
     "helpTitle": "Besoin d'Aide ?",
-    "helpText": "Notre équipe est disponible via WhatsApp, Viber ou téléphone.",
+    "helpText": "Écrivez-nous un email et nous vous répondrons rapidement.",
     "popularDest": "Destinations Populaires"
   },
   "book": {
@@ -392,7 +392,7 @@
     "h4": "Connaissance locale",
     "p4": "Basés sur la Riviera de Budva, nous connaissons les routes et les trésors cachés. De Tivat à la vieille ville de Budva, vers Sveti Stefan au sud ou Kotor et Perast au nord.",
     "h5": "Contactez-nous",
-    "p5": "Une question sur la location à Budva ? Contactez-nous par WhatsApp, Viber ou téléphone. Recherchez et réservez en quelques minutes."
+    "p5": "Une question sur la location à Budva ? Contactez-nous par email. Recherchez et réservez en quelques minutes."
   },
   "kotorBody": {
     "h1": "Kotor, site historique",
@@ -1000,7 +1000,7 @@
     "how1": "Pour vous connecter avec la disponibilité et les tarifs de location de voitures",
     "how2": "Pour améliorer notre site web et l'expérience utilisateur",
     "how3": "Pour comprendre comment les visiteurs utilisent notre site (analytique)",
-    "how4": "Pour répondre aux demandes via WhatsApp, Viber ou email",
+    "how4": "Pour répondre aux demandes par email ou email",
     "thirdTitle": "Services tiers",
     "thirdText": "Notre site web utilise les services tiers suivants :",
     "third1Label": "notre partenaire de réservation :",

@@ -101,7 +101,7 @@
     "bookTitle": "Prenota la Tua Auto",
     "bookText": "Cerca disponibilità e prezzi per Budva e la riviera in tempo reale.",
     "helpTitle": "Hai Bisogno di Aiuto?",
-    "helpText": "Il nostro team è disponibile via WhatsApp, Viber o telefono.",
+    "helpText": "Inviaci un'email e ti risponderemo a breve.",
     "popularDest": "Destinazioni Popolari"
   },
   "book": {
@@ -392,7 +392,7 @@
     "h4": "Conoscenza locale",
     "p4": "Basati sulla Riviera di Budva, conosciamo le strade e i tesori nascosti. Da Tivat al centro storico di Budva, verso Sveti Stefan a sud o Kotor e Perast a nord.",
     "h5": "Contattaci",
-    "p5": "Domande sul noleggio a Budva? Contattaci via WhatsApp, Viber o telefono. Cerca e prenota in pochi minuti."
+    "p5": "Domande sul noleggio a Budva? Contattaci via email. Cerca e prenota in pochi minuti."
   },
   "kotorBody": {
     "h1": "Kotor, Patrimonio Mondiale dell'UNESCO",
@@ -1000,7 +1000,7 @@
     "how1": "Per metterti in contatto con disponibilità e prezzi di noleggio auto",
     "how2": "Per migliorare il nostro sito web e l'esperienza utente",
     "how3": "Per capire come i visitatori utilizzano il nostro sito (analisi)",
-    "how4": "Per rispondere alle richieste tramite WhatsApp, Viber o email",
+    "how4": "Per rispondere alle richieste tramite via email o email",
     "thirdTitle": "Servizi di terze parti",
     "thirdText": "Il nostro sito web utilizza i seguenti servizi di terze parti:",
     "third1Label": "il nostro partner di prenotazione:",
