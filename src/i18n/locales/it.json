@@ -803,9 +803,9 @@
   },
   "contact": {
     "heading": "Contatta Car Rental Podgorica",
-    "intro": "Scrivici per una prenotazione, chiedi informazioni su un veicolo, o contattaci su WhatsApp.",
+    "intro": "Scrivici per una prenotazione, chiedi informazioni su un veicolo, o Scrivici un'email.",
     "emailLabel": "E-mail",
-    "whatsappLabel": "WhatsApp",
+    "whatsappLabel": "Email",
     "chatCta": "Inizia una chat",
     "formHeading": "Inviaci un messaggio",
     "nameLabel": "Il tuo nome",

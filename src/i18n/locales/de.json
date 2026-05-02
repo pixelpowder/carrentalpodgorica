@@ -392,7 +392,7 @@
     "h4": "Lokales Wissen",
     "p4": "Wir sind an der Budva Riviera ansässig und kennen die Straßen, die besten Routen und die versteckten Schätze. Ob Sie vom Flughafen Tivat zur Altstadt von Budva fahren, südlich nach Sveti Stefan und Petrovac oder nördlich nach Kotor und Perast, wir helfen Ihnen, den perfekten Roadtrip zu planen.",
     "h5": "Kontaktieren Sie uns",
-    "p5": "Haben Sie Fragen zur Autovermietung in Budva? Wir sind per Telefon, WhatsApp und Viber erreichbar. Durchsuchen Sie unsere Flotte online und buchen Sie in wenigen Minuten, oder kontaktieren Sie uns und wir finden das perfekte Auto für Ihre Reise."
+    "p5": "Haben Sie Fragen zur Autovermietung in Budva? Wir sind per E-Mail erreichbar. Durchsuchen Sie unsere Flotte online und buchen Sie in wenigen Minuten, oder kontaktieren Sie uns und wir finden das perfekte Auto für Ihre Reise."
   },
   "kotorBody": {
     "h1": "Kotor, Welterbe",
@@ -803,9 +803,9 @@
   },
   "contact": {
     "heading": "Car Rental Podgorica kontaktieren",
-    "intro": "Schreiben Sie uns zu einer Buchung, fragen Sie nach einem Fahrzeug, oder erreichen Sie uns über WhatsApp.",
+    "intro": "Schreiben Sie uns zu einer Buchung, fragen Sie nach einem Fahrzeug, oder Schreiben Sie uns eine E-Mail.",
     "emailLabel": "E-Mail",
-    "whatsappLabel": "WhatsApp",
+    "whatsappLabel": "E-Mail",
     "chatCta": "Chat starten",
     "formHeading": "Senden Sie uns eine Nachricht",
     "nameLabel": "Ihr Name",

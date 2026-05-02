@@ -394,7 +394,7 @@
     "h4": "We Live Here",
     "p4": "Our team lives and drives in Podgorica. We know that the Delta City car park fills by Saturday lunchtime, that the Ostrog upper road is best attempted before 10am or after 4pm in summer, and that the best burek in town is hiding in a nameless bakery off Hercegovačka. We share this stuff freely, because a better road trip means a better review, and better reviews keep us going.",
     "h5": "Talk to Us",
-    "p5": "Question about parking near the Millennium Bridge? Wondering whether to take the old road or the motorway to Bar? Drop us a message on WhatsApp, Viber, or plain old phone. Or just search the fleet and book, confirmation is instant."
+    "p5": "Question about parking near the Millennium Bridge? Wondering whether to take the old road or the motorway to Bar? Send us an email and we will get back to you. Or just search the fleet and book, confirmation is instant."
   },
   "montenegroBody": {
     "h1": "Driving Montenegro from a Podgorica Base",
@@ -680,9 +680,9 @@
   },
   "contact": {
     "heading": "Contact Car Rental Podgorica",
-    "intro": "Send us a message about a booking, ask about a vehicle, or get in touch on WhatsApp.",
+    "intro": "Send us a message about a booking, ask about a vehicle, or get in touch by email.",
     "emailLabel": "Email",
-    "whatsappLabel": "WhatsApp",
+    "whatsappLabel": "Email",
     "chatCta": "Start a chat",
     "formHeading": "Send us a message",
     "nameLabel": "Your name",
