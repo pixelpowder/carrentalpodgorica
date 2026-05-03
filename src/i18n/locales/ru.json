@@ -5,7 +5,9 @@
     "about": "О нас",
     "blog": "Блог",
     "fleet": "Fleet",
-    "contact": "Contact"
+    "contact": "Contact",
+    "darkMode": "Тёмный режим",
+    "lightMode": "Светлый режим"
   },
   "common": {
     "home": "Главная",

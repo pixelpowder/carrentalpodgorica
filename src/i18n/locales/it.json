@@ -5,7 +5,9 @@
     "about": "Chi Siamo",
     "blog": "Blog",
     "fleet": "Fleet",
-    "contact": "Contact"
+    "contact": "Contact",
+    "darkMode": "Modalità scura",
+    "lightMode": "Modalità chiara"
   },
   "common": {
     "home": "Home",

@@ -5,7 +5,9 @@
     "about": "O Nama",
     "blog": "Blog",
     "fleet": "Fleet",
-    "contact": "Contact"
+    "contact": "Contact",
+    "darkMode": "Tamni način",
+    "lightMode": "Svijetli način"
   },
   "common": {
     "home": "Početna",

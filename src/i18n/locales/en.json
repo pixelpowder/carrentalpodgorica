@@ -5,7 +5,9 @@
     "destinations": "Destinations",
     "about": "About",
     "fleet": "Fleet",
-    "contact": "Contact"
+    "contact": "Contact",
+    "darkMode": "Dark mode",
+    "lightMode": "Light mode"
   },
   "common": {
     "home": "Home",

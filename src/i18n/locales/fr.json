@@ -5,7 +5,9 @@
     "about": "À Propos",
     "blog": "Blog",
     "fleet": "Fleet",
-    "contact": "Contact"
+    "contact": "Contact",
+    "darkMode": "Mode sombre",
+    "lightMode": "Mode clair"
   },
   "common": {
     "home": "Accueil",
