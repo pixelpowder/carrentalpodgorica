@@ -21,7 +21,7 @@
     "headline": "Mietwagen in Budva",
     "badges": {
       "freeCancellation": "Kostenlose Stornierung",
-      "fullInsurance": "Vollkasko inklusive",
+      "fullInsurance": "Versicherungsoptionen",
       "airportPickup": "10-Min Flughafen-Abholung",
       "trustpilot": "4.8/5 auf Trustpilot"
     },
@@ -39,7 +39,7 @@
   "trust": {
     "noHiddenFees": "Keine versteckten Kosten",
     "noHiddenFeesDesc": "Der angezeigte Preis ist all-inclusive",
-    "fullInsurance": "Vollkasko",
+    "fullInsurance": "Versicherungsoptionen",
     "fullInsuranceDesc": "Option ohne Selbstbeteiligung verfügbar",
     "fastPickup": "10-Min Abholung",
     "fastPickupDesc": "Wir empfangen Sie am Ankunftsbereich"
@@ -64,7 +64,7 @@
   "fleet": {
     "label": "Unsere Flotte",
     "title": "Wählen Sie Ihr Fahrzeug",
-    "subtitle": "Echtzeit-Preise und sofortige Buchung mit kostenloser Stornierung, Vollkasko und Optionen mit niedriger oder keiner Kaution.",
+    "subtitle": "Echtzeit-Preise und sofortige Buchung mit kostenloser Stornierung, Versicherungsoptionen und Optionen mit niedriger oder keiner Kaution.",
     "browseByCategory": "Nach Kategorie durchsuchen",
     "ourFleet": "Unsere Flotte",
     "tabCities": "Städte",
@@ -112,7 +112,7 @@
     "seoDesc": "Mietwagen in Budva, Montenegro suchen und buchen. Echtzeit-Verfügbarkeit, sofortige Bestätigung, kostenlose Stornierung."
   },
   "footer": {
-    "brandDesc": "Mietwagen in Budva, Montenegro. Abholung am Flughafen Tivat, Vollkasko und keine versteckten Kosten. Entdecken Sie die Budva Riviera.",
+    "brandDesc": "Mietwagen in Budva, Montenegro. Abholung am Flughafen Tivat, Versicherungsoptionen und keine versteckten Kosten. Entdecken Sie die Budva Riviera.",
     "quickLinks": "Schnelllinks",
     "guides": "Reiseführer",
     "locations": "Standorte",
@@ -136,7 +136,7 @@
     "searchCars": "Autos suchen"
   },
   "home": {
-    "seoDesc": "Mietwagen in Budva ab 13 €/Tag. Abholung am Flughafen Tivat (22 km), Budva Altstadt, Bečići und über 28 Standorten. Kostenlose Stornierung, Vollkasko, keine versteckten Kosten."
+    "seoDesc": "Mietwagen in Budva ab 13 €/Tag. Abholung am Flughafen Tivat (22 km), Budva Altstadt, Bečići und über 28 Standorten. Kostenlose Stornierung, Versicherungsoptionen, keine versteckten Kosten."
   },
   "about": {
     "title": "Über uns",
@@ -156,7 +156,7 @@
   "budva": {
     "title": "Mietwagen in Budva",
     "subtitle": "Montenegros Riviera, Strände, Nachtleben und Altstadtcharme.",
-    "seoDesc": "Mietwagen in Budva, Montenegro. Fahren Sie zum Mogren-Strand, Sveti Stefan und zum besten Nachtleben der Riviera. Vollkasko, keine versteckten Kosten."
+    "seoDesc": "Mietwagen in Budva, Montenegro. Fahren Sie zum Mogren-Strand, Sveti Stefan und zum besten Nachtleben der Riviera. Versicherungsoptionen, keine versteckten Kosten."
   },
   "perast": {
     "title": "Mietwagen in Perast",
@@ -176,7 +176,7 @@
   "dubrovnik-airport": {
     "title": "Mietwagen am Flughafen Dubrovnik",
     "subtitle": "Fliegen Sie nach Kroatien, fahren Sie nach Montenegro.",
-    "seoDesc": "Mieten Sie ein Auto am Flughafen Dubrovnik und fahren Sie nach Montenegro. Grenzübergang in unter einer Stunde. Vollkasko und Grüne Karte inklusive."
+    "seoDesc": "Mieten Sie ein Auto am Flughafen Dubrovnik und fahren Sie nach Montenegro. Grenzübergang in unter einer Stunde. Versicherungsoptionen und Grüne Karte inklusive."
   },
   "tivat": {
     "title": "Mietwagen in Tivat",
@@ -385,12 +385,12 @@
     "h3": "Was wir anbieten",
     "p3": "Wir bieten Mietwagenservices an der Budva Riviera und in ganz Montenegro an, mit Abholung am Flughafen Tivat (22 km), Flughafen Podgorica (65 km) und weiteren Standorten. Unsere Flotte reicht von kompakten Stadtwagen bis zu geräumigen SUVs, alle vollversichert und ohne versteckte Gebühren.",
     "promiseTitle": "Unser Versprechen",
-    "promise1": "Vollkaskoversicherung mit Option auf null Selbstbeteiligung",
+    "promise1": "Versicherungsoptionenversicherung mit Option auf null Selbstbeteiligung",
     "promise2": "Persönliche Begrüßung am Flughafen, wir bringen das Auto direkt zur Ankunftshalle",
     "promise3": "Keine versteckten Gebühren, der angezeigte Preis ist der Endpreis",
     "promise4": "Grenzüberschreitende Fahrten nach Kroatien, Bosnien, Albanien, Serbien und Kosovo erlaubt",
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
-    "promise6": "Lokale Mietanbieter, Vollkasko und Optionen mit niedriger oder keiner Kaution",
+    "promise6": "Lokale Mietanbieter, Versicherungsoptionen und Optionen mit niedriger oder keiner Kaution",
     "h4": "Lokales Wissen",
     "p4": "Wir sind an der Budva Riviera ansässig und kennen die Straßen, die besten Routen und die versteckten Schätze. Ob Sie vom Flughafen Tivat zur Altstadt von Budva fahren, südlich nach Sveti Stefan und Petrovac oder nördlich nach Kotor und Perast, wir helfen Ihnen, den perfekten Roadtrip zu planen.",
     "h5": "Kontaktieren Sie uns",
@@ -855,7 +855,7 @@
     "intro1": "Jedes Fahrzeug der Flotte ist auf die typische Nutzung in Podgorica abgestimmt: kurze Innenstadt-Sprünge zwischen Terminen, Tagesausflüge zum Skadar-See oder nach Cetinje, und lange Fahrten ins Landesinnere bis Žabljak oder über die albanische Grenze.",
     "intro2": "Die Economy- und City-Optionen sind auf die schmalen Gassen von Stara Varoš und die belebte Hercegovačka-Café-Meile zugeschnitten. Die Mittelklasse-Diesel sind für die Autobahn von Podgorica nach Bar und die Strecke Smokovac-Mateševo abgestimmt. Crossover und SUVs bieten mehr Bodenfreiheit für die rauen Bergabzweige.",
     "intro3": "Die angezeigte Preisangabe ist der Tagessatz in der günstigsten Woche des Jahres. Langzeit- und Saisonpreise sind verfügbar, fragen Sie bei der Buchung an.",
-    "seoDesc": "Vergleichen Sie Autos unserer Podgorica-Mietwagenflotte. Ab 20 €/Tag Economy-Hatchbacks bis hin zu autobahntauglichen Dieseln und Crossovern, alle mit Vollkasko und TGD-Flughafenabholung."
+    "seoDesc": "Vergleichen Sie Autos unserer Podgorica-Mietwagenflotte. Ab 20 €/Tag Economy-Hatchbacks bis hin zu autobahntauglichen Dieseln und Crossovern, alle mit Versicherungsoptionen und TGD-Flughafenabholung."
   },
   "fleetShowcase": {
     "label": "Auto wählen",

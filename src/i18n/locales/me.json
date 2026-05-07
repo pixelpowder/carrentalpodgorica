@@ -64,7 +64,7 @@
   "fleet": {
     "label": "Naša Flota",
     "title": "Izaberite Vaše Vozilo",
-    "subtitle": "Cijene u realnom vremenu i trenutna rezervacija uz besplatno otkazivanje, puno osiguranje i opcije sa niskim ili bez depozita.",
+    "subtitle": "Cijene u realnom vremenu i trenutna rezervacija uz besplatno otkazivanje, fleksibilne opcije osiguranja i opcije sa niskim ili bez depozita.",
     "browseByCategory": "Pregled po kategoriji",
     "ourFleet": "Naša flota",
     "tabCities": "Gradovi",
@@ -112,7 +112,7 @@
     "seoDesc": "Pretražite i rezervišite rent a car u Budvi, Crna Gora. Dostupnost u realnom vremenu, trenutna potvrda, besplatno otkazivanje."
   },
   "footer": {
-    "brandDesc": "Rent a car u Budvi, Crna Gora. Preuzimanje na aerodromu Tivat, puno osiguranje i bez skrivenih troškova. Istražite Budvansku rivijeru.",
+    "brandDesc": "Rent a car u Budvi, Crna Gora. Preuzimanje na aerodromu Tivat, fleksibilne opcije osiguranja i bez skrivenih troškova. Istražite Budvansku rivijeru.",
     "quickLinks": "Brzi Linkovi",
     "guides": "Vodiči",
     "locations": "Lokacije",
@@ -136,7 +136,7 @@
     "searchCars": "Pretraži Auta"
   },
   "home": {
-    "seoDesc": "Rent a car u Budvi od 13 €/dan. Preuzimanje na aerodromu Tivat (22 km), Stari grad Budva, Bečići i 28+ lokacija. Besplatno otkazivanje, puno osiguranje."
+    "seoDesc": "Rent a car u Budvi od 13 €/dan. Preuzimanje na aerodromu Tivat (22 km), Stari grad Budva, Bečići i 28+ lokacija. Besplatno otkazivanje, fleksibilne opcije osiguranja."
   },
   "about": {
     "title": "O Nama",
@@ -156,7 +156,7 @@
   "budva": {
     "title": "Rent a Car Budva",
     "subtitle": "Rivijera Crne Gore, plaže, noćni život i šarm starog grada.",
-    "seoDesc": "Iznajmite auto u Budvi, Crna Gora. Odvezite se na plažu Mogren, Sveti Stefan i do najboljeg noćnog života rivijere. Puno osiguranje, bez skrivenih troškova."
+    "seoDesc": "Iznajmite auto u Budvi, Crna Gora. Odvezite se na plažu Mogren, Sveti Stefan i do najboljeg noćnog života rivijere. Opcije osiguranja, bez skrivenih troškova."
   },
   "perast": {
     "title": "Rent a Car Perast",
@@ -176,7 +176,7 @@
   "dubrovnik-airport": {
     "title": "Rent a Car Aerodrom Dubrovnik",
     "subtitle": "Doletite u Hrvatsku, odvezite se u Crnu Goru.",
-    "seoDesc": "Iznajmite auto na aerodromu Dubrovnik i odvezite se u Crnu Goru. Prelazak granice za manje od sat vremena. Puno osiguranje i zeleni karton uključeni."
+    "seoDesc": "Iznajmite auto na aerodromu Dubrovnik i odvezite se u Crnu Goru. Prelazak granice za manje od sat vremena. Opcije osiguranja i zeleni karton uključeni."
   },
   "tivat": {
     "title": "Rent a Car Tivat",
@@ -214,7 +214,7 @@
       "desc": "Aerodrom Tivat je 22 km sjeverno od Budve. Vaš agent čeka vas na izlazu, jedna obalna cesta i već ste parkirani na rivijeri."
     },
     "fullInsurance": {
-      "title": "Potpuno osiguranje",
+      "title": "Opcije osiguranja",
       "desc": "Kasko i zaštita od krađe su standardno uključeni. Dodajte nultu franšizu za potpuno mirenje na uskim obalnim stazama i prepunim parking plažama."
     },
     "support": {
@@ -385,12 +385,12 @@
     "h3": "Šta nudimo",
     "p3": "Nudimo rent a car na Budvanskoj rivijeri i širom Crne Gore, sa preuzimanjem na aerodromu Tivat (22 km), Podgorica (65 km) i drugim lokacijama.",
     "promiseTitle": "Naše obećanje",
-    "promise1": "Potpuno osiguranje sa opcijom nulte franšize",
+    "promise1": "Opcije osiguranja sa opcijom nulte franšize",
     "promise2": "Doček na aerodromu, donosimo automobil direktno do sale za dolaske",
     "promise3": "Bez skrivenih troškova, cijena koju vidite je cijena koju plaćate",
     "promise4": "Dozvoljena prekogranična putovanja u Hrvatsku, Bosnu, Albaniju, Srbiju i Kosovo",
     "promise5": "Besplatno otkazivanje za većinu rezervacija",
-    "promise6": "Lokalni najmodavci, puno osiguranje i opcije sa niskim ili bez depozita",
+    "promise6": "Lokalni najmodavci, fleksibilne opcije osiguranja i opcije sa niskim ili bez depozita",
     "h4": "Lokalno znanje",
     "p4": "Bazirani na Budvanskoj rivijeri, poznajemo puteve i skrivene dragulje. Od aerodroma Tivat do Starog grada Budve, južno ka Svetom Stefanu ili sjeverno ka Kotoru i Perastu.",
     "h5": "Kontaktirajte nas",

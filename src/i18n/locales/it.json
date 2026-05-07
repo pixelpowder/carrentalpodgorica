@@ -64,7 +64,7 @@
   "fleet": {
     "label": "La Nostra Flotta",
     "title": "Scegli la Tua Auto",
-    "subtitle": "Prezzi in tempo reale e prenotazione immediata con cancellazione gratuita, assicurazione completa e opzioni con cauzione bassa o nulla.",
+    "subtitle": "Prezzi in tempo reale e prenotazione immediata con cancellazione gratuita, opzioni di assicurazione flessibili e opzioni con cauzione bassa o nulla.",
     "browseByCategory": "Sfoglia per categoria",
     "ourFleet": "La nostra flotta",
     "tabCities": "Città",
@@ -112,7 +112,7 @@
     "seoDesc": "Cerca e prenota auto a noleggio a Budva, Montenegro. Disponibilità in tempo reale, conferma immediata, cancellazione gratuita."
   },
   "footer": {
-    "brandDesc": "Noleggio auto a Budva, Montenegro. Ritiro a Tivat, assicurazione completa e nessun costo nascosto. Esplora la Riviera di Budva.",
+    "brandDesc": "Noleggio auto a Budva, Montenegro. Ritiro a Tivat, opzioni di assicurazione flessibili e nessun costo nascosto. Esplora la Riviera di Budva.",
     "quickLinks": "Link Rapidi",
     "guides": "Guide",
     "locations": "Sedi",
@@ -136,7 +136,7 @@
     "searchCars": "Cerca Auto"
   },
   "home": {
-    "seoDesc": "Noleggio auto a Budva da 13 €/giorno. Ritiro a Tivat (22 km), centro storico di Budva, Bečići e 28+ punti. Cancellazione gratuita, assicurazione completa."
+    "seoDesc": "Noleggio auto a Budva da 13 €/giorno. Ritiro a Tivat (22 km), centro storico di Budva, Bečići e 28+ punti. Cancellazione gratuita, opzioni di assicurazione flessibili."
   },
   "about": {
     "title": "Chi Siamo",
@@ -156,7 +156,7 @@
   "budva": {
     "title": "Noleggio Auto a Budva",
     "subtitle": "La riviera del Montenegro, spiagge, vita notturna e fascino della città vecchia.",
-    "seoDesc": "Noleggia un'auto a Budva, Montenegro. Raggiungi la spiaggia di Mogren, Sveti Stefan e la migliore vita notturna della riviera. Assicurazione completa, nessun costo nascosto."
+    "seoDesc": "Noleggia un'auto a Budva, Montenegro. Raggiungi la spiaggia di Mogren, Sveti Stefan e la migliore vita notturna della riviera. Opzioni di assicurazione, nessun costo nascosto."
   },
   "perast": {
     "title": "Noleggio Auto a Perast",
@@ -176,7 +176,7 @@
   "dubrovnik-airport": {
     "title": "Noleggio Auto Aeroporto Dubrovnik",
     "subtitle": "Vola in Croazia, guida verso il Montenegro.",
-    "seoDesc": "Noleggia un'auto all'aeroporto di Dubrovnik e guida verso il Montenegro. Attraversa il confine in meno di un'ora. Assicurazione completa e carta verde incluse."
+    "seoDesc": "Noleggia un'auto all'aeroporto di Dubrovnik e guida verso il Montenegro. Attraversa il confine in meno di un'ora. Opzioni di assicurazione e carta verde incluse."
   },
   "tivat": {
     "title": "Noleggio Auto a Tivat",
@@ -214,7 +214,7 @@
       "desc": "L'aeroporto di Tivat si trova a 22 km a nord di Budva. Il tuo agente ti aspetta all'uscita arrivi, una strada costiera e sei già parcheggiato sulla riviera."
     },
     "fullInsurance": {
-      "title": "Assicurazione completa",
+      "title": "Opzioni di assicurazione",
       "desc": "Copertura collisione e furto incluse di serie. Passa alla franchigia zero per la massima tranquillità sulle stradine costiere e nei parcheggi affollati delle spiagge."
     },
     "support": {
@@ -385,12 +385,12 @@
     "h3": "Cosa offriamo",
     "p3": "Offriamo noleggio auto sulla Riviera di Budva e in tutto il Montenegro, con ritiro a Tivat (22 km), Podgorica (65 km) e altri punti.",
     "promiseTitle": "La nostra promessa",
-    "promise1": "Assicurazione completa con opzione franchigia zero",
+    "promise1": "Opzioni di assicurazione con opzione franchigia zero",
     "promise2": "Accoglienza in aeroporto, portiamo l'auto direttamente all'area arrivi",
     "promise3": "Nessun costo nascosto, il prezzo che vedi è il prezzo che paghi",
     "promise4": "Viaggi transfrontalieri consentiti verso Croazia, Bosnia, Albania, Serbia e Kosovo",
     "promise5": "Cancellazione gratuita sulla maggior parte delle prenotazioni",
-    "promise6": "Operatori di noleggio locali, assicurazione completa e opzioni con cauzione bassa o nulla",
+    "promise6": "Operatori di noleggio locali, opzioni di assicurazione flessibili e opzioni con cauzione bassa o nulla",
     "h4": "Conoscenza locale",
     "p4": "Basati sulla Riviera di Budva, conosciamo le strade e i tesori nascosti. Da Tivat al centro storico di Budva, verso Sveti Stefan a sud o Kotor e Perast a nord.",
     "h5": "Contattaci",
@@ -855,7 +855,7 @@
     "intro1": "Ogni veicolo è scelto per come si guida realmente a Podgorica: brevi spostamenti in centro tra appuntamenti, anelli giornalieri verso il lago Skadar o Cetinje, e lunghi tratti verso Žabljak o oltre il confine albanese.",
     "intro2": "Le opzioni economiche e da città sono dimensionate per le strette vie di Stara Varoš e l'animata via dei caffè di Hercegovačka. I diesel di media taglia sono tarati per l'autostrada Podgorica-Bar e la tratta Smokovac-Mateševo. Crossover e SUV aggiungono altezza dal suolo per i tratti di montagna più rudi.",
     "intro3": "Il prezzo indicato è la tariffa giornaliera della settimana più economica dell'anno. Tariffe a lungo termine e stagionali disponibili, chiedi alla prenotazione.",
-    "seoDesc": "Confronta le auto della nostra flotta a Podgorica. Da 20 €/giorno per le citycar economiche fino ai diesel e crossover pronti per l'autostrada, tutti con assicurazione completa e ritiro all'aeroporto TGD."
+    "seoDesc": "Confronta le auto della nostra flotta a Podgorica. Da 20 €/giorno per le citycar economiche fino ai diesel e crossover pronti per l'autostrada, tutti con opzioni di assicurazione flessibili e ritiro all'aeroporto TGD."
   },
   "fleetShowcase": {
     "label": "Scegli un'auto",

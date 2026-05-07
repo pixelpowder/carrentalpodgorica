@@ -21,7 +21,7 @@
     "headline": "Podgorica Car Rental",
     "badges": {
       "freeCancellation": "Free Cancellation",
-      "fullInsurance": "Full Insurance Included",
+      "fullInsurance": "Insurance Options",
       "airportPickup": "10-Min Airport Pickup",
       "trustpilot": "4.8/5 on Trustpilot"
     },
@@ -39,7 +39,7 @@
   "trust": {
     "noHiddenFees": "No Hidden Fees",
     "noHiddenFeesDesc": "Checkout price includes everything, taxes, airport surcharges, the lot",
-    "fullInsurance": "Full Insurance",
+    "fullInsurance": "Insurance Options",
     "fullInsuranceDesc": "CDW included, plus a zero-excess upgrade for complete cover on mountain and canyon roads",
     "fastPickup": "Podgorica Pickup",
     "fastPickupDesc": "Delivered to your Podgorica hotel, apartment, or anywhere in the city."
@@ -272,7 +272,7 @@
       "desc": "Podgorica Airport (TGD) is 12 km south of the city centre. Your agent meets you at arrivals, one short drive on the Zeta plain and you are parking in the capital."
     },
     "fullInsurance": {
-      "title": "Full Insurance",
+      "title": "Insurance Options",
       "desc": "CDW and theft cover included as standard. Upgrade to zero excess for total peace of mind on narrow old-town lanes and mountain switchbacks."
     },
     "support": {
@@ -392,7 +392,7 @@
     "promise3": "Transparent pricing: the number at booking is the number you pay",
     "promise4": "Cross-border driving on three tiers: Tier 1 for Croatia, Bosnia and Serbia, Tier 2 adding Albania and Kosovo, Tier 3 for the wider Balkan loop",
     "promise5": "Free cancellation on most cars",
-    "promise6": "Local rental providers, full insurance and low or no-deposit options",
+    "promise6": "Local rental providers, flexible insurance tiers and low or no-deposit options",
     "h4": "We Live Here",
     "p4": "Our team lives and drives in Podgorica. We know that the Delta City car park fills by Saturday lunchtime, that the Ostrog upper road is best attempted before 10am or after 4pm in summer, and that the best burek in town is hiding in a nameless bakery off Hercegovačka. We share this stuff freely, because a better road trip means a better review, and better reviews keep us going.",
     "h5": "Talk to Us",

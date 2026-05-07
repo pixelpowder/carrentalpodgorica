@@ -13,7 +13,7 @@ import LocaleAwareSchema from '@/src/components/LocaleAwareSchema';
 export const metadata = {
   title: "Podgorica Car Rental, Montenegro's Capital",
   description:
-    'Rent a car at Podgorica Airport (TGD) from \u20AC20/day. Gateway to Durmitor, Lake Skadar, and the Adriatic coast. Full insurance, free cancellation, 24/7 support.',
+    'Rent a car at Podgorica Airport (TGD) from \u20AC20/day. Gateway to Durmitor, Lake Skadar, and the Adriatic coast. Insurance options at checkout, free cancellation, 24/7 support.',
   metadataBase: new URL('https://www.carrentalpodgorica.com'),
 };
 

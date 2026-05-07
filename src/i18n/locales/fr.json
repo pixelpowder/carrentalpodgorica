@@ -64,7 +64,7 @@
   "fleet": {
     "label": "Notre Flotte",
     "title": "Choisissez Votre Véhicule",
-    "subtitle": "Prix en direct et réservation instantanée avec annulation gratuite, assurance tous risques et options sans ou avec faible caution.",
+    "subtitle": "Prix en direct et réservation instantanée avec annulation gratuite, options d'assurance flexibles et options sans ou avec faible caution.",
     "browseByCategory": "Parcourir par catégorie",
     "ourFleet": "Notre flotte",
     "tabCities": "Villes",
@@ -112,7 +112,7 @@
     "seoDesc": "Recherchez et réservez des voitures à Budva, Monténégro. Disponibilité en temps réel, confirmation instantanée, annulation gratuite."
   },
   "footer": {
-    "brandDesc": "Location de voiture à Budva, Monténégro. Prise en charge à Tivat, assurance complète et aucun frais caché. Explorez la Riviera de Budva.",
+    "brandDesc": "Location de voiture à Budva, Monténégro. Prise en charge à Tivat, options d'assurance flexibles et aucun frais caché. Explorez la Riviera de Budva.",
     "quickLinks": "Liens Rapides",
     "guides": "Guides",
     "locations": "Nos Agences",
@@ -136,7 +136,7 @@
     "searchCars": "Rechercher"
   },
   "home": {
-    "seoDesc": "Location de voiture à Budva dès 13 €/jour. Prise en charge à Tivat (22 km), vieille ville de Budva, Bečići et 28+ points. Annulation gratuite, assurance complète."
+    "seoDesc": "Location de voiture à Budva dès 13 €/jour. Prise en charge à Tivat (22 km), vieille ville de Budva, Bečići et 28+ points. Annulation gratuite, options d'assurance flexibles."
   },
   "about": {
     "title": "À Propos",
@@ -156,7 +156,7 @@
   "budva": {
     "title": "Location de Voiture à Budva",
     "subtitle": "La riviera du Monténégro, plages, vie nocturne et charme de la vieille ville.",
-    "seoDesc": "Louez une voiture à Budva, Monténégro. Rejoignez la plage de Mogren, Sveti Stefan et la meilleure vie nocturne de la riviera. Assurance complète, sans frais cachés."
+    "seoDesc": "Louez une voiture à Budva, Monténégro. Rejoignez la plage de Mogren, Sveti Stefan et la meilleure vie nocturne de la riviera. Options d'assurance, sans frais cachés."
   },
   "perast": {
     "title": "Location de Voiture à Perast",
@@ -176,7 +176,7 @@
   "dubrovnik-airport": {
     "title": "Location de Voiture Aéroport Dubrovnik",
     "subtitle": "Envolez-vous vers la Croatie, conduisez vers le Monténégro.",
-    "seoDesc": "Louez une voiture à l'aéroport de Dubrovnik et rejoignez le Monténégro. Passage de frontière en moins d'une heure. Assurance complète et carte verte incluses."
+    "seoDesc": "Louez une voiture à l'aéroport de Dubrovnik et rejoignez le Monténégro. Passage de frontière en moins d'une heure. Options d'assurance et carte verte incluses."
   },
   "tivat": {
     "title": "Location de Voiture à Tivat",
@@ -214,7 +214,7 @@
       "desc": "L'aéroport de Tivat se trouve à 22 km au nord de Budva. Votre agent vous attend à l'arrivée, une route côtière et vous êtes garé sur la riviera."
     },
     "fullInsurance": {
-      "title": "Assurance tous risques",
+      "title": "Options d'assurance",
       "desc": "Protection collision et vol incluses en standard. Optez pour la franchise zéro pour une tranquillité totale sur les ruelles côtières étroites et les parkings de plage."
     },
     "support": {
@@ -385,12 +385,12 @@
     "h3": "Ce que nous offrons",
     "p3": "Nous proposons la location de voitures sur la Riviera de Budva et dans tout le Monténégro, avec prise en charge à Tivat (22 km), Podgorica (65 km) et autres points.",
     "promiseTitle": "Notre engagement",
-    "promise1": "Assurance tous risques avec option zéro franchise",
+    "promise1": "Options d'assurance avec option zéro franchise",
     "promise2": "Accueil personnalisé à l'aéroport, nous amenons la voiture directement aux arrivées",
     "promise3": "Aucun frais caché, le prix affiché est le prix final",
     "promise4": "Voyages transfrontaliers autorisés vers la Croatie, la Bosnie, l'Albanie, la Serbie et le Kosovo",
     "promise5": "Annulation gratuite sur la plupart des réservations",
-    "promise6": "Loueurs locaux, assurance tous risques et options sans ou avec faible caution",
+    "promise6": "Loueurs locaux, options d'assurance flexibles et options sans ou avec faible caution",
     "h4": "Connaissance locale",
     "p4": "Basés sur la Riviera de Budva, nous connaissons les routes et les trésors cachés. De Tivat à la vieille ville de Budva, vers Sveti Stefan au sud ou Kotor et Perast au nord.",
     "h5": "Contactez-nous",
@@ -855,7 +855,7 @@
     "intro1": "Chaque véhicule est choisi pour l'usage réel à Podgorica : courts trajets entre rendez-vous au centre, boucles d'une journée vers le lac Skadar ou Cetinje, et longues échappées vers Žabljak ou la frontière albanaise.",
     "intro2": "Les options économiques et citadines sont taillées pour les ruelles de Stara Varoš et la rue animée des cafés Hercegovačka. Les diesels intermédiaires sont calibrés pour l'autoroute Podgorica-Bar et la liaison Smokovac-Mateševo. Crossovers et SUV ajoutent de la garde au sol pour les pistes de montagne plus rugueuses.",
     "intro3": "Le tarif affiché est le prix journalier de la semaine la moins chère de l'année. Tarifs longue durée et saisonniers disponibles, demandez à la réservation.",
-    "seoDesc": "Comparez les voitures de notre flotte à Podgorica. À partir de 20 €/jour pour les citadines, jusqu'aux diesels et crossovers prêts pour l'autoroute, toutes avec assurance complète et prise en charge à l'aéroport TGD."
+    "seoDesc": "Comparez les voitures de notre flotte à Podgorica. À partir de 20 €/jour pour les citadines, jusqu'aux diesels et crossovers prêts pour l'autoroute, toutes avec options d'assurance flexibles et prise en charge à l'aéroport TGD."
   },
   "fleetShowcase": {
     "label": "Choisir une voiture",
