@@ -240,12 +240,12 @@ const siteConfig = {
   ],
 
   features: [
-    { icon: "map-pin", title: "Airport Pickup", description: "Keys in hand within 10 minutes of landing at TGD. The mountains are waiting." },
-    { icon: "shield-check", title: "Insurance Options", description: "Insurance tiers from basic third-party up to no-deposit zero-excess, ready for mountain switchbacks, canyon roads, and everything in between." },
-    { icon: "clock", title: "24/7 Support", description: "Snowed in above Zabljak? We've seen it before. Call any time." },
-    { icon: "ban", title: "No Hidden Fees", description: "Winter extras like snow chains are priced upfront, never added at the counter. What you see is what you pay." },
-    { icon: "refresh-cw", title: "Free Cancellation", description: "Ryanair rescheduled? Mountain pass closed by snow? Cancel up to 24 hours before for a full refund." },
-    { icon: "globe", title: "Cross-Border", description: "Serbia (Prijepolje, 2 hrs), Albania (Shkodra, 1.5 hrs), Kosovo (Pec, 3 hrs), Green Card included, just tell us at booking." },
+    { icon: "map-pin", title: "Airport Pickup", description: "Pick up at Podgorica Airport (TGD) arrivals — the supplier meets you with your name on a sign." },
+    { icon: "shield-check", title: "Insurance Options", description: "Free Minimum (third-party) cover on every booking — Basic from €8/day, Full from €10/day, no-deposit Full Plus from €18/day." },
+    { icon: "clock", title: "24/7 Booking Support", description: "Booking help around the clock; roadside assistance is provided by the rental supplier." },
+    { icon: "ban", title: "No Credit Card Needed", description: "Every car on the platform is bookable without a credit card — pay by cash, debit card or crypto." },
+    { icon: "refresh-cw", title: "Free Cancellation", description: "On selected cars (around 176 of approximately 380): refund of advance payment if you cancel more than 24 hours before pickup." },
+    { icon: "globe", title: "Cross-Border", description: "Paid cross-border permit at three tiers — neighbours, including Albania & Kosovo, or all-EU + Switzerland." },
   ],
 
   testimonials: [
@@ -255,19 +255,19 @@ const siteConfig = {
   ],
 
   faq: [
-    { q: "Can I drop off at a different location?", a: "Yes, one-way rentals are available across 28 destinations in Montenegro. Choose your preferred pickup and dropoff points during booking. One-way fees, where they apply, are shown transparently before you confirm." },
-    { q: "What documents do I need?", a: "A valid driving licence showing Latin-script details, your passport, and a physical credit card issued in the main driver's name. If your licence was issued outside the EU, an International Driving Permit is strongly recommended alongside your national licence. Photocopies and digital licences stored on a phone are not accepted at pickup." },
-    { q: "Can I drive to Serbia or Albania?", a: "Yes, cross-border travel is permitted to Serbia, Albania, Kosovo, Bosnia, and Croatia. The main border crossings near Podgorica are Dracenovac for Serbia and Hani i Hotit for Albania. Let us know at booking so we can prepare the Green Card and any additional paperwork in advance." },
-    { q: "Is there a minimum age?", a: "The minimum rental age is 21, with at least 2 years of driving experience. Drivers aged 21-24 pay a young driver supplement; the exact rate depends on the vehicle category and is shown clearly during the search before you confirm anything." },
-    { q: "What's included in the price?", a: "All vehicles include third-party liability insurance, and most include CDW in the base rate. VAT, the mandatory equipment kit, and a clearly stated fuel policy are all included. Mileage terms vary by vehicle and are shown before booking. Zero-excess upgrades are available as an add-on." },
-    { q: "How does pickup work at TGD?", a: "Podgorica Airport (TGD) is a compact single-terminal building, arrivals are straightforward. Our agent meets you in the arrivals hall holding a board with your name. The car is parked just outside the terminal. From wheels-down to driving away typically takes under 10 minutes." },
-    { q: "Can I add a child seat or other extras?", a: "Yes. Child seats, booster seats, additional drivers, and roof racks can all be added at booking. Just tick the extras you need on the search results page; the price is shown clearly before you confirm. Equipment is fitted ready for collection at Podgorica Airport (TGD) or your chosen pickup point." },
-    { q: "What is the cancellation policy?", a: "Standard vehicles: free cancellation up to 7 days before pickup. Luxury cars and convertibles: free cancellation up to 30 days before. A 6% payment processing fee applies to all cancellations regardless of timing." },
-    { q: "Is a deposit required?", a: "Deposit requirements at TGD vary between zero and \u20AC300 depending on the vehicle tier. The deposit must be blocked on a physical credit card in the main driver's name at the time of pickup, and is fully released once the car is returned undamaged." },
-    { q: "What happens if I exceed the mileage limit?", a: "Vehicles with a kilometre cap charge a per-km rate for any distance above the agreed limit. The rate is listed in the vehicle terms before you book." },
-    { q: "Do I need snow chains for mountain roads?", a: "From November to March, snow chains or winter tyres are legally required on mountain roads above 1,000 m in Montenegro. This includes the road to Zabljak and Durmitor National Park." },
-    { q: "How much do I pay upfront?", a: "A deposit of 15-20% of the total rental cost is charged at booking to secure your reservation. The rest is settled directly with the rental agent at TGD pickup." },
-    { q: "Can I rent without a credit card?", a: "A small number of vehicles in our fleet are available to renters without a credit card, these are clearly marked in the search results." },
+    { q: "Can I drop off at a different location?", a: "Yes, one-way rentals are supported across 28+ delivery points in Montenegro. Choose different pickup and dropoff locations during booking; some routes carry a small relocation fee." },
+    { q: "What documents do I need?", a: "A valid driving licence and passport or ID. Most cars accept cash, debit card or crypto for payment \u2014 a credit card is not required on any booking on the platform. International Driving Permit may be needed for non-EU licences depending on the supplier." },
+    { q: "Can I drive to Serbia or Albania?", a: "Yes \u2014 cross-border travel is sold as a paid permit at three tiers: (1) Croatia, Bosnia & Herzegovina and Serbia (no Green Card needed); (2) the same plus Albania and Kosovo (Green Card provided); (3) Albania, Kosovo, Croatia, Bosnia, Serbia, Macedonia, all EU countries and Switzerland (Green Card provided). The right tier for your trip is shown at checkout." },
+    { q: "Is there a minimum age?", a: "Age and required driving experience vary by vehicle \u2014 the lowest cars on the platform start from 18+ years old with 1+ years driving experience. Filter by your age and experience to see the cars available to you." },
+    { q: "What's included in the price?", a: "Every booking includes the free Minimum (third-party liability) cover with a typical \u20AC100 deposit, plus a free second driver and VAT. Insurance upgrades are paid extras: Basic from \u20AC8/day, Full from \u20AC10/day, and a no-deposit Full Plus from \u20AC18/day. Unlimited mileage is included on most cars (376 of around 380)." },
+    { q: "How does pickup work at TGD?", a: "Podgorica Airport (TGD) is a compact single-terminal building. The supplier meets you in the arrivals hall holding a board with your name, and the car is parked just outside the terminal. No shuttle is involved at most pickup points." },
+    { q: "Can I add a child seat or other extras?", a: "Yes. Child seats (infant, toddler and booster), additional drivers, roof racks, ski racks, Winter Pack, theft protection, personal accident insurance, wireless hotspot and SIM cards can all be added at booking. Tick the extras you need before confirming and the price is shown up front." },
+    { q: "Can I cancel my booking?", a: "Free cancellation is available on selected cars (around 176 of ~380, marked in search). On those cars, the full advance payment is refunded if you cancel more than 24 hours before pickup; cancellations within 24 hours are non-refundable." },
+    { q: "Is a deposit required?", a: "Most cars hold a \u20AC100 deposit at pickup. 47 cars on the platform require no deposit, and a further 124 offer a no-deposit option as a paid service. Choosing the Full Plus insurance tier (from \u20AC18/day) also waives the deposit." },
+    { q: "What happens if I exceed the mileage limit?", a: "Unlimited mileage is included on the vast majority of cars (376 of ~380). For the few cars with a mileage limit, an additional charge per extra kilometre applies \u2014 shown on the listing before you book." },
+    { q: "Do I need snow chains for mountain roads?", a: "From November to March, winter tyres or snow chains are legally required on mountain roads above 1,000 m in Montenegro, including the road to \u017Dabljak and Durmitor National Park. The supplier may add a Winter Pack to the booking on request." },
+    { q: "How much is the down payment?", a: "An advance payment is taken when you confirm the booking; the remaining balance is paid to the supplier at pickup. The exact split is shown on each car's checkout page before you commit." },
+    { q: "Can I rent without a credit card?", a: "Yes \u2014 every car on the platform can be booked without a credit card. Cash, debit card and crypto are accepted at the supplier." },
   ],
 
   locations: [

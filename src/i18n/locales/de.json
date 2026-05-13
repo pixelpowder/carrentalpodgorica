@@ -40,7 +40,7 @@
     "noHiddenFees": "Keine versteckten Kosten",
     "noHiddenFeesDesc": "Der angezeigte Preis ist all-inclusive",
     "fullInsurance": "Versicherungsoptionen",
-    "fullInsuranceDesc": "Option ohne Selbstbeteiligung verfügbar",
+    "fullInsuranceDesc": "Kostenlose Mindestdeckung (Haftpflicht) bei jeder Buchung. Kostenpflichtige Basic-, Full- und kautionsfreie Full Plus-Tarife — genaue Preise pro Fahrzeug.",
     "fastPickup": "10-Min Abholung",
     "fastPickupDesc": "Wir empfangen Sie am Ankunftsbereich"
   },
@@ -214,29 +214,29 @@
       "desc": "Der Flughafen Tivat liegt 22 km nördlich von Budva. Ihr Ansprechpartner erwartet Sie am Ausgang, eine Küstenstraße weiter parken Sie direkt an der Riviera."
     },
     "fullInsurance": {
-      "title": "Vollversicherung",
-      "desc": "Kaskoversicherung und Diebstahlschutz inklusive. Auf Wunsch upgraden Sie auf Null-Selbstbeteiligung, ideal für enge Küstenstraßen und volle Strandparkplätze."
+      "title": "Versicherungsoptionen",
+      "desc": "Kostenlose Mindestdeckung (Haftpflicht) bei jeder Buchung — Basic ab 8 €/Tag, Full ab 10 €/Tag, kautionsfreies Full Plus ab 18 €/Tag."
     },
     "support": {
-      "title": "24/7 Support",
-      "desc": "Licht am Parkplatz am Jaz Beach vergessen? Schlüssel am Mogren eingesperrt? Rufen Sie uns jederzeit an, wir kennen jeden Parkplatz dieser Riviera."
+      "title": "24/7 Buchungs-Support",
+      "desc": "Hilfe rund um die Uhr bei Ihrer Buchung. Pannenhilfe wird vom Vermieter vor Ort bereitgestellt."
     },
     "noHiddenFees": {
-      "title": "Keine versteckten Kosten",
-      "desc": "Ein Preis bei der Buchung. Derselbe Preis bei Abholung. Mehrwertsteuer, Kilometerstand und Kraftstoffpolitik sind eingerechnet, kein Aufschlag am Schalter."
+      "title": "Keine Kreditkarte erforderlich",
+      "desc": "Jedes Fahrzeug auf der Plattform ist ohne Kreditkarte buchbar — Zahlung in bar, per Debitkarte oder mit Kryptowährung möglich."
     },
     "freeCancellation": {
       "title": "Kostenlose Stornierung",
-      "desc": "Das Sommerwetter an der Riviera kann sich schnell ändern, und Festivaldaten verschieben sich. Kostenlos bis 24 Stunden vor Abholung stornieren und jeden Cent zurückbekommen."
+      "desc": "Für ausgewählte Fahrzeuge (rund 176 von etwa 380): Erstattung der Anzahlung, wenn Sie mehr als 24 Stunden vor der Abholung stornieren."
     },
     "crossBorder": {
-      "title": "Grenzüberfahrten inklusive",
-      "desc": "Dubrovnik ist 2,5 Stunden nördlich über Debeli Brijeg. Die albanische Grenze ist von Budva näher als von jedem anderen Ort an der Riviera. Green Card wird bei Buchung vorbereitet."
+      "title": "Grenzüberschreitend",
+      "desc": "Kostenpflichtige Auslandsgenehmigung in drei Stufen — Nachbarländer, einschließlich Albanien & Kosovo, oder gesamte EU + Schweiz."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Am ersten Morgen fuhren wir von Jaz Beach nach Sveti Stefan, die Aussichten waren unglaublich. Mittagspause in Bečići, dann noch rechtzeitig zum Aussichtspunkt Sveti Stefan vor Sonnenuntergang. Das Auto ermöglichte uns, die Busse zu umgehen und unser eigenes Tempo zu fahren. Unbedingt wieder buchen."
+      "text": "Wir sind kurz vor Mitternacht nach einem verspäteten Wien-Flug am TGD gelandet, der Vermieter wartete weiterhin mit meinem Namensschild. Keine Kreditkarte erforderlich, die Kaution wurde auf einer Debitkarte hinterlegt. Am nächsten Morgen waren wir noch vor den Reisebussen am Kloster Ostrog."
     },
     "1": {
       "text": "Zu dritt für fünf Nächte gemietet, Top Hill am einen Abend, Trocadero am nächsten, dann ein Ausflug nach Petrovac für einen ruhigeren Nachmittag. Kein Warten auf Taxis um 2 Uhr morgens. Der Agent am Flughafen Tivat war fix, das Auto makellos. Genau das, was wir brauchten."
@@ -247,16 +247,16 @@
   },
   "faqItems": {
     "0": {
-      "q": "Welche Dokumente benötige ich?",
-      "a": "Sie benötigen einen gültigen Führerschein mit Angaben in lateinischer Schrift, Ihren Reisepass und eine physische Kreditkarte auf den Namen des Hauptfahrers. Ist Ihr Führerschein in nicht-lateinischer Schrift ausgestellt, bringen Sie bitte einen Internationalen Führerschein mit. Kopien und rein digitale Führerscheine werden bei der Abholung nicht akzeptiert."
+      "q": "Welche Dokumente werden für die Anmietung benötigt?",
+      "a": "Ein gültiger Führerschein sowie Reisepass oder Personalausweis. Eine Kreditkarte ist für kein Fahrzeug auf der Plattform erforderlich — Bargeld, Debitkarte und Kryptowährung werden beim Vermieter vor Ort akzeptiert. Ein internationaler Führerschein wird je nach Vermieter empfohlen, wenn Ihr Führerschein nicht in der EU ausgestellt wurde."
     },
     "1": {
-      "q": "Kann ich nach Kroatien oder Albanien fahren?",
-      "a": "Ja. Grenzüberschreitende Fahrten sind nach Kroatien, Bosnien, Albanien, Kosovo und Serbien erlaubt. Der Tagesausflug nach Dubrovnik über den Übergang Debeli Brijeg ist einer der beliebtesten Trips von Budva aus, rund 2,5 Stunden Fahrt. Einfach die Länder bei der Buchung angeben, die Green Card wird vorbereitet."
+      "q": "Darf ich nach Kroatien, Serbien oder Albanien fahren, und wie funktionieren die Auslandsgebühren?",
+      "a": "Ja — Auslandsfahrten werden als kostenpflichtige Genehmigung in drei Stufen angeboten: (1) Kroatien, Bosnien und Herzegowina sowie Serbien (keine Grüne Karte erforderlich); (2) dieselben Länder zuzüglich Albanien und Kosovo (Grüne Karte wird gestellt); (3) Albanien, Kosovo, Kroatien, Bosnien, Serbien, Mazedonien, alle EU-Länder und die Schweiz (Grüne Karte wird gestellt). Die passende Stufe für Ihre Reise wird Ihnen beim Bezahlvorgang angezeigt."
     },
     "2": {
-      "q": "Gibt es ein Mindestalter?",
-      "a": "Mindestalter und Fahrpraxis-Anforderungen variieren je nach Fahrzeugklasse und sind in den Fahrzeugdetails bei der Suche klar angegeben. Jüngere Fahrer können je nach Modell einen kleinen Tageszuschlag sehen."
+      "q": "Was ist tatsächlich im Preis enthalten?",
+      "a": "In jeder Buchung sind die kostenlose Mindestdeckung (Haftpflicht) mit einer typischen Kaution von 100 €, ein kostenloser Zweitfahrer und die Mehrwertsteuer enthalten. Versicherungs-Upgrades sind kostenpflichtige Zusatzleistungen: Basic ab 8 €/Tag, Full ab 10 €/Tag und ein kautionsfreies Full Plus ab 18 €/Tag. Unbegrenzte Kilometer sind bei den meisten Fahrzeugen enthalten (376 von rund 380). Buchbare Extras (Kindersitze, Winter Pack, Insassenunfallversicherung, Diebstahlschutz, Hotspot, SIM, Ski- und Dachträger, Elektroroller) kommen zum Grundpreis hinzu."
     },
     "3": {
       "q": "Was ist im Preis enthalten?",
@@ -267,12 +267,12 @@
       "a": "Ihr Ansprechpartner erwartet Sie in der Ankunftshalle des Flughafens Tivat. Die 22 km lange Küstenstraße nach Budva dauert je nach Sommerverkehr rund 25 Minuten. Kein Shuttle, kein Herumwarten, das Auto steht direkt vor dem Terminal."
     },
     "5": {
-      "q": "Kann ich einen Kindersitz oder andere Extras hinzufügen?",
-      "a": "Ja. Kindersitze, Sitzerhöhungen, zusätzliche Fahrer und Dachträger können bei der Buchung hinzugefügt werden. Wählen Sie einfach die gewünschten Extras auf der Suchergebnisseite aus, der Preis wird vor der Bestätigung klar angezeigt. Die Ausstattung ist bei der Abholung am Flughafen Podgorica (TGD) oder am gewählten Abholort einsatzbereit."
+      "q": "Wie lautet die Stornierungsbedingung?",
+      "a": "Eine kostenlose Stornierung ist für ausgewählte Fahrzeuge möglich (rund 176 von etwa 380, in den Suchergebnissen klar gekennzeichnet). Bei diesen Fahrzeugen wird die volle Anzahlung erstattet, wenn Sie mehr als 24 Stunden vor der Abholung stornieren; Stornierungen innerhalb von 24 Stunden vor der Abholung sind nicht erstattungsfähig."
     },
     "6": {
-      "q": "Wie sind die Stornierungsbedingungen?",
-      "a": "Standardfahrzeuge: kostenlose Stornierung bis 7 Tage vor Abholung. Luxusautos und Cabriolets: kostenlose Stornierung bis 30 Tage im Voraus. Bei allen Stornierungen fällt eine Bearbeitungsgebühr von 6 % an."
+      "q": "Muss ich eine Kaution zahlen?",
+      "a": "Bei den meisten Fahrzeugen wird bei der Abholung eine Kaution von 100 € hinterlegt. 47 Fahrzeuge auf der Plattform erfordern überhaupt keine Kaution, weitere 124 bieten gegen Aufpreis eine kautionsfreie Option. Auch die Wahl des Versicherungstarifs Full Plus (ab 18 €/Tag) entfällt die Kaution."
     },
     "7": {
       "q": "Muss ich eine Kaution hinterlegen?",

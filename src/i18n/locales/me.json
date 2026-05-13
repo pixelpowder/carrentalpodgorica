@@ -21,7 +21,7 @@
     "headline": "Rent a Car Budva",
     "badges": {
       "freeCancellation": "Besplatna Otkazivanja",
-      "fullInsurance": "Puno Osiguranje Uključeno",
+      "fullInsurance": "Opcije osiguranja",
       "airportPickup": "Preuzimanje na Aerodromu za 10 Min",
       "trustpilot": "4.8/5 na Trustpilot"
     },
@@ -39,8 +39,8 @@
   "trust": {
     "noHiddenFees": "Bez Skrivenih Troškova",
     "noHiddenFeesDesc": "Prikazana cijena uključuje sve",
-    "fullInsurance": "Puno Osiguranje",
-    "fullInsuranceDesc": "Opcija bez učešća dostupna",
+    "fullInsurance": "Opcije osiguranja",
+    "fullInsuranceDesc": "Besplatno minimalno osiguranje (od odgovornosti prema trećim licima) na svakoj rezervaciji. Plaćeni nivoi Basic, Full i Full Plus bez depozita — tačne cijene postavljene po automobilu.",
     "fastPickup": "Preuzimanje za 10 Min",
     "fastPickupDesc": "Dočekujemo vas na izlazu"
   },
@@ -215,28 +215,28 @@
     },
     "fullInsurance": {
       "title": "Opcije osiguranja",
-      "desc": "Kasko i zaštita od krađe su standardno uključeni. Dodajte nultu franšizu za potpuno mirenje na uskim obalnim stazama i prepunim parking plažama."
+      "desc": "Besplatno minimalno osiguranje (od odgovornosti prema trećim licima) na svakoj rezervaciji — Basic od 8 €/dan, Full od 10 €/dan, Full Plus bez depozita od 18 €/dan."
     },
     "support": {
-      "title": "Podrška 24/7",
-      "desc": "Zaboravili ste ugasiti svjetla na parkingu plaže Jaz? Zaključali ključeve u Mogrenu? Nazovite nas u bilo koje doba, poznajemo svaki parking na ovoj rivijeri."
+      "title": "Podrška za rezervacije 24/7",
+      "desc": "Pomoć oko rezervacija dostupna je non-stop. Pomoć na putu obezbjeđuje agencija za iznajmljivanje."
     },
     "noHiddenFees": {
-      "title": "Bez skrivenih troškova",
-      "desc": "Jedna cijena pri rezervaciji. Ista cijena pri preuzimanju. PDV, kilometraža i politika goriva su već uračunati, ništa se ne dodaje na šalteru."
+      "title": "Bez kreditne kartice",
+      "desc": "Svaki automobil na platformi može se rezervisati bez kreditne kartice — plaćate gotovinom, debitnom karticom ili kriptovalutom."
     },
     "freeCancellation": {
       "title": "Besplatno otkazivanje",
-      "desc": "Ljetno vrijeme na rivijeri brzo se mijenja, a datumi festivala se pomjeraju. Otkažite besplatno do 24 sata prije preuzimanja i dobijte povrat svakog centa."
+      "desc": "Na odabranim automobilima (oko 176 od približno 380): povraćaj avansne uplate ako otkažete više od 24 sata prije preuzimanja."
     },
     "crossBorder": {
-      "title": "Prelasci granice uključeni",
-      "desc": "Dubrovnik je 2,5 sata sjeverno preko Debelog Brijega. Albanska granica je bliža od Budve nego s bilo kojeg drugog mjesta na rivijeri. Zelena karta se priprema pri rezervaciji."
+      "title": "Prelazak granice",
+      "desc": "Plaćena dozvola za prekogranično putovanje u tri nivoa — susjedi, uključujući Albaniju i Kosovo, ili sve zemlje EU + Švajcarska."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Prve jutro smo vozili od plaže Jaz do Svetog Stefana, pogledi su bili nevjerovatni. Ručali u Bečićima, stigli do vidikovca Sveti Stefan prije zalaska sunca. Auto nam je omogućio da zaobiđemo autobuse i idemo sopstvenim tempom. Svakako ćemo ponovo rezervisati."
+      "text": "Auto preuzet na TGD-u tik pred ponoć nakon kasnog leta iz Beča, a agent je i dalje čekao sa mojim imenom na tabli. Kreditna kartica nije bila potrebna, depozit je rezervisan na debitnoj kartici. Sjutra ujutru smo bili na Ostrogu prije autobuskih grupa."
     },
     "1": {
       "text": "Nas troje, pet noći, Top Hill jedne večeri, Trocadero sledeće, pa izlet do Petrovca za mirniji popodne. Bez čekanja taksija u 2 ujutru. Agent na Tivatu bio je brz, auto besprijekoran. Tačno ono što nam je trebalo."
@@ -248,15 +248,15 @@
   "faqItems": {
     "0": {
       "q": "Koja dokumenta su mi potrebna za iznajmljivanje?",
-      "a": "Potrebna vam je važeća vozačka dozvola s podacima na latinici, pasoš i fizička kreditna kartica na ime glavnog vozača. Ako je vaša dozvola izdata u zemlji s nelatiničnim pismom, ponesite i međunarodnu vozačku dozvolu. Kopije i isključivo digitalne vozačke dozvole ne prihvataju se pri preuzimanju."
+      "a": "Važeća vozačka dozvola i pasoš ili lična karta. Kreditna kartica nije potrebna ni za jedan automobil na platformi — gotovina, debitna kartica i kriptovalute se prihvataju kod agencije. Međunarodna vozačka dozvola se može preporučiti, zavisno od agencije, za dozvole van EU."
     },
     "1": {
-      "q": "Mogu li voziti u Hrvatsku ili Albaniju?",
-      "a": "Da. Prekogranična putovanja su dozvoljena u Hrvatsku, Bosnu, Albaniju, Kosovo i Srbiju. Jednodnevni izlet u Dubrovnik preko Debelog Brijega jedan je od najpopularnijih polazaka iz Budve, oko 2,5 sata u jednom smjeru. Navedite zemlje pri rezervaciji i zelena karta se priprema za vas."
+      "q": "Mogu li voziti u Hrvatsku, Srbiju ili Albaniju, i kako funkcionišu naknade za prelazak granice?",
+      "a": "Da — prekogranično putovanje se prodaje kao plaćena dozvola u tri nivoa: (1) Hrvatska, Bosna i Hercegovina i Srbija (Zelena karta nije potrebna); (2) iste zemlje plus Albanija i Kosovo (Zelena karta je obezbijeđena); (3) Albanija, Kosovo, Hrvatska, Bosna, Srbija, Makedonija, sve zemlje EU i Švajcarska (Zelena karta je obezbijeđena). Odgovarajući nivo za vaše putovanje prikazan je prilikom plaćanja."
     },
     "2": {
-      "q": "Postoji li minimalna starosna granica?",
-      "a": "Minimalna starost i zahtjevi za vozačko iskustvo variraju po kategoriji vozila i jasno su navedeni u detaljima svakog auta pri pretrazi. Mlađi vozači mogu vidjeti manji dnevni dodatak zavisno od modela."
+      "q": "Šta je zaista uključeno u cijenu?",
+      "a": "Svaka rezervacija uključuje besplatno minimalno osiguranje (od odgovornosti prema trećim licima) sa uobičajenim depozitom od 100 €, kao i besplatnog drugog vozača i PDV. Nadogradnje osiguranja su plaćeni dodaci: Basic od 8 €/dan, Full od 10 €/dan i Full Plus bez depozita od 18 €/dan. Neograničena kilometraža uključena je na većini automobila (376 od oko 380). Dodatni servisi (dječija sjedišta, Winter Pack, osiguranje od nezgoda, zaštita od krađe, hotspot, SIM, krovni nosači i nosači za skije, električni trotinet) dodaju se na osnovnu cijenu."
     },
     "3": {
       "q": "Šta je stvarno uključeno u cijenu?",
@@ -267,12 +267,12 @@
       "a": "Vaš agent čeka vas u holu dolazaka aerodroma Tivat. Obalna cesta od 22 km do Budve traje oko 25 minuta zavisno od ljetnog saobraćaja. Nema transfera, nema čekanja, auto je parkiran odmah ispred terminala."
     },
     "5": {
-      "q": "Mogu li dodati dječje sjedište ili druge dodatke?",
-      "a": "Da. Dječja sjedišta, podloge, dodatni vozači i krovni nosači mogu se dodati prilikom rezervacije. Samo označite željene dodatke na stranici rezultata pretrage, cijena se jasno prikazuje prije potvrde. Oprema je spremna za preuzimanje na aerodromu Podgorica (TGD) ili na izabranom mjestu preuzimanja."
+      "q": "Koja je politika otkazivanja?",
+      "a": "Besplatno otkazivanje je dostupno na odabranim automobilima (oko 176 od približno 380, jasno označenih u rezultatima pretrage). Na tim automobilima, puna avansna uplata se vraća ako otkažete više od 24 sata prije preuzimanja; otkazivanja u roku od 24 sata prije preuzimanja se ne refundiraju."
     },
     "6": {
-      "q": "Kakva je politika otkazivanja?",
-      "a": "Standardna vozila: besplatno otkazivanje do 7 dana prije preuzimanja. Luksuzni automobili i kabrioleti: besplatno otkazivanje do 30 dana unaprijed. Naknada za obradu plaćanja od 6 % primjenjuje se na sva otkazivanja bez obzira na termin."
+      "q": "Da li je potreban depozit?",
+      "a": "Većina automobila zadržava depozit od 100 € prilikom preuzimanja. 47 automobila na platformi uopšte ne zahtijevaju depozit, a još 124 nude opciju bez depozita kao plaćenu uslugu. Odabir nivoa osiguranja Full Plus (od 18 €/dan) takođe ukida depozit."
     },
     "7": {
       "q": "Da li je potreban depozit?",

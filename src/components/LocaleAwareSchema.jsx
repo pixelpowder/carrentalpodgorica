@@ -62,7 +62,7 @@ export default function LocaleAwareSchema({ lang = 'en', isHomepage = true }) {
   const description = pick(t, 'home.seoDesc')
     || pick(t, 'meta.homeDescription')
     || pick(t, 'hero.subtitle')
-    || 'Rent a car in Montenegro from trusted local providers with free cancellation, flexible insurance options, and airport pickup with every booking.';
+    || 'Rent a car in Montenegro from trusted local providers — free Minimum (third-party) cover on every booking, paid insurance upgrades from €8/day, no credit card required, and airport pickup at TIV or TGD.';
 
   const autoRental = { ...BASE_AUTO_RENTAL, description };
 

@@ -943,7 +943,7 @@ function StickyBookingBar() {
       <div className="sticky-bar__inner">
         <div className="sticky-bar__text">
           <strong>{t('ctaBrand.brand')}</strong>
-          <span>{t('ctaBrand.tagline') || 'From €13/day · Tivat Airport 25 min away'}</span>
+          <span>{t('ctaBrand.tagline') || 'From €20/day · Podgorica Airport (TGD) 12 km away'}</span>
         </div>
         <a href={localePath('/book')} className="sticky-bar__btn">{t('ctaBrand.searchCars')} <ArrowRight size={14} /></a>
       </div>

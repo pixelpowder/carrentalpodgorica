@@ -21,7 +21,7 @@
     "headline": "Location de Voiture à Budva",
     "badges": {
       "freeCancellation": "Annulation Gratuite",
-      "fullInsurance": "Assurance Tous Risques Incluse",
+      "fullInsurance": "Options d'assurance",
       "airportPickup": "Prise en Charge Aéroport en 10 Min",
       "trustpilot": "4.8/5 sur Trustpilot"
     },
@@ -39,8 +39,8 @@
   "trust": {
     "noHiddenFees": "Aucun Frais Caché",
     "noHiddenFeesDesc": "Le prix affiché est tout compris",
-    "fullInsurance": "Assurance Tous Risques",
-    "fullInsuranceDesc": "Option zéro franchise disponible",
+    "fullInsurance": "Options d'assurance",
+    "fullInsuranceDesc": "Couverture Minimum (responsabilité civile) gratuite sur chaque réservation. Niveaux Basique, Tous risques et Tous risques Plus sans caution payants — prix exacts définis par voiture.",
     "fastPickup": "Prise en Charge en 10 Min",
     "fastPickupDesc": "Nous vous accueillons aux arrivées"
   },
@@ -215,28 +215,28 @@
     },
     "fullInsurance": {
       "title": "Options d'assurance",
-      "desc": "Protection collision et vol incluses en standard. Optez pour la franchise zéro pour une tranquillité totale sur les ruelles côtières étroites et les parkings de plage."
+      "desc": "Couverture Minimum (responsabilité civile) gratuite sur chaque réservation — Basique à partir de 8 €/jour, Tous risques à partir de 10 €/jour, Tous risques Plus sans caution à partir de 18 €/jour."
     },
     "support": {
-      "title": "Assistance 24h/24",
-      "desc": "Phares oubliés au parking de la plage de Jaz ? Clés enfermées à Mogren ? Appelez-nous à toute heure, nous connaissons chaque parking de cette riviera."
+      "title": "Assistance réservation 24h/24 et 7j/7",
+      "desc": "Aide à la réservation à toute heure. L'assistance routière est assurée par le loueur."
     },
     "noHiddenFees": {
-      "title": "Aucun frais caché",
-      "desc": "Un prix à la réservation. Le même prix au retrait. TVA, kilométrage et politique carburant sont inclus, rien d'ajouté au comptoir."
+      "title": "Aucune carte de crédit requise",
+      "desc": "Chaque voiture de la plateforme est réservable sans carte de crédit — paiement en espèces, par carte de débit ou en cryptomonnaie."
     },
     "freeCancellation": {
       "title": "Annulation gratuite",
-      "desc": "La météo estivale sur la riviera change vite et les dates de festival se déplacent. Annulez gratuitement jusqu'à 24 heures avant le retrait et récupérez chaque centime."
+      "desc": "Sur certaines voitures (environ 176 sur près de 380) : remboursement de l'acompte si vous annulez plus de 24 heures avant la prise en charge."
     },
     "crossBorder": {
-      "title": "Passages frontaliers inclus",
-      "desc": "Dubrovnik est à 2h30 au nord via Debeli Brijeg. La frontière albanaise est plus proche de Budva que de tout autre point de la riviera. Carte verte préparée à la réservation."
+      "title": "Transfrontalier",
+      "desc": "Permis transfrontalier payant à trois niveaux : pays voisins, incluant l'Albanie et le Kosovo, ou tous les pays de l'UE et la Suisse."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Nous avons roulé de Jaz Beach à Sveti Stefan dès le premier matin, les panoramas étaient incroyables. Pause déjeuner à Bečići, puis le point de vue de Sveti Stefan avant le coucher du soleil. La voiture nous a permis d'éviter les bus et d'aller à notre rythme. On renouvelle sans hésiter."
+      "text": "Récupération de la voiture à TGD juste avant minuit après un vol retardé depuis Vienne, et le loueur attendait encore avec mon nom sur une pancarte. Pas besoin de carte de crédit, la caution a été retenue sur une carte de débit. Le lendemain matin, nous étions au monastère d'Ostrog avant les autocars."
     },
     "1": {
       "text": "À trois pour cinq nuits, Top Hill un soir, Trocadero le suivant, puis une virée à Petrovac pour un après-midi plus tranquille. Plus de taxis à attendre à 2h du matin. L'agent à Tivat était efficace et la voiture impeccable. Exactement ce qu'il nous fallait."
@@ -247,16 +247,16 @@
   },
   "faqItems": {
     "0": {
-      "q": "Quels documents dois-je fournir ?",
-      "a": "Vous aurez besoin d'un permis de conduire valide avec des données en caractères latins, de votre passeport et d'une carte de crédit physique au nom du conducteur principal. Si votre permis est délivré dans un pays à écriture non latine, munissez-vous également d'un permis de conduire international. Les photocopies et les permis uniquement numériques ne sont pas acceptés au retrait."
+      "q": "Quels documents dois-je fournir pour louer ?",
+      "a": "Un permis de conduire valide et un passeport ou une pièce d'identité. Aucune carte de crédit n'est requise sur les voitures de la plateforme — les espèces, la carte de débit et les cryptomonnaies sont acceptées chez le loueur. Un permis de conduire international peut être recommandé selon le loueur pour les permis hors UE."
     },
     "1": {
-      "q": "Puis-je conduire en Croatie ou en Albanie ?",
-      "a": "Oui. Les déplacements transfrontaliers sont autorisés vers la Croatie, la Bosnie, l'Albanie, le Kosovo et la Serbie. L'excursion d'une journée à Dubrovnik via Debeli Brijeg est l'une des plus populaires depuis Budva, environ 2h30 dans chaque sens. Indiquez les pays à la réservation et la carte verte est préparée pour vous."
+      "q": "Puis-je conduire en Croatie, en Serbie ou en Albanie, et comment fonctionnent les frais transfrontaliers ?",
+      "a": "Oui — les déplacements transfrontaliers sont vendus sous forme de permis payant à trois niveaux : (1) Croatie, Bosnie-Herzégovine et Serbie (carte verte non requise) ; (2) les mêmes pays plus l'Albanie et le Kosovo (carte verte fournie) ; (3) Albanie, Kosovo, Croatie, Bosnie, Serbie, Macédoine, tous les pays de l'UE et la Suisse (carte verte fournie). Le niveau adapté à votre voyage est indiqué au moment du paiement."
     },
     "2": {
-      "q": "Y a-t-il un âge minimum ?",
-      "a": "L'âge minimum et les exigences d'expérience de conduite varient selon la catégorie de véhicule et sont clairement indiqués dans les détails de chaque voiture lors de la recherche. Les conducteurs plus jeunes peuvent voir un petit supplément journalier selon le modèle."
+      "q": "Qu'est-ce qui est réellement inclus dans le prix ?",
+      "a": "Chaque réservation comprend la couverture Minimum gratuite (responsabilité civile) avec une caution typique de 100 €, un second conducteur gratuit et la TVA. Les améliorations d'assurance sont des extras payants : Basique à partir de 8 €/jour, Tous risques à partir de 10 €/jour et un Tous risques Plus sans caution à partir de 18 €/jour. Le kilométrage illimité est inclus sur la plupart des voitures (376 sur environ 380). Les extras réservables (sièges enfants, Winter Pack, assurance personnelle, protection vol, hotspot, SIM, porte-skis et galeries, scooter électrique) s'ajoutent au tarif de base."
     },
     "3": {
       "q": "Qu'est-ce qui est réellement inclus dans le prix ?",
@@ -267,12 +267,12 @@
       "a": "Votre agent vous attend dans le hall des arrivées de l'aéroport de Tivat. Les 22 km de route côtière jusqu'à Budva prennent environ 25 minutes selon la circulation estivale. Pas de navette, pas d'attente, la voiture est garée juste devant le terminal."
     },
     "5": {
-      "q": "Puis-je ajouter un siège enfant ou d'autres extras ?",
-      "a": "Oui. Sièges enfants, rehausseurs, conducteurs additionnels et galeries de toit peuvent tous être ajoutés à la réservation. Cochez simplement les options souhaitées sur la page de résultats, le prix s'affiche clairement avant la confirmation. L'équipement est prêt au retrait à l'aéroport de Podgorica (TGD) ou au point de prise en charge choisi."
+      "q": "Quelle est la politique d'annulation ?",
+      "a": "L'annulation gratuite est disponible sur certaines voitures (environ 176 sur près de 380, clairement signalées dans les résultats de recherche). Sur ces voitures, l'intégralité de l'acompte est remboursée si vous annulez plus de 24 heures avant la prise en charge ; les annulations dans les 24 heures précédant la prise en charge ne sont pas remboursables."
     },
     "6": {
-      "q": "Quelle est la politique d'annulation ?",
-      "a": "Véhicules standards : annulation gratuite jusqu'à 7 jours avant le retrait. Voitures de luxe et cabriolets : annulation gratuite jusqu'à 30 jours à l'avance. Des frais de traitement de 6 % s'appliquent à toutes les annulations, quelle que soit la date."
+      "q": "Dois-je verser une caution ?",
+      "a": "La plupart des voitures retiennent une caution de 100 € à la prise en charge. 47 voitures de la plateforme ne demandent aucune caution, et 124 autres proposent une option sans caution comme service payant. Choisir le niveau d'assurance Tous risques Plus (à partir de 18 €/jour) supprime également la caution."
     },
     "7": {
       "q": "Dois-je verser un dépôt de garantie ?",

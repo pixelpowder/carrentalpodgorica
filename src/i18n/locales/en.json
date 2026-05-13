@@ -40,7 +40,7 @@
     "noHiddenFees": "No Hidden Fees",
     "noHiddenFeesDesc": "Checkout price includes everything, taxes, airport surcharges, the lot",
     "fullInsurance": "Insurance Options",
-    "fullInsuranceDesc": "CDW included, plus a zero-excess upgrade for complete cover on mountain and canyon roads",
+    "fullInsuranceDesc": "Free Minimum (third-party) cover on every booking. Paid Basic, Full and no-deposit Full Plus tiers — exact prices set per car.",
     "fastPickup": "Podgorica Pickup",
     "fastPickupDesc": "Delivered to your Podgorica hotel, apartment, or anywhere in the city."
   },
@@ -64,7 +64,7 @@
   "fleet": {
     "label": "Our Fleet",
     "title": "Find Your Ride",
-    "subtitle": "Live prices and instant booking with free cancellation, full insurance, and low or no-deposit options.",
+    "subtitle": "Live prices and instant booking — free Minimum (third-party) cover on every booking, with paid insurance upgrades and no-deposit options.",
     "browseByCategory": "Browse by category",
     "ourFleet": "Our fleet",
     "tabCities": "Cities",
@@ -112,7 +112,7 @@
     "seoDesc": "Compare Podgorica car rental prices at live rates. Instant confirmation, free cancellation, and pickup at TGD Airport or the city centre."
   },
   "footer": {
-    "brandDesc": "Podgorica car rental with TGD Airport pickup, full insurance, and transparent pricing. Ostrog, Lake Skadar, Durmitor and the whole Montenegrin interior at your pace.",
+    "brandDesc": "Podgorica car rental with TGD Airport pickup, free Minimum cover and paid insurance upgrades, plus transparent pricing. Ostrog, Lake Skadar, Durmitor and the whole Montenegrin interior at your pace.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "locations": "Locations",
@@ -136,7 +136,7 @@
     "searchCars": "Search Cars"
   },
   "home": {
-    "seoDesc": "Podgorica is Montenegro's capital and the inland gateway to Ostrog Monastery, Lake Skadar and Durmitor National Park. Cars from €13/day, TGD Airport pickup."
+    "seoDesc": "Podgorica is Montenegro's capital and the inland gateway to Ostrog Monastery, Lake Skadar and Durmitor National Park. Cars from €20/day, TGD Airport pickup, no credit card needed."
   },
   "about": {
     "title": "About Us",
@@ -273,28 +273,28 @@
     },
     "fullInsurance": {
       "title": "Insurance Options",
-      "desc": "CDW and theft cover included as standard. Upgrade to zero excess for total peace of mind on narrow old-town lanes and mountain switchbacks."
+      "desc": "Free Minimum (third-party) cover on every booking — Basic from €8/day, Full from €10/day, no-deposit Full Plus from €18/day."
     },
     "support": {
-      "title": "24/7 Support",
-      "desc": "Left your lights on at the Ostrog upper car park? Locked your keys in at the Lake Skadar marina parking? Call us any hour, we know every car park in the capital region."
+      "title": "24/7 Booking Support",
+      "desc": "Booking help around the clock. Roadside assistance is provided by the rental supplier."
     },
     "noHiddenFees": {
-      "title": "No Hidden Fees",
-      "desc": "One number at booking. That same number at pickup. VAT, mileage, and mountain-region fuel policy are all baked in, nothing added at the counter."
+      "title": "No Credit Card Needed",
+      "desc": "Every car on the platform is bookable without a credit card — pay by cash, debit card or crypto."
     },
     "freeCancellation": {
       "title": "Free Cancellation",
-      "desc": "Summer thunderstorms on the Morača canyon road shift fast and mountain passes sometimes close briefly. Cancel free up to 24 hours before pickup and get every cent refunded."
+      "desc": "On selected cars (around 176 of approximately 380): refund of advance payment if you cancel more than 24 hours before pickup."
     },
     "crossBorder": {
-      "title": "Cross-Border Ready",
-      "desc": "The Albanian border at Tuzi is 20 minutes from Podgorica. Kosovo and Serbia are both easy day-drives inland. Green card sorted at booking."
+      "title": "Cross-Border",
+      "desc": "Paid cross-border permit at three tiers — neighbours, including Albania & Kosovo, or all-EU + Switzerland."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Collected the car at TGD just before midnight after a delayed flight from Vienna and the agent was still waiting with a smile. Next morning we drove up to Ostrog Monastery before the coach parties arrived, the upper church before 9am is something else. Back in Podgorica for late lunch at a riverside konoba. A brilliant start."
+      "text": "Collected the car at TGD just before midnight after a delayed flight from Vienna and the supplier was still waiting with my name on a sign. No credit card needed, the deposit was held on a debit card. Next morning we drove up to Ostrog Monastery before the coach parties arrived."
     },
     "1": {
       "text": "Four days based in Podgorica, one car, three big day trips: Lake Skadar at sunrise for the pelicans, Cetinje and the old royal capital on day two, then up to Žabljak and the Tara bridge. Having our own wheels meant we could leave when we liked and skip the tour buses entirely. The car was spotless and the paperwork took ten minutes."
@@ -306,15 +306,15 @@
   "faqItems": {
     "0": {
       "q": "What documents do I need to rent?",
-      "a": "You'll need a full driving licence with Latin-script details, your passport, and a physical credit card issued in the main driver's name. If your licence is from a country that uses a non-Latin script, bring an International Driving Permit too. Photocopies and digital-only licences are not accepted at pickup."
+      "a": "A valid driving licence and passport or ID. A credit card is not required on any car on the platform — cash, debit card and crypto are accepted at the supplier. International Driving Permit recommended for non-EU licences depending on the supplier."
     },
     "1": {
       "q": "Can I drive to Croatia, Serbia or Albania, and how do the cross-border fees work?",
-      "a": "Yes, and the capital is the right base for it: the Tuzi crossing into Albania is fifteen minutes from the ring road, Dobrakovo for Serbia is straight up the E65 from Podgorica, and the inland route to Trebinje and Mostar starts at the Vilusi crossing past Nikšić. The fee is tiered. Tier 1 covers neighbouring countries excluding Albania and Kosovo, the right pick for the typical business loop that strings Trebinje, Dubrovnik and a Belgrade meeting into one week out of TGD. Tier 2 layers Albania and Kosovo on top, suited to a Shkodër weekend or a Prizren detour from the capital. Tier 3 opens up the wider Balkan circuit for renters mixing neighbouring countries with more distant destinations on a single contract. Flag the countries at booking and the Green Card plus the matching tier are sorted before you collect the keys."
+      "a": "Yes — cross-border travel is sold as a paid permit at three tiers: (1) Croatia, Bosnia & Herzegovina and Serbia (no Green Card needed); (2) the same plus Albania and Kosovo (Green Card provided); (3) Albania, Kosovo, Croatia, Bosnia, Serbia, Macedonia, all EU countries and Switzerland (Green Card provided). The right tier for your trip is shown at checkout."
     },
     "2": {
       "q": "What's actually included in the price?",
-      "a": "Third-party liability insurance and CDW come standard on most cars. VAT, a roadside safety kit, and a transparent fuel policy are included too. Mileage terms differ per vehicle, check the car listing. Zero-excess cover and the bookable extras (child seats, Winter Pack, Personal Accident Insurance, Theft Protection, hotspot, SIM, ski and roof racks, electric scooter) sit on top of the base rate."
+      "a": "Every booking includes the free Minimum (third-party liability) cover with a typical €100 deposit, plus a free second driver and VAT. Insurance upgrades are paid extras: Basic from €8/day, Full from €10/day, and a no-deposit Full Plus from €18/day. Unlimited mileage is included on most cars (376 of around 380). Bookable extras (child seats, Winter Pack, Personal Accident Insurance, Theft Protection, hotspot, SIM, ski and roof racks, electric scooter) sit on top of the base rate."
     },
     "3": {
       "q": "How does pickup work at Podgorica Airport?",
@@ -326,11 +326,11 @@
     },
     "5": {
       "q": "What is the cancellation policy?",
-      "a": "Standard vehicles: free cancellation up to 7 days before pickup. Luxury cars and convertibles: free cancellation up to 30 days in advance. A 6% processing fee applies on all cancellations regardless of timing."
+      "a": "Free cancellation is available on selected cars (around 176 of approximately 380, marked clearly in the search results). On those cars, the full advance payment is refunded if you cancel more than 24 hours before pickup; cancellations within 24 hours of pickup are non-refundable."
     },
     "6": {
       "q": "Do I need to pay a deposit?",
-      "a": "It depends on the vehicle. Deposits typically fall between €100 and €500 for most Podgorica rentals. Some cars require no deposit at all. Where one applies, it sits on the main driver's physical credit card and is released when the car is returned undamaged."
+      "a": "Most cars hold a €100 deposit at pickup. 47 cars on the platform require no deposit at all, and a further 124 offer a no-deposit option as a paid service. Choosing the Full Plus insurance tier (from €18/day) also waives the deposit."
     },
     "7": {
       "q": "Where can I park in central Podgorica?",
@@ -387,7 +387,7 @@
     "h3": "How We Work",
     "p3": "Search our fleet, pick a car, and book online with instant confirmation. We cover Podgorica Airport (12 km), the city centre, Nikšić, Kolašin, and 25 more pickup spots across the interior and coast. Fleet runs from budget city cars that slot into old-town parking to SUVs built for the Durmitor ring road. Every vehicle carries full insurance with no hidden fees, and the bookable extras (booster and child seats for the school-run-then-Skadar afternoon, a Winter Pack for the Kolašin commute through January, Personal Accident Insurance for the Morača M-9 cliff drive, Theft Protection for free street parking outside Stara Varoš, a SIM card or hotspot for business visitors landing at TGD without a local plan, ski and snowboard racks for the Žabljak weekenders, a roof rack for the SUP weekends to Skadar, and an electric scooter with charger) are all sorted at booking, not bolted on at the counter.",
     "promiseTitle": "What You Get",
-    "promise1": "Full insurance, zero-excess upgrade available",
+    "promise1": "Free Minimum (third-party) cover on every booking, with paid Basic, Full and no-deposit Full Plus upgrades available",
     "promise2": "Podgorica Airport meet-and-greet at the arrivals door",
     "promise3": "Transparent pricing: the number at booking is the number you pay",
     "promise4": "Cross-border driving on three tiers: Tier 1 for Croatia, Bosnia and Serbia, Tier 2 adding Albania and Kosovo, Tier 3 for the wider Balkan loop",
@@ -694,7 +694,7 @@
   },
   "ctaBrand": {
     "brand": "Car Rental Podgorica",
-    "tagline": "From €13/day · Podgorica Airport (TGD) 12 km away",
+    "tagline": "From €20/day · Podgorica Airport (TGD) 12 km away",
     "searchCars": "Search cars"
   },
   "statsLabels": {
@@ -732,7 +732,7 @@
     "intro1": "Every vehicle in the fleet is chosen for the way Podgorica drivers actually use a rental: short city-centre hops between meetings, day-loops out to Lake Skadar or Cetinje, and long inland pushes up to Žabljak or across the Albanian border.",
     "intro2": "The economy and city options are sized for the narrow streets of Stara Varoš and the busy Hercegovačka café strip. The mid-size diesels are tuned for the Podgorica to Bar motorway and the Smokovac to Mateševo run. Crossovers and SUVs add ground clearance for the rougher mountain spurs.",
     "intro3": "Pricing shown is the daily rate at the cheapest week of the year. Long-stay and seasonal pricing is available, ask at booking.",
-    "seoDesc": "Compare cars in our Podgorica rental fleet. From €20/day economy hatches to motorway-ready diesels and crossovers, all with full insurance and TGD airport pickup."
+    "seoDesc": "Compare cars in our Podgorica rental fleet. From €20/day economy hatches to motorway-ready diesels and crossovers, with free Minimum cover and paid upgrades, plus TGD airport pickup."
   },
   "fleetShowcase": {
     "label": "Pick a car",
