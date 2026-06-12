@@ -136,7 +136,7 @@
     "searchCars": "Autos suchen"
   },
   "home": {
-    "seoDesc": "Mietwagen in Budva ab 13 €/Tag. Abholung am Flughafen Tivat (22 km), Budva Altstadt, Bečići und über 28 Standorten. Kostenlose Stornierung, Versicherungsoptionen, keine versteckten Kosten."
+    "seoDesc": "Mietwagen in Budva. Abholung am Flughafen Tivat (22 km), Budva Altstadt, Bečići und über 28 Standorten. Kostenlose Stornierung, Versicherungsoptionen, keine versteckten Kosten."
   },
   "about": {
     "title": "Über uns",
@@ -256,7 +256,7 @@
     },
     "2": {
       "q": "Was ist tatsächlich im Preis enthalten?",
-      "a": "In jeder Buchung sind die kostenlose Mindestdeckung (Haftpflicht) mit einer typischen Kaution von 100 € und die Mehrwertsteuer enthalten. Versicherungs-Upgrades sind kostenpflichtige Zusatzleistungen: Basic ab 8 €/Tag, Full ab 10 €/Tag und ein kautionsfreies Full Plus ab 18 €/Tag. Unbegrenzte Kilometer sind bei den meisten Fahrzeugen enthalten (376 von rund 380). Buchbare Extras (Kindersitze, Winter Pack, Insassenunfallversicherung, Diebstahlschutz, Hotspot, SIM, Ski- und Dachträger, Elektroroller) kommen zum Grundpreis hinzu."
+      "a": "In jeder Buchung sind die kostenlose Mindestdeckung (Haftpflicht) mit einer typischen Kaution von 100 € und die Mehrwertsteuer enthalten. Versicherungs-Upgrades sind kostenpflichtige Zusatzleistungen: Basic, Full und ein kautionsfreies Full Plus. Unbegrenzte Kilometer sind bei den meisten Fahrzeugen enthalten (376 von rund 380). Buchbare Extras (Kindersitze, Winter Pack, Insassenunfallversicherung, Diebstahlschutz, Hotspot, SIM, Ski- und Dachträger, Elektroroller) kommen zum Grundpreis hinzu."
     },
     "3": {
       "q": "Was ist im Preis enthalten?",
@@ -272,7 +272,7 @@
     },
     "6": {
       "q": "Muss ich eine Kaution zahlen?",
-      "a": "Bei den meisten Fahrzeugen wird bei der Abholung eine Kaution von 100 € hinterlegt. 47 Fahrzeuge auf der Plattform erfordern überhaupt keine Kaution, weitere 124 bieten gegen Aufpreis eine kautionsfreie Option. Auch die Wahl des Versicherungstarifs Full Plus (ab 18 €/Tag) entfällt die Kaution."
+      "a": "Bei den meisten Fahrzeugen wird bei der Abholung eine Kaution von 100 € hinterlegt. 47 Fahrzeuge auf der Plattform erfordern überhaupt keine Kaution, weitere 124 bieten gegen Aufpreis eine kautionsfreie Option. Auch die Wahl des Versicherungstarifs Full Plus entfällt die Kaution."
     },
     "7": {
       "q": "Muss ich eine Kaution hinterlegen?",
@@ -817,7 +817,7 @@
   },
   "ctaBrand": {
     "brand": "Car Rental Podgorica",
-    "tagline": "Ab 13 €/Tag · Flughafen Podgorica (TGD) 12 km entfernt",
+    "tagline": "Flughafen Podgorica (TGD) 12 km entfernt",
     "searchCars": "Autos suchen"
   },
   "statsLabels": {
@@ -855,7 +855,7 @@
     "intro1": "Jedes Fahrzeug der Flotte ist auf die typische Nutzung in Podgorica abgestimmt: kurze Innenstadt-Sprünge zwischen Terminen, Tagesausflüge zum Skadar-See oder nach Cetinje, und lange Fahrten ins Landesinnere bis Žabljak oder über die albanische Grenze.",
     "intro2": "Die Economy- und City-Optionen sind auf die schmalen Gassen von Stara Varoš und die belebte Hercegovačka-Café-Meile zugeschnitten. Die Mittelklasse-Diesel sind für die Autobahn von Podgorica nach Bar und die Strecke Smokovac-Mateševo abgestimmt. Crossover und SUVs bieten mehr Bodenfreiheit für die rauen Bergabzweige.",
     "intro3": "Die angezeigte Preisangabe ist der Tagessatz in der günstigsten Woche des Jahres. Langzeit- und Saisonpreise sind verfügbar, fragen Sie bei der Buchung an.",
-    "seoDesc": "Vergleichen Sie Autos unserer Podgorica-Mietwagenflotte. Ab 20 €/Tag Economy-Hatchbacks bis hin zu autobahntauglichen Dieseln und Crossovern, alle mit Versicherungsoptionen und TGD-Flughafenabholung."
+    "seoDesc": "Vergleichen Sie Autos unserer Podgorica-Mietwagenflotte. Economy-Hatchbacks bis hin zu autobahntauglichen Dieseln und Crossovern, alle mit Versicherungsoptionen und TGD-Flughafenabholung."
   },
   "fleetShowcase": {
     "label": "Auto wählen",

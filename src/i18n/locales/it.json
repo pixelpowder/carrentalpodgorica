@@ -136,7 +136,7 @@
     "searchCars": "Cerca Auto"
   },
   "home": {
-    "seoDesc": "Noleggio auto a Budva da 13 €/giorno. Ritiro a Tivat (22 km), centro storico di Budva, Bečići e 28+ punti. Cancellazione gratuita, opzioni di assicurazione flessibili."
+    "seoDesc": "Noleggio auto a Budva. Ritiro a Tivat (22 km), centro storico di Budva, Bečići e 28+ punti. Cancellazione gratuita, opzioni di assicurazione flessibili."
   },
   "about": {
     "title": "Chi Siamo",
@@ -256,7 +256,7 @@
     },
     "2": {
       "q": "Cosa è realmente incluso nel prezzo?",
-      "a": "Ogni prenotazione include la copertura Minima gratuita (responsabilità civile verso terzi) con un deposito tipico di 100 € e l'IVA. Gli upgrade assicurativi sono extra a pagamento: Basic da 8 €/giorno, Full da 10 €/giorno e un Full Plus senza deposito da 18 €/giorno. Il chilometraggio illimitato è incluso sulla maggior parte delle auto (376 su circa 380). Gli extra prenotabili (seggiolini, Winter Pack, assicurazione infortuni, protezione antifurto, hotspot, SIM, portasci e portapacchi, scooter elettrico) si aggiungono alla tariffa base."
+      "a": "Ogni prenotazione include la copertura Minima gratuita (responsabilità civile verso terzi) con un deposito tipico di 100 € e l'IVA. Gli upgrade assicurativi sono extra a pagamento: Basic, Full e un Full Plus senza deposito. Il chilometraggio illimitato è incluso sulla maggior parte delle auto (376 su circa 380). Gli extra prenotabili (seggiolini, Winter Pack, assicurazione infortuni, protezione antifurto, hotspot, SIM, portasci e portapacchi, scooter elettrico) si aggiungono alla tariffa base."
     },
     "3": {
       "q": "Cosa è davvero incluso nel prezzo?",
@@ -272,7 +272,7 @@
     },
     "6": {
       "q": "Devo pagare un deposito?",
-      "a": "La maggior parte delle auto trattiene un deposito di 100 € al ritiro. 47 auto sulla piattaforma non richiedono alcun deposito, e altre 124 offrono un'opzione senza deposito come servizio a pagamento. Anche scegliere il livello assicurativo Full Plus (da 18 €/giorno) elimina il deposito."
+      "a": "La maggior parte delle auto trattiene un deposito di 100 € al ritiro. 47 auto sulla piattaforma non richiedono alcun deposito, e altre 124 offrono un'opzione senza deposito come servizio a pagamento. Anche scegliere il livello assicurativo Full Plus elimina il deposito."
     },
     "7": {
       "q": "Devo versare un deposito cauzionale?",
@@ -817,7 +817,7 @@
   },
   "ctaBrand": {
     "brand": "Car Rental Podgorica",
-    "tagline": "Da 13 €/giorno · Aeroporto di Podgorica (TGD) a 12 km",
+    "tagline": "Aeroporto di Podgorica (TGD) a 12 km",
     "searchCars": "Cerca auto"
   },
   "statsLabels": {
@@ -855,7 +855,7 @@
     "intro1": "Ogni veicolo è scelto per come si guida realmente a Podgorica: brevi spostamenti in centro tra appuntamenti, anelli giornalieri verso il lago Skadar o Cetinje, e lunghi tratti verso Žabljak o oltre il confine albanese.",
     "intro2": "Le opzioni economiche e da città sono dimensionate per le strette vie di Stara Varoš e l'animata via dei caffè di Hercegovačka. I diesel di media taglia sono tarati per l'autostrada Podgorica-Bar e la tratta Smokovac-Mateševo. Crossover e SUV aggiungono altezza dal suolo per i tratti di montagna più rudi.",
     "intro3": "Il prezzo indicato è la tariffa giornaliera della settimana più economica dell'anno. Tariffe a lungo termine e stagionali disponibili, chiedi alla prenotazione.",
-    "seoDesc": "Confronta le auto della nostra flotta a Podgorica. Da 20 €/giorno per le citycar economiche fino ai diesel e crossover pronti per l'autostrada, tutti con opzioni di assicurazione flessibili e ritiro all'aeroporto TGD."
+    "seoDesc": "Confronta le auto della nostra flotta a Podgorica. per le citycar economiche fino ai diesel e crossover pronti per l'autostrada, tutti con opzioni di assicurazione flessibili e ritiro all'aeroporto TGD."
   },
   "fleetShowcase": {
     "label": "Scegli un'auto",

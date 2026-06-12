@@ -136,7 +136,7 @@
     "searchCars": "Rechercher"
   },
   "home": {
-    "seoDesc": "Location de voiture à Budva dès 13 €/jour. Prise en charge à Tivat (22 km), vieille ville de Budva, Bečići et 28+ points. Annulation gratuite, options d'assurance flexibles."
+    "seoDesc": "Location de voiture à Budva. Prise en charge à Tivat (22 km), vieille ville de Budva, Bečići et 28+ points. Annulation gratuite, options d'assurance flexibles."
   },
   "about": {
     "title": "À Propos",
@@ -256,7 +256,7 @@
     },
     "2": {
       "q": "Qu'est-ce qui est réellement inclus dans le prix ?",
-      "a": "Chaque réservation comprend la couverture Minimum gratuite (responsabilité civile) avec une caution typique de 100 € et la TVA. Les améliorations d'assurance sont des extras payants : Basique à partir de 8 €/jour, Tous risques à partir de 10 €/jour et un Tous risques Plus sans caution à partir de 18 €/jour. Le kilométrage illimité est inclus sur la plupart des voitures (376 sur environ 380). Les extras réservables (sièges enfants, Winter Pack, assurance personnelle, protection vol, hotspot, SIM, porte-skis et galeries, scooter électrique) s'ajoutent au tarif de base."
+      "a": "Chaque réservation comprend la couverture Minimum gratuite (responsabilité civile) avec une caution typique de 100 € et la TVA. Les améliorations d'assurance sont des extras payants: Basique, Tous risques et un Tous risques Plus sans caution. Le kilométrage illimité est inclus sur la plupart des voitures (376 sur environ 380). Les extras réservables (sièges enfants, Winter Pack, assurance personnelle, protection vol, hotspot, SIM, porte-skis et galeries, scooter électrique) s'ajoutent au tarif de base."
     },
     "3": {
       "q": "Qu'est-ce qui est réellement inclus dans le prix ?",
@@ -272,7 +272,7 @@
     },
     "6": {
       "q": "Dois-je verser une caution ?",
-      "a": "La plupart des voitures retiennent une caution de 100 € à la prise en charge. 47 voitures de la plateforme ne demandent aucune caution, et 124 autres proposent une option sans caution comme service payant. Choisir le niveau d'assurance Tous risques Plus (à partir de 18 €/jour) supprime également la caution."
+      "a": "La plupart des voitures retiennent une caution de 100 € à la prise en charge. 47 voitures de la plateforme ne demandent aucune caution, et 124 autres proposent une option sans caution comme service payant. Choisir le niveau d'assurance Tous risques Plus supprime également la caution."
     },
     "7": {
       "q": "Dois-je verser un dépôt de garantie ?",
@@ -817,7 +817,7 @@
   },
   "ctaBrand": {
     "brand": "Car Rental Podgorica",
-    "tagline": "À partir de 13 €/jour · Aéroport de Podgorica (TGD) à 12 km",
+    "tagline": "Aéroport de Podgorica (TGD) à 12 km",
     "searchCars": "Rechercher"
   },
   "statsLabels": {
@@ -855,7 +855,7 @@
     "intro1": "Chaque véhicule est choisi pour l'usage réel à Podgorica : courts trajets entre rendez-vous au centre, boucles d'une journée vers le lac Skadar ou Cetinje, et longues échappées vers Žabljak ou la frontière albanaise.",
     "intro2": "Les options économiques et citadines sont taillées pour les ruelles de Stara Varoš et la rue animée des cafés Hercegovačka. Les diesels intermédiaires sont calibrés pour l'autoroute Podgorica-Bar et la liaison Smokovac-Mateševo. Crossovers et SUV ajoutent de la garde au sol pour les pistes de montagne plus rugueuses.",
     "intro3": "Le tarif affiché est le prix journalier de la semaine la moins chère de l'année. Tarifs longue durée et saisonniers disponibles, demandez à la réservation.",
-    "seoDesc": "Comparez les voitures de notre flotte à Podgorica. À partir de 20 €/jour pour les citadines, jusqu'aux diesels et crossovers prêts pour l'autoroute, toutes avec options d'assurance flexibles et prise en charge à l'aéroport TGD."
+    "seoDesc": "Comparez les voitures de notre flotte à Podgorica. pour les citadines, jusqu'aux diesels et crossovers prêts pour l'autoroute, toutes avec options d'assurance flexibles et prise en charge à l'aéroport TGD."
   },
   "fleetShowcase": {
     "label": "Choisir une voiture",

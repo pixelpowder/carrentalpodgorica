@@ -136,7 +136,7 @@
     "searchCars": "Pretraži Auta"
   },
   "home": {
-    "seoDesc": "Rent a car u Budvi od 13 €/dan. Preuzimanje na aerodromu Tivat (22 km), Stari grad Budva, Bečići i 28+ lokacija. Besplatno otkazivanje, fleksibilne opcije osiguranja."
+    "seoDesc": "Rent a car u Budvi. Preuzimanje na aerodromu Tivat (22 km), Stari grad Budva, Bečići i 28+ lokacija. Besplatno otkazivanje, fleksibilne opcije osiguranja."
   },
   "about": {
     "title": "O Nama",
@@ -256,7 +256,7 @@
     },
     "2": {
       "q": "Šta je zaista uključeno u cijenu?",
-      "a": "Svaka rezervacija uključuje besplatno minimalno osiguranje (od odgovornosti prema trećim licima) sa uobičajenim depozitom od 100 € i PDV. Nadogradnje osiguranja su plaćeni dodaci: Basic od 8 €/dan, Full od 10 €/dan i Full Plus bez depozita od 18 €/dan. Neograničena kilometraža uključena je na većini automobila (376 od oko 380). Dodatni servisi (dječija sjedišta, Winter Pack, osiguranje od nezgoda, zaštita od krađe, hotspot, SIM, krovni nosači i nosači za skije, električni trotinet) dodaju se na osnovnu cijenu."
+      "a": "Svaka rezervacija uključuje besplatno minimalno osiguranje (od odgovornosti prema trećim licima) sa uobičajenim depozitom od 100 € i PDV. Nadogradnje osiguranja su plaćeni dodaci: Basic, Full i Full Plus bez depozita. Neograničena kilometraža uključena je na većini automobila (376 od oko 380). Dodatni servisi (dječija sjedišta, Winter Pack, osiguranje od nezgoda, zaštita od krađe, hotspot, SIM, krovni nosači i nosači za skije, električni trotinet) dodaju se na osnovnu cijenu."
     },
     "3": {
       "q": "Šta je stvarno uključeno u cijenu?",
@@ -272,7 +272,7 @@
     },
     "6": {
       "q": "Da li je potreban depozit?",
-      "a": "Većina automobila zadržava depozit od 100 € prilikom preuzimanja. 47 automobila na platformi uopšte ne zahtijevaju depozit, a još 124 nude opciju bez depozita kao plaćenu uslugu. Odabir nivoa osiguranja Full Plus (od 18 €/dan) takođe ukida depozit."
+      "a": "Većina automobila zadržava depozit od 100 € prilikom preuzimanja. 47 automobila na platformi uopšte ne zahtijevaju depozit, a još 124 nude opciju bez depozita kao plaćenu uslugu. Odabir nivoa osiguranja Full Plus takođe ukida depozit."
     },
     "7": {
       "q": "Da li je potreban depozit?",
@@ -817,7 +817,7 @@
   },
   "ctaBrand": {
     "brand": "Car Rental Podgorica",
-    "tagline": "Od 13 €/dan · Aerodrom Podgorica (TGD) 12 km",
+    "tagline": "Aerodrom Podgorica (TGD) 12 km",
     "searchCars": "Pretraži auta"
   },
   "statsLabels": {
@@ -855,7 +855,7 @@
     "intro1": "Svako vozilo flote birano je prema stvarnoj upotrebi u Podgorici: kratke vožnje centrom između sastanaka, jednodnevne ture do Skadarskog jezera ili Cetinja, i duge vožnje u unutrašnjost do Žabljaka ili preko albanske granice.",
     "intro2": "Ekonomske i gradske opcije dimenzionisane su za uske ulice Stare Varoši i prometnu kafansku ulicu Hercegovačku. Srednji dizel modeli podešeni su za autoput Podgorica-Bar i dionicu Smokovac-Mateševo. Krosoveri i SUV-ovi dodaju klirens za grublje planinske odvojke.",
     "intro3": "Prikazana cijena je dnevna stopa najjeftinije sedmice u godini. Cijene za dugi najam i sezonu dostupne su, pitajte pri rezervaciji.",
-    "seoDesc": "Uporedite automobile naše flote u Podgorici. Od 20 €/dan ekonomični hečbeci do dizelaša i krosovera spremnih za autoput, svi sa punim osiguranjem i preuzimanjem na aerodromu TGD."
+    "seoDesc": "Uporedite automobile naše flote u Podgorici. ekonomični hečbeci do dizelaša i krosovera spremnih za autoput, svi sa punim osiguranjem i preuzimanjem na aerodromu TGD."
   },
   "fleetShowcase": {
     "label": "Izaberite auto",
